@@ -1,0 +1,6110 @@
+[
+  {
+    "type": "field",
+    "farm_id": "f0036cac-2de1-11ec-85ad-0242ac130002",
+    "location_id": "05adc6a6-2de2-11ec-beed-0242ac130002",
+    "total_area": 76403
+  },
+  {
+    "type": "field",
+    "farm_id": "46ca9068-3fb5-11eb-811c-22000ab8b02b",
+    "location_id": "47165089-7003-4318-a39e-7cb99efff1bd",
+    "total_area": 2373
+  },
+  {
+    "type": "garden",
+    "farm_id": "26fab146-ea64-11eb-8017-0242ac120002",
+    "location_id": "5f520724-ea64-11eb-9fc9-0242ac120002",
+    "total_area": 23398
+  },
+  {
+    "type": "field",
+    "farm_id": "b2fa7532-25f2-11eb-a8b0-22000b479377",
+    "location_id": "5ff17ee2-d2dd-4d34-a6c3-22bfb68e6566",
+    "total_area": 4349
+  },
+  {
+    "type": "field",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "location_id": "1344e69d-0df8-4c2a-ae1e-b25499f5ef87",
+    "total_area": 19826
+  },
+  {
+    "type": "field",
+    "farm_id": "85c82e96-6991-11eb-b6d6-22000a6ddaf5",
+    "location_id": "6d71a3b6-95a9-42ab-85f9-684e7d39a148",
+    "total_area": 177
+  },
+  {
+    "type": "residence",
+    "farm_id": "67d2acd6-8dc1-11ec-8679-0242ac120002",
+    "location_id": "0ae994d8-8dc8-11ec-a45b-0242ac120002",
+    "total_area": 58
+  },
+  {
+    "type": "field",
+    "farm_id": "543c123a-e96f-11eb-964c-0242ac120002",
+    "location_id": "844ff4a0-e96f-11eb-964c-0242ac120002",
+    "total_area": 16057
+  },
+  {
+    "type": "barn",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "8b2749e6-3338-11ec-af31-0242ac130002",
+    "total_area": 484
+  },
+  {
+    "type": "field",
+    "farm_id": "23759a6a-6f66-11ea-b9c3-22000a90b459",
+    "location_id": "187252d1-9bd0-4bc8-ad60-3887e9ae855c",
+    "total_area": 2045
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "2057ced0-ca09-11eb-acd2-0242ac120002",
+    "location_id": "907202fe-04f0-11ec-ac77-0242ac130003",
+    "total_area": 146945
+  },
+  {
+    "type": "residence",
+    "farm_id": "12e7be22-9006-11ec-b983-0242ac120002",
+    "location_id": "130ea29a-900a-11ec-80e6-0242ac120002",
+    "total_area": 346
+  },
+  {
+    "type": "garden",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "847319be-32a6-11ec-89cc-0242ac130002",
+    "total_area": 409
+  },
+  {
+    "type": "field",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "location_id": "eb9be9fa-ce22-465e-bf71-ec775aceeefa",
+    "total_area": 1835
+  },
+  {
+    "type": "field",
+    "farm_id": "2057ced0-ca09-11eb-acd2-0242ac120002",
+    "location_id": "70657080-ed0e-11eb-bad5-0242ac120002",
+    "total_area": 5763
+  },
+  {
+    "type": "field",
+    "farm_id": "5f204b98-e1a1-11ea-9eb5-22000ab40d92",
+    "location_id": "aeac718b-12d7-4ab2-9288-67b32830ccd2",
+    "total_area": 4428
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "dcd91532-27a1-11ec-9fa9-0242ac130003",
+    "location_id": "a9a3f76e-48ac-11ec-ab6a-0242ac130002",
+    "total_area": 3780
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "location_id": "aeb6b37c-3114-11ec-beef-0242ac130002",
+    "total_area": 708
+  },
+  {
+    "type": "barn",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "location_id": "6f8b9600-1002-11ec-a570-0242ac130003",
+    "total_area": 165
+  },
+  {
+    "type": "field",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "location_id": "1f31e024-2e98-44e4-9837-80f52d8ab010",
+    "total_area": 50614
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "2faba540-d379-11eb-a746-0242ac120002",
+    "location_id": "7a2a430e-17cd-11ec-a67a-0242ac130003",
+    "total_area": 51850
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "9c4b5624-3057-11ec-966d-0242ac130002",
+    "total_area": 26138
+  },
+  {
+    "type": "field",
+    "farm_id": "85c82e96-6991-11eb-b6d6-22000a6ddaf5",
+    "location_id": "1e9b21ef-de09-4950-ac24-c707a54e4a23",
+    "total_area": 1402
+  },
+  {
+    "type": "field",
+    "farm_id": "a17f90dc-33bb-11ea-9707-22000b8600fb",
+    "location_id": "c119a060-2031-4c0c-b522-b50e01378182",
+    "total_area": 1425
+  },
+  {
+    "type": "field",
+    "farm_id": "738b98d4-15a1-11ea-9832-22000b628b95",
+    "location_id": "c3f4670b-88ec-44b7-b6ea-d49de9a286b2",
+    "total_area": 79990
+  },
+  {
+    "type": "field",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "location_id": "11a025e2-78b7-11ec-9c98-0242ac130004",
+    "total_area": 2972
+  },
+  {
+    "type": "field",
+    "farm_id": "13480dde-a9f4-11eb-ad5b-0242ac130002",
+    "location_id": "56315d09-e4ae-4cf7-a0a6-6d82d3c906d1",
+    "total_area": 2119
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "location_id": "e3284ad4-3101-11ec-a43e-0242ac130002",
+    "total_area": 20
+  },
+  {
+    "type": "garden",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "e6e967f0-74b0-11ec-9c0e-0242ac130004",
+    "total_area": 1066
+  },
+  {
+    "type": "field",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "location_id": "3563ad6a-8dc9-11ec-924b-0242ac120002",
+    "total_area": 14472
+  },
+  {
+    "type": "field",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "90268b1a-52d6-11ec-abf4-0242ac130002",
+    "total_area": 341376
+  },
+  {
+    "type": "field",
+    "farm_id": "efc2bbd6-697d-11eb-b6d7-22000a6ddaf5",
+    "location_id": "759e5241-d90e-4c22-a356-af2f84811a33",
+    "total_area": 561
+  },
+  {
+    "type": "field",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "location_id": "8fb51408-12e1-40dc-aaa8-6e91e02534f0",
+    "total_area": 783
+  },
+  {
+    "type": "field",
+    "farm_id": "498218c8-a5f2-11eb-96c6-0242ac130002",
+    "location_id": "0aad7aca-e61c-4bfe-a2f0-1b1d25095f91",
+    "total_area": 65851
+  },
+  {
+    "type": "field",
+    "farm_id": "49930bf8-5efb-11eb-b0bd-22000ab2b8c4",
+    "location_id": "aec9bc86-0fe1-416b-b5f6-5b0fc8b34aec",
+    "total_area": 20934
+  },
+  {
+    "type": "field",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "location_id": "47f5243e-313c-11ec-b91e-0242ac130002",
+    "total_area": 2.972900157006
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "location_id": "07ebbdc2-5c42-11ec-b9d1-0242ac130002",
+    "total_area": 275
+  },
+  {
+    "type": "field",
+    "farm_id": "2621e95c-04f9-11eb-b8bd-22000a41d56e",
+    "location_id": "0c2b2e6c-6109-44bd-89c2-2ddf002dfc0d",
+    "total_area": 4808
+  },
+  {
+    "type": "field",
+    "farm_id": "14661188-0f77-11eb-a91b-22000bb9251f",
+    "location_id": "b935992c-6784-43df-bf23-a20d84f60192",
+    "total_area": 249150
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "26fab146-ea64-11eb-8017-0242ac120002",
+    "location_id": "4d9b17b4-ea64-11eb-9fc9-0242ac120002",
+    "total_area": 24530
+  },
+  {
+    "type": "field",
+    "farm_id": "4e6860bc-8677-11eb-ba60-0a7facd3678d",
+    "location_id": "eb134c56-ffd9-4ef0-8dbc-31479295e5c1",
+    "total_area": 138
+  },
+  {
+    "type": "field",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "location_id": "0a06cf52-31d2-4e66-9757-13c776b571ad",
+    "total_area": 42925
+  },
+  {
+    "type": "field",
+    "farm_id": "cae26ecc-53cd-11ea-9e9b-22000a946868",
+    "location_id": "c304d14f-fac5-4406-a4ab-d818d0d80384",
+    "total_area": 8674
+  },
+  {
+    "type": "field",
+    "farm_id": "24e8ee66-97cd-11eb-ae5e-121a0e444ae7",
+    "location_id": "ac56ea0a-c253-4cdc-9ab4-178700b7b131",
+    "total_area": 941
+  },
+  {
+    "type": "field",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "location_id": "7cab15b8-3b28-4818-91de-eb39a297a881",
+    "total_area": 485
+  },
+  {
+    "type": "barn",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "15dc03ca-3388-11ec-861f-0242ac130002",
+    "total_area": 452318
+  },
+  {
+    "type": "field",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "location_id": "e674763c-8de4-11ec-8334-0242ac120002",
+    "total_area": 7128
+  },
+  {
+    "type": "field",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "location_id": "cb7fd702-569b-436b-85c1-d99fbad3571a",
+    "total_area": 496
+  },
+  {
+    "type": "field",
+    "farm_id": "6909d532-5f98-11eb-be71-22000ab2b8c4",
+    "location_id": "ed4e8159-598d-4905-9bfe-014ceb1f16c5",
+    "total_area": 74
+  },
+  {
+    "type": "field",
+    "farm_id": "8cb64c78-1ad2-11eb-909a-22000bb9251f",
+    "location_id": "9d2855ab-07bd-436a-8a3b-14e339d0a7de",
+    "total_area": 122773
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "location_id": "f4c744ca-3110-11ec-b2bf-0242ac130002",
+    "total_area": 22368
+  },
+  {
+    "type": "field",
+    "farm_id": "ba231718-09f6-11ec-9fa3-0242ac130003",
+    "location_id": "b8c948a2-0a5e-11ec-a7c8-0242ac130003",
+    "total_area": 8793
+  },
+  {
+    "type": "field",
+    "farm_id": "74075442-876a-11eb-8b30-0a7facd3678d",
+    "location_id": "c10ee43a-2a74-4277-a967-269811a50924",
+    "total_area": 204
+  },
+  {
+    "type": "field",
+    "farm_id": "030deafa-1dfa-11eb-b7f5-22000bb9251f",
+    "location_id": "9b150ca4-5e95-45f1-ac74-c78d1d71b7b5",
+    "total_area": 9474
+  },
+  {
+    "type": "field",
+    "farm_id": "c6dbbc80-4e8b-11ea-b0b8-22000a946868",
+    "location_id": "9e984391-5681-4ed4-bbdc-cdbb3306312c",
+    "total_area": 115205
+  },
+  {
+    "type": "field",
+    "farm_id": "3b5d50f8-5b68-11ea-8d8e-22000a946868",
+    "location_id": "d83810e5-9a12-47a2-b7a3-9b0098daed5f",
+    "total_area": 147
+  },
+  {
+    "type": "field",
+    "farm_id": "b92fd016-708c-11eb-974a-22000a6ddaf5",
+    "location_id": "3153f0a9-9345-4ef2-985f-96bfb932e41a",
+    "total_area": 3040
+  },
+  {
+    "type": "field",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "8277e8b6-faba-11eb-be62-0242ac120002",
+    "total_area": 317653
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "8298d7cf-2dad-43b9-ac88-507dfc6ee9c3",
+    "total_area": 418
+  },
+  {
+    "type": "field",
+    "farm_id": "24e8ee66-97cd-11eb-ae5e-121a0e444ae7",
+    "location_id": "7de6ec88-f29a-4601-a37a-73aa94945f1e",
+    "total_area": 769
+  },
+  {
+    "type": "field",
+    "farm_id": "4a55070e-74df-11eb-b111-22000a6ddaf5",
+    "location_id": "9ef4303a-21bd-4a03-9b0c-220602e88972",
+    "total_area": 609
+  },
+  {
+    "type": "field",
+    "farm_id": "64929650-5f4a-11ea-990a-22000a946868",
+    "location_id": "e2375986-d090-4077-a508-04a00880565d",
+    "total_area": 2098
+  },
+  {
+    "type": "field",
+    "farm_id": "5adb6ee8-56ca-11eb-abff-22000ab2b8c4",
+    "location_id": "c374dc70-13a3-4fc2-94e1-3305b696d5f2",
+    "total_area": 123133
+  },
+  {
+    "type": "field",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "8796254c-09c4-11ec-8e87-0242ac130003",
+    "total_area": 146
+  },
+  {
+    "type": "field",
+    "farm_id": "ec74425a-7ca7-11eb-a260-22000a6ddaf5",
+    "location_id": "ec2919a0-8724-42ab-b086-307a6370c7e0",
+    "total_area": 4325
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "78d3d662-faba-11eb-be62-0242ac120002",
+    "total_area": 147553
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "640c029a-305c-11ec-a382-0242ac130002",
+    "total_area": 120488
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "2ddbf4c4-333a-11ec-af31-0242ac130002",
+    "total_area": 10549
+  },
+  {
+    "type": "field",
+    "farm_id": "b6e8494e-7a24-11ec-a3b6-0242ac130004",
+    "location_id": "a9e7c502-7a25-11ec-82be-0242ac130004",
+    "total_area": 63298
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "d7b68fbc-74a4-11ec-b479-0242ac130004",
+    "location_id": "62786d32-74a5-11ec-b479-0242ac130004",
+    "total_area": 134
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "7880107a-eeb8-4946-a7a5-fc4b9d4ab9bf",
+    "total_area": 322
+  },
+  {
+    "type": "barn",
+    "farm_id": "f59b2634-305a-11ec-ad47-0242ac130002",
+    "location_id": "9f02bad2-305d-11ec-8256-0242ac130002",
+    "total_area": 168955
+  },
+  {
+    "type": "residence",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "location_id": "6a75161c-38fe-11ec-b698-0242ac130002",
+    "total_area": 383
+  },
+  {
+    "type": "field",
+    "farm_id": "fa3ad1ac-7278-11ec-ac7e-0242ac130002",
+    "location_id": "6292a912-7361-11ec-a8e3-0242ac130004",
+    "total_area": 20803
+  },
+  {
+    "type": "field",
+    "farm_id": "ada12ff6-100f-11ec-8ebd-0242ac130003",
+    "location_id": "a6cfa63e-20a0-11ec-a402-0242ac130003",
+    "total_area": 980
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "d1b53e6a-38e5-11ec-a075-0242ac130002",
+    "location_id": "13532530-38e6-11ec-a075-0242ac130002",
+    "total_area": 27731
+  },
+  {
+    "type": "field",
+    "farm_id": "6bd9469a-87fb-11eb-a9dd-0a7facd3678d",
+    "location_id": "3fcdcd12-d832-4b58-b345-2bbb4d378325",
+    "total_area": 1130
+  },
+  {
+    "type": "field",
+    "farm_id": "265a23ec-663f-11eb-8216-22000ab2b8c4",
+    "location_id": "3c2b1e92-f187-4112-99ca-2674af994921",
+    "total_area": 60651
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "2cd3826e-d47a-11eb-a748-0242ac120002",
+    "location_id": "3f9e3c08-d47b-11eb-a748-0242ac120002",
+    "total_area": 971
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "location_id": "967a785e-310d-11ec-a386-0242ac130002",
+    "total_area": 1841
+  },
+  {
+    "type": "field",
+    "farm_id": "f8f001ca-57e2-11eb-acc7-22000ab2b8c4",
+    "location_id": "660a5448-bd29-4075-8244-633c60d9faea",
+    "total_area": 600424
+  },
+  {
+    "type": "field",
+    "farm_id": "09bec2bc-3b1d-11eb-a4ba-22000ab8b02b",
+    "location_id": "f794e571-5b17-45ea-82fa-8a38ff435a4d",
+    "total_area": 7803
+  },
+  {
+    "type": "field",
+    "farm_id": "b69b79a8-8609-11eb-b046-0a7facd3678d",
+    "location_id": "047bae4c-b825-421b-bd63-9afb45d86ec6",
+    "total_area": 1363
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "f66827ea-305c-11ec-8256-0242ac130002",
+    "total_area": 45150
+  },
+  {
+    "type": "field",
+    "farm_id": "23954784-1df3-11eb-98b7-22000bb9251f",
+    "location_id": "3814917f-8efb-42dc-a7b1-a273ec9b63b4",
+    "total_area": 4087
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "location_id": "b0289b88-25f4-11ec-8078-0242ac130003",
+    "total_area": 23957
+  },
+  {
+    "type": "field",
+    "farm_id": "d8e2b39a-2098-11eb-b04b-22000bb9251f",
+    "location_id": "6683623a-0147-4837-b734-6eb9ec0122dd",
+    "total_area": 697154
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "12e7be22-9006-11ec-b983-0242ac120002",
+    "location_id": "8bcaf832-900a-11ec-80e6-0242ac120002",
+    "total_area": 8082
+  },
+  {
+    "type": "field",
+    "farm_id": "9dce7026-7d92-11eb-a1e8-22000a6ddaf5",
+    "location_id": "f4eb2831-dd09-4507-8c3c-98d0f098d8e6",
+    "total_area": 4257
+  },
+  {
+    "type": "field",
+    "farm_id": "49930bf8-5efb-11eb-b0bd-22000ab2b8c4",
+    "location_id": "10d98cbe-c095-4d35-9cca-64c81cae182d",
+    "total_area": 17439
+  },
+  {
+    "type": "field",
+    "farm_id": "b4ffdf28-304d-11ec-bbea-0242ac130002",
+    "location_id": "c841892e-304d-11ec-addd-0242ac130002",
+    "total_area": 59986
+  },
+  {
+    "type": "field",
+    "farm_id": "3b5d50f8-5b68-11ea-8d8e-22000a946868",
+    "location_id": "842841dc-3354-4422-8f96-59eed1e0af46",
+    "total_area": 26
+  },
+  {
+    "type": "garden",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "e15c19c2-3338-11ec-af31-0242ac130002",
+    "total_area": 975
+  },
+  {
+    "type": "field",
+    "farm_id": "3b5d50f8-5b68-11ea-8d8e-22000a946868",
+    "location_id": "40e6bc17-b6fa-4820-92c0-7bcd77189a2d",
+    "total_area": 390
+  },
+  {
+    "type": "field",
+    "farm_id": "69fc26da-7289-11eb-989c-22000a6ddaf5",
+    "location_id": "9b761f5f-8fe1-49ef-ac5c-2f53f17087f2",
+    "total_area": 56075
+  },
+  {
+    "type": "field",
+    "farm_id": "56012ffe-449e-11eb-907c-22000ab8b02b",
+    "location_id": "829c973d-29d6-4c56-b996-7363cacf10c5",
+    "total_area": 41533
+  },
+  {
+    "type": "field",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "e6b6ae50-314e-11ec-8a34-0242ac130002",
+    "total_area": 2300
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "cbc89e6e-3338-11ec-af31-0242ac130002",
+    "total_area": 235
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "7de0efca-3375-11ec-a1e6-0242ac130002",
+    "total_area": 9222
+  },
+  {
+    "type": "field",
+    "farm_id": "40189f38-6947-11eb-b52b-22000a6ddaf5",
+    "location_id": "f472d49c-1821-44f8-a1a6-30cb9851bdc5",
+    "total_area": 1020
+  },
+  {
+    "type": "field",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "location_id": "d196723a-386a-11ec-a1d5-0242ac130002",
+    "total_area": 5378
+  },
+  {
+    "type": "field",
+    "farm_id": "67d2acd6-8dc1-11ec-8679-0242ac120002",
+    "location_id": "e3a68c1a-8dcb-11ec-924b-0242ac120002",
+    "total_area": 926
+  },
+  {
+    "type": "field",
+    "farm_id": "63819c1e-6168-11ea-8e16-22000a946868",
+    "location_id": "4a74009e-6456-4dcf-9b76-965a68c3d8cf",
+    "total_area": 2455
+  },
+  {
+    "type": "field",
+    "farm_id": "c6dbbc80-4e8b-11ea-b0b8-22000a946868",
+    "location_id": "66ecdb40-6c7e-44e7-bba3-ec95918f2e85",
+    "total_area": 20514
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "location_id": "e0ad2d9a-8dc9-11ec-924b-0242ac120002",
+    "total_area": 16582
+  },
+  {
+    "type": "garden",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "5e86c7ca-7a48-11ec-9b12-0242ac130004",
+    "total_area": 6075190
+  },
+  {
+    "type": "field",
+    "farm_id": "4fe32276-9868-11eb-984d-121a0e444ae7",
+    "location_id": "118697e3-55af-4905-923d-b2a3f7f602c5",
+    "total_area": 392475
+  },
+  {
+    "type": "field",
+    "farm_id": "3b5d50f8-5b68-11ea-8d8e-22000a946868",
+    "location_id": "058aaf82-6a5e-4885-b2c0-6778edced270",
+    "total_area": 46
+  },
+  {
+    "type": "field",
+    "farm_id": "6146b532-a911-11eb-a5ba-0242ac130002",
+    "location_id": "eceb0a3e-2a7a-4ea2-8b42-324b61e38914",
+    "total_area": 5653
+  },
+  {
+    "type": "field",
+    "farm_id": "40189f38-6947-11eb-b52b-22000a6ddaf5",
+    "location_id": "869ce0af-88ee-4468-81ab-4a9413cd4b67",
+    "total_area": 39
+  },
+  {
+    "type": "field",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "location_id": "316a3874-d09d-48a0-97e3-44c1a8ab7286",
+    "total_area": 1426
+  },
+  {
+    "type": "residence",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "location_id": "9d5f00d0-32a3-11ec-89cc-0242ac130002",
+    "total_area": 161.999832774366
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "849eb168-d479-11eb-a748-0242ac120002",
+    "location_id": "e7a149c8-d47a-11eb-8807-0242ac120002",
+    "total_area": 297094
+  },
+  {
+    "type": "field",
+    "farm_id": "49070da6-5b6e-11ea-8a5d-22000a946868",
+    "location_id": "ab99d99e-9906-45b1-9462-0efaf8bd2b0f",
+    "total_area": 447
+  },
+  {
+    "type": "field",
+    "farm_id": "c4b562fa-045e-11ec-b69e-0242ac130003",
+    "location_id": "2da25c66-09da-11ec-bb8f-0242ac130003",
+    "total_area": 297
+  },
+  {
+    "type": "field",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "location_id": "2919a04a-78b7-11ec-9c98-0242ac130004",
+    "total_area": 28959
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "dcd91532-27a1-11ec-9fa9-0242ac130003",
+    "location_id": "93f1ab96-48ac-11ec-ab6a-0242ac130002",
+    "total_area": 79
+  },
+  {
+    "type": "field",
+    "farm_id": "80f40382-706b-11eb-a75c-22000a6ddaf5",
+    "location_id": "93c852cb-fb76-4da0-9a04-bd620c9bb4d4",
+    "total_area": 33278
+  },
+  {
+    "type": "garden",
+    "farm_id": "8bda0e20-4485-11eb-995c-22000ab8b02b",
+    "location_id": "c490227a-c4ac-11eb-ba71-0242ac120002",
+    "total_area": 110
+  },
+  {
+    "type": "barn",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "86007e18-5c6b-11ec-8d2b-0242ac130002",
+    "total_area": 503
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "d9c0e5c3-b968-4915-9c42-ba637a44de6c",
+    "total_area": 95738
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "50857a22-314b-11ec-8a34-0242ac130002",
+    "total_area": 150
+  },
+  {
+    "type": "field",
+    "farm_id": "6909d532-5f98-11eb-be71-22000ab2b8c4",
+    "location_id": "895f8f61-d82b-41fd-9c52-d5fb7d74b3a1",
+    "total_area": 185
+  },
+  {
+    "type": "field",
+    "farm_id": "bffaf254-5b25-11ea-a6b6-22000a946868",
+    "location_id": "f1320173-255c-4478-8daa-f086fe219e18",
+    "total_area": 788
+  },
+  {
+    "type": "field",
+    "farm_id": "d0f04e5c-3e4f-11eb-980b-22000ab8b02b",
+    "location_id": "d267cf33-4de8-445e-a8a2-782d20e5cb6a",
+    "total_area": 175190
+  },
+  {
+    "type": "field",
+    "farm_id": "9322d2c6-90ab-11eb-85b5-0a7facd3678d",
+    "location_id": "c7b2087b-ea5b-4f8c-bbbd-72027012feb4",
+    "total_area": 74619
+  },
+  {
+    "type": "barn",
+    "farm_id": "b4ffdf28-304d-11ec-bbea-0242ac130002",
+    "location_id": "fade8894-3054-11ec-966d-0242ac130002",
+    "total_area": 356800
+  },
+  {
+    "type": "residence",
+    "farm_id": "dcd91532-27a1-11ec-9fa9-0242ac130003",
+    "location_id": "8c347584-2cfd-11ec-9b06-0242ac130002",
+    "total_area": 97
+  },
+  {
+    "type": "field",
+    "farm_id": "4a55070e-74df-11eb-b111-22000a6ddaf5",
+    "location_id": "292f86fb-eac1-4537-99d1-9f46659d4336",
+    "total_area": 1747
+  },
+  {
+    "type": "residence",
+    "farm_id": "d7b68fbc-74a4-11ec-b479-0242ac130004",
+    "location_id": "4e0430a2-74a5-11ec-b479-0242ac130004",
+    "total_area": 205
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "location_id": "6e71133c-25f4-11ec-8078-0242ac130003",
+    "total_area": 171
+  },
+  {
+    "type": "field",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "23a779f4-09c5-11ec-9c3c-0242ac130003",
+    "total_area": 36951
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "location_id": "89265052-8dc8-11ec-a45b-0242ac120002",
+    "total_area": 1721517
+  },
+  {
+    "type": "barn",
+    "farm_id": "b5ebef20-3035-11ec-93d7-0242ac130002",
+    "location_id": "0ada03f2-33ae-11ec-9edd-0242ac130002",
+    "total_area": 13707
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "1a14ba6f-97cc-4203-ba09-9eac2377512a",
+    "total_area": 331
+  },
+  {
+    "type": "barn",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "d7c1e374-2177-11ec-a651-0242ac130003",
+    "total_area": 686435
+  },
+  {
+    "type": "field",
+    "farm_id": "46ca9068-3fb5-11eb-811c-22000ab8b02b",
+    "location_id": "181cc87b-bbaa-4d6b-b781-09736c254758",
+    "total_area": 3118
+  },
+  {
+    "type": "field",
+    "farm_id": "40189f38-6947-11eb-b52b-22000a6ddaf5",
+    "location_id": "aad72f54-3308-4a40-a7ae-a2f45b3a7f5d",
+    "total_area": 140
+  },
+  {
+    "type": "garden",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "location_id": "f2058d04-c889-11eb-8c75-0242ac120002",
+    "total_area": 22749
+  },
+  {
+    "type": "field",
+    "farm_id": "0e0770ac-549b-11eb-be7b-22000ab2b8c4",
+    "location_id": "d5f15296-b8d8-4a67-9a62-7ca91a181a95",
+    "total_area": 22133
+  },
+  {
+    "type": "field",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "location_id": "bad7a106-3205-11ec-878f-0242ac130002",
+    "total_area": 6053
+  },
+  {
+    "type": "garden",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "location_id": "9cce796c-5c41-11ec-b9d1-0242ac130002",
+    "total_area": 2906
+  },
+  {
+    "type": "field",
+    "farm_id": "9322d2c6-90ab-11eb-85b5-0a7facd3678d",
+    "location_id": "692bd692-4f82-41c4-9ae1-b0422d791f2e",
+    "total_area": 13288
+  },
+  {
+    "type": "field",
+    "farm_id": "24e8ee66-97cd-11eb-ae5e-121a0e444ae7",
+    "location_id": "850e75d2-f9ea-4791-b9d8-c5b74ed079ac",
+    "total_area": 825
+  },
+  {
+    "type": "field",
+    "farm_id": "82b693b2-0f75-11eb-a2e7-22000bb9251f",
+    "location_id": "2d855e9a-4a6c-4995-9fe8-df132508ee49",
+    "total_area": 52705
+  },
+  {
+    "type": "field",
+    "farm_id": "e0309a1a-a116-11ea-a0a6-22000ba8027d",
+    "location_id": "67a9c0b2-5b1d-4686-8c69-a1ca7adce7fe",
+    "total_area": 37311
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "43c2aaba-7b3e-4439-8387-b6e20ee4814b",
+    "total_area": 469
+  },
+  {
+    "type": "field",
+    "farm_id": "256b2bde-3039-11eb-81d1-22000b479377",
+    "location_id": "4838ab21-bfb1-4644-9a3c-a15fa659943e",
+    "total_area": 162438
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "location_id": "6f3de4f0-32a3-11ec-89cc-0242ac130002",
+    "total_area": 53
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "4c03dbd0-31e4-11ec-b001-0242ac130002",
+    "total_area": 2210
+  },
+  {
+    "type": "field",
+    "farm_id": "e3d004c6-59c1-11eb-a2f3-22000ab2b8c4",
+    "location_id": "9b3af1b1-d761-465d-ad00-03c5b087fa54",
+    "total_area": 894
+  },
+  {
+    "type": "field",
+    "farm_id": "df4d988c-a930-11eb-b942-0242ac130002",
+    "location_id": "98302b98-8c1e-4f18-b6cb-dcae738b9179",
+    "total_area": 1049
+  },
+  {
+    "type": "field",
+    "farm_id": "64427996-610f-11eb-ae3e-22000ab2b8c4",
+    "location_id": "1c95c32a-ea8f-4a20-a4e7-b387ab0c0239",
+    "total_area": 246
+  },
+  {
+    "type": "field",
+    "farm_id": "bf1354e0-17a4-11ea-a8d4-22000b628b95",
+    "location_id": "470712ae-0429-46d2-81f7-de5d2e9732c7",
+    "total_area": 288
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "location_id": "9e65b944-38ff-11ec-b288-0242ac130002",
+    "total_area": 6732
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "fa61c997-5004-41a2-9e09-0c93b983fb3e",
+    "total_area": 28216
+  },
+  {
+    "type": "field",
+    "farm_id": "a26db2c2-c4a5-11eb-ba71-0242ac120002",
+    "location_id": "a5f003a2-c872-11eb-89a8-0242ac120002",
+    "total_area": 1086112
+  },
+  {
+    "type": "barn",
+    "farm_id": "d7b68fbc-74a4-11ec-b479-0242ac130004",
+    "location_id": "3443a684-74a5-11ec-b479-0242ac130004",
+    "total_area": 2826
+  },
+  {
+    "type": "field",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "location_id": "e7fa6324-26f4-11ec-8c51-0242ac130003",
+    "total_area": 156
+  },
+  {
+    "type": "field",
+    "farm_id": "6c180c04-3e40-11eb-9e95-22000ab8b02b",
+    "location_id": "eb417f4e-6cc6-4085-9276-a22ad9bdba35",
+    "total_area": 3351
+  },
+  {
+    "type": "field",
+    "farm_id": "4e9ff8d8-0fd0-11eb-95a5-22000bb9251f",
+    "location_id": "1881f59a-c7ca-4bcf-a20b-746614dc18af",
+    "total_area": 693758
+  },
+  {
+    "type": "field",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "location_id": "0fe42701-45e8-4aea-bd51-bd3a545bad88",
+    "total_area": 1997
+  },
+  {
+    "type": "field",
+    "farm_id": "d49b0838-c812-11eb-b18a-0242ac120002",
+    "location_id": "7f732280-20a2-11ec-880c-0242ac130003",
+    "total_area": 1903
+  },
+  {
+    "type": "field",
+    "farm_id": "df5a222a-2fde-11ec-b2a3-0242ac130002",
+    "location_id": "0240b196-2fdf-11ec-85e9-0242ac130002",
+    "total_area": 169057
+  },
+  {
+    "type": "field",
+    "farm_id": "fe00b8e4-df69-11eb-8c12-0242ac120002",
+    "location_id": "3d5fa7a2-df6a-11eb-a9df-0242ac120002",
+    "total_area": 1981
+  },
+  {
+    "type": "field",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "location_id": "507773d4-5c41-11ec-b9d1-0242ac130002",
+    "total_area": 47080
+  },
+  {
+    "type": "field",
+    "farm_id": "adfa74a4-1592-11ea-a501-22000b628b95",
+    "location_id": "3591e855-1e2e-4eff-9455-29fddf8dda1a",
+    "total_area": 1682
+  },
+  {
+    "type": "field",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "location_id": "350ed05a-39d8-11ec-99eb-0242ac130002",
+    "total_area": 106100
+  },
+  {
+    "type": "field",
+    "farm_id": "c72c9a86-0fd0-11eb-986d-22000bb9251f",
+    "location_id": "b6e88f57-0911-4a85-ac18-00d12ea1ffb9",
+    "total_area": 115883
+  },
+  {
+    "type": "field",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "954795b0-31d6-11ec-80b9-0242ac130002",
+    "total_area": 839
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "b6e8494e-7a24-11ec-a3b6-0242ac130004",
+    "location_id": "8b7ca782-8b54-11ec-8ae1-0242ac130004",
+    "total_area": 19580
+  },
+  {
+    "type": "field",
+    "farm_id": "53c1be52-448a-11eb-a348-22000ab8b02b",
+    "location_id": "345a28ff-8817-4bbf-8c7b-50aa8a366007",
+    "total_area": 26274
+  },
+  {
+    "type": "barn",
+    "farm_id": "b4ffdf28-304d-11ec-bbea-0242ac130002",
+    "location_id": "cbabf9d0-3054-11ec-966d-0242ac130002",
+    "total_area": 140241
+  },
+  {
+    "type": "field",
+    "farm_id": "26fab146-ea64-11eb-8017-0242ac120002",
+    "location_id": "441e2104-ea64-11eb-9fc9-0242ac120002",
+    "total_area": 294467
+  },
+  {
+    "type": "field",
+    "farm_id": "f1f7fa7e-333b-11eb-a5b4-22000b479377",
+    "location_id": "da25b8bf-0408-481b-8c7c-f3180588b577",
+    "total_area": 4760
+  },
+  {
+    "type": "field",
+    "farm_id": "93ff6ae6-568c-11eb-b79e-22000ab2b8c4",
+    "location_id": "54ca6fbc-6a5a-46de-91cc-1aeca7bbfce9",
+    "total_area": 1976
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "f8278254-cb2a-4875-aa19-d9eb4b88a66c",
+    "total_area": 446
+  },
+  {
+    "type": "field",
+    "farm_id": "d68bad7a-6ff5-11eb-a53d-22000a6ddaf5",
+    "location_id": "fa17f50e-28f4-4356-a142-e69db899b616",
+    "total_area": 1202
+  },
+  {
+    "type": "field",
+    "farm_id": "256b2bde-3039-11eb-81d1-22000b479377",
+    "location_id": "55aa81b8-3515-49b0-8c0b-2fb2020ac199",
+    "total_area": 299510
+  },
+  {
+    "type": "field",
+    "farm_id": "5f88170c-4915-11ea-ae5e-22000b8600fb",
+    "location_id": "6e252a68-95a9-4e1c-a7fe-594064de37d7",
+    "total_area": 7928
+  },
+  {
+    "type": "barn",
+    "farm_id": "9727d474-78d2-11ec-9d16-0242ac130004",
+    "location_id": "50da3698-7a48-11ec-be07-0242ac130004",
+    "total_area": 152180
+  },
+  {
+    "type": "field",
+    "farm_id": "236266b0-22b8-11eb-ab01-22000bb9251f",
+    "location_id": "6eee4fa3-2857-42c3-bf86-8c52ea7e6794",
+    "total_area": 453
+  },
+  {
+    "type": "field",
+    "farm_id": "85c82e96-6991-11eb-b6d6-22000a6ddaf5",
+    "location_id": "3e983c6d-314d-4d95-9d66-cfeaf175911b",
+    "total_area": 68
+  },
+  {
+    "type": "field",
+    "farm_id": "1fd14056-4497-11eb-9f96-22000ab8b02b",
+    "location_id": "6aa7dd29-65df-44b8-bb4d-9a0cf2714061",
+    "total_area": 17767
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "f0d88c1c-3150-11ec-8a34-0242ac130002",
+    "total_area": 587
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "5cce4824-31e4-11ec-b001-0242ac130002",
+    "total_area": 542
+  },
+  {
+    "type": "field",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "location_id": "14eb984d-9d5a-4751-95a4-d6fe83cc6e94",
+    "total_area": 311
+  },
+  {
+    "type": "field",
+    "farm_id": "79ee2c62-81bd-11eb-b5a4-0a7facd3678d",
+    "location_id": "ae3a69e8-62c5-488d-a1a8-0c83d856e3f5",
+    "total_area": 726
+  },
+  {
+    "type": "garden",
+    "farm_id": "dcd91532-27a1-11ec-9fa9-0242ac130003",
+    "location_id": "8acb9a12-2dff-11ec-9e73-0242ac130002",
+    "total_area": 278
+  },
+  {
+    "type": "field",
+    "farm_id": "24e8ee66-97cd-11eb-ae5e-121a0e444ae7",
+    "location_id": "2e124495-b50d-4576-8dff-5518618f6f37",
+    "total_area": 49
+  },
+  {
+    "type": "field",
+    "farm_id": "11359696-a438-11ea-8857-22000ba8027d",
+    "location_id": "6d79de56-3665-4bdb-aeb6-a9504e4b70e2",
+    "total_area": 277
+  },
+  {
+    "type": "field",
+    "farm_id": "b801b34a-667c-11eb-a75b-22000ab2b8c4",
+    "location_id": "f8926f16-4713-4360-9eb4-ce4ca1368d32",
+    "total_area": 162
+  },
+  {
+    "type": "field",
+    "farm_id": "d7603eb0-6b4e-11eb-9d12-22000a6ddaf5",
+    "location_id": "8c4a66f6-d341-410d-b75d-788a1caee4d8",
+    "total_area": 46
+  },
+  {
+    "type": "field",
+    "farm_id": "c1ac956e-6784-11eb-bf4c-22000ab2b8c4",
+    "location_id": "904850ab-d678-489f-bb3b-c7bffd2c3de0",
+    "total_area": 55
+  },
+  {
+    "type": "field",
+    "farm_id": "79ee2c62-81bd-11eb-b5a4-0a7facd3678d",
+    "location_id": "8178a757-bd60-4d31-92db-42d0af4f705a",
+    "total_area": 254
+  },
+  {
+    "type": "field",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "efb49bfe-1748-11ec-b817-0242ac130003",
+    "total_area": 20381
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "location_id": "233b81fc-32a3-11ec-89cc-0242ac130002",
+    "total_area": 6
+  },
+  {
+    "type": "field",
+    "farm_id": "9e30293c-6128-11eb-87f7-22000ab2b8c4",
+    "location_id": "b7e3fcf7-1797-4a00-8d12-2edbcb755e69",
+    "total_area": 22749
+  },
+  {
+    "type": "field",
+    "farm_id": "24e8ee66-97cd-11eb-ae5e-121a0e444ae7",
+    "location_id": "fe4045dd-7993-494a-be89-757a9a4812e5",
+    "total_area": 862
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "location_id": "298b5fa6-30ef-11ec-869c-0242ac130002",
+    "total_area": 328
+  },
+  {
+    "type": "field",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "41d5c742-df3a-11eb-b6ff-0242ac120002",
+    "total_area": 297937
+  },
+  {
+    "type": "field",
+    "farm_id": "d4b9a7b0-27a5-11eb-8123-22000b479377",
+    "location_id": "fc295438-7914-43c6-978b-38328d107708",
+    "total_area": 687
+  },
+  {
+    "type": "field",
+    "farm_id": "79ee2c62-81bd-11eb-b5a4-0a7facd3678d",
+    "location_id": "00b9dc3a-0c62-441a-8392-5633d9e01342",
+    "total_area": 6894
+  },
+  {
+    "type": "field",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "location_id": "947e2038-2621-11ec-b499-0242ac130003",
+    "total_area": 312
+  },
+  {
+    "type": "field",
+    "farm_id": "67d2acd6-8dc1-11ec-8679-0242ac120002",
+    "location_id": "5e7d9110-8dca-11ec-924b-0242ac120002",
+    "total_area": 2401
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "00cc6abb-a91c-4eee-ad22-b40752c056cc",
+    "total_area": 52683
+  },
+  {
+    "type": "field",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "location_id": "6acf0d50-5c41-11ec-b9d1-0242ac130002",
+    "total_area": 58338
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "location_id": "1579259a-32a0-11ec-89cc-0242ac130002",
+    "total_area": 29
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "def1ad8c-32ca-11ec-8d00-0242ac130002",
+    "total_area": 528351
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "26fab146-ea64-11eb-8017-0242ac120002",
+    "location_id": "5643df2c-ea64-11eb-9fc9-0242ac120002",
+    "total_area": 67948
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "c1a409cc-31d6-11ec-80b9-0242ac130002",
+    "total_area": 785
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "8bda0e20-4485-11eb-995c-22000ab8b02b",
+    "location_id": "be62d6e0-c4ac-11eb-ba71-0242ac120002",
+    "total_area": 195
+  },
+  {
+    "type": "field",
+    "farm_id": "d68bad7a-6ff5-11eb-a53d-22000a6ddaf5",
+    "location_id": "503ed103-c0ef-42e9-9dd8-51cb03b9fa0c",
+    "total_area": 1523
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "cf17337e-3152-11ec-8a34-0242ac130002",
+    "total_area": 9870
+  },
+  {
+    "type": "garden",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "location_id": "f6a7ff6c-386a-11ec-a1d5-0242ac130002",
+    "total_area": 142
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "d173bd27-9db6-48a4-b3db-acfe7a4d7702",
+    "total_area": 1996
+  },
+  {
+    "type": "field",
+    "farm_id": "4a55070e-74df-11eb-b111-22000a6ddaf5",
+    "location_id": "a29be5f5-b6ca-4ab2-9fb7-537c0945a6f1",
+    "total_area": 522
+  },
+  {
+    "type": "field",
+    "farm_id": "5ef669ce-0fd0-11eb-95a5-22000bb9251f",
+    "location_id": "4ae2f726-2079-4f32-8521-46d53a182a6c",
+    "total_area": 971063
+  },
+  {
+    "type": "field",
+    "farm_id": "49070da6-5b6e-11ea-8a5d-22000a946868",
+    "location_id": "43a61e44-7220-41b7-9e10-44ab7452ffe4",
+    "total_area": 376
+  },
+  {
+    "type": "field",
+    "farm_id": "40189f38-6947-11eb-b52b-22000a6ddaf5",
+    "location_id": "c76fff2a-c656-4367-974e-d1606268ad0d",
+    "total_area": 2195
+  },
+  {
+    "type": "field",
+    "farm_id": "14661188-0f77-11eb-a91b-22000bb9251f",
+    "location_id": "cf0e8188-7771-455a-9515-cf885b6a0788",
+    "total_area": 263519
+  },
+  {
+    "type": "field",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "location_id": "272f96a8-0ecd-43f6-8c30-f1bb2ad61553",
+    "total_area": 106945
+  },
+  {
+    "type": "field",
+    "farm_id": "74ca8710-8e67-11eb-b071-0a7facd3678d",
+    "location_id": "32515e3c-12b6-4998-8191-5c4a6e7a6280",
+    "total_area": 1275
+  },
+  {
+    "type": "field",
+    "farm_id": "8742c4d6-5b3a-11ea-b27b-22000a946868",
+    "location_id": "8ada5613-b411-4946-9dd3-ce69568a6a7d",
+    "total_area": 852
+  },
+  {
+    "type": "garden",
+    "farm_id": "f0036cac-2de1-11ec-85ad-0242ac130002",
+    "location_id": "2e78343a-2dfc-11ec-96d8-0242ac130002",
+    "total_area": 40256
+  },
+  {
+    "type": "field",
+    "farm_id": "d4b9a7b0-27a5-11eb-8123-22000b479377",
+    "location_id": "0ec9801a-6be6-40ff-8943-b8d542628c8b",
+    "total_area": 2977
+  },
+  {
+    "type": "field",
+    "farm_id": "0587ec94-1e00-11eb-8d80-22000bb9251f",
+    "location_id": "504296d5-66ea-492d-b890-cba595d4a784",
+    "total_area": 700
+  },
+  {
+    "type": "field",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "location_id": "cf23be82-4903-4485-9d0c-b0228b6ebf9a",
+    "total_area": 159
+  },
+  {
+    "type": "field",
+    "farm_id": "f59b2634-305a-11ec-ad47-0242ac130002",
+    "location_id": "0b1f7c62-305b-11ec-ad47-0242ac130002",
+    "total_area": 49959
+  },
+  {
+    "type": "field",
+    "farm_id": "64427996-610f-11eb-ae3e-22000ab2b8c4",
+    "location_id": "fb6038fe-4730-47dd-af20-b89033210671",
+    "total_area": 319
+  },
+  {
+    "type": "field",
+    "farm_id": "1a4054f6-b0a9-11ea-8b42-22000a3def48",
+    "location_id": "8c227d92-9a22-438d-a04c-a5f8191cbecc",
+    "total_area": 100
+  },
+  {
+    "type": "field",
+    "farm_id": "9322d2c6-90ab-11eb-85b5-0a7facd3678d",
+    "location_id": "14ca34f9-2228-426a-9e77-3a105ed8aaa0",
+    "total_area": 12824
+  },
+  {
+    "type": "field",
+    "farm_id": "504eceb0-de7b-11ea-82a2-22000ab40d92",
+    "location_id": "6a937402-bd6c-4832-a862-06446427f0ec",
+    "total_area": 55990
+  },
+  {
+    "type": "field",
+    "farm_id": "4e34954e-42f2-11ea-b20a-22000b8600fb",
+    "location_id": "afd2f051-4136-4366-9029-f29486a05ad9",
+    "total_area": 765
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "2293eb5e-8b59-11ec-8d24-0242ac130004",
+    "total_area": 4541160
+  },
+  {
+    "type": "field",
+    "farm_id": "efc2bbd6-697d-11eb-b6d7-22000a6ddaf5",
+    "location_id": "3c0c2335-4ed1-4614-8c69-9c7e1a22bb5b",
+    "total_area": 101
+  },
+  {
+    "type": "barn",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "64951a72-7a48-11ec-9b12-0242ac130004",
+    "total_area": 3375493
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "99e24a62-3338-11ec-af31-0242ac130002",
+    "total_area": 352
+  },
+  {
+    "type": "field",
+    "farm_id": "498218c8-a5f2-11eb-96c6-0242ac130002",
+    "location_id": "7a2a441c-e3e3-4e1c-bc19-c3becac4f348",
+    "total_area": 28303
+  },
+  {
+    "type": "residence",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "location_id": "6f0d71d4-8de4-11ec-8334-0242ac120002",
+    "total_area": 532
+  },
+  {
+    "type": "field",
+    "farm_id": "11359696-a438-11ea-8857-22000ba8027d",
+    "location_id": "fb8edf75-92c4-44ae-b9bc-3ef775dc70fb",
+    "total_area": 402
+  },
+  {
+    "type": "field",
+    "farm_id": "83f4e6f0-3e39-11eb-9bca-22000ab8b02b",
+    "location_id": "916e5307-63c5-4864-9518-7451aa6c8016",
+    "total_area": 3834
+  },
+  {
+    "type": "field",
+    "farm_id": "46539cea-16b9-11ea-b182-22000b628b95",
+    "location_id": "06ff69e9-df2b-40ac-ad3c-c75c4fe5cec4",
+    "total_area": 24
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "location_id": "2331e576-3117-11ec-9e7f-0242ac130002",
+    "total_area": 242
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "location_id": "4117a2f0-386b-11ec-a1d5-0242ac130002",
+    "total_area": 1790
+  },
+  {
+    "type": "field",
+    "farm_id": "e0309a1a-a116-11ea-a0a6-22000ba8027d",
+    "location_id": "78de9356-de32-4760-ae30-f5273d2b38c4",
+    "total_area": 153305
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "15f53fc0-74a1-4fd7-9de2-e9290395d4bb",
+    "total_area": 13
+  },
+  {
+    "type": "field",
+    "farm_id": "d6a678fc-3e37-11eb-8784-22000ab8b02b",
+    "location_id": "58749fba-8ecc-4863-83be-10d9f8812d4e",
+    "total_area": 19728
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "0df5c74a-c72d-41e3-b240-d08cfa7a25b5",
+    "total_area": 422
+  },
+  {
+    "type": "field",
+    "farm_id": "274d9648-7081-11eb-98d3-22000a6ddaf5",
+    "location_id": "5840e5bd-89cb-4444-a719-648d3a667a57",
+    "total_area": 159
+  },
+  {
+    "type": "field",
+    "farm_id": "11359696-a438-11ea-8857-22000ba8027d",
+    "location_id": "84606e87-d80f-43ff-935b-34173b1d07d4",
+    "total_area": 682
+  },
+  {
+    "type": "field",
+    "farm_id": "b801b34a-667c-11eb-a75b-22000ab2b8c4",
+    "location_id": "6f76250d-25c1-4c76-9f89-58f0de41c696",
+    "total_area": 66
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "092a69a4-8ed9-4797-b110-e2be3842b70f",
+    "total_area": 21756
+  },
+  {
+    "type": "residence",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "location_id": "74d49ac6-5c42-11ec-b9d1-0242ac130002",
+    "total_area": 207
+  },
+  {
+    "type": "field",
+    "farm_id": "5f88170c-4915-11ea-ae5e-22000b8600fb",
+    "location_id": "5315a258-814c-4497-b17a-def1e23e59b5",
+    "total_area": 11678
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "location_id": "dfeb8fe2-f999-11eb-bfd3-0242ac120002",
+    "total_area": 9407
+  },
+  {
+    "type": "garden",
+    "farm_id": "d1b53e6a-38e5-11ec-a075-0242ac130002",
+    "location_id": "87489a2e-38e6-11ec-a075-0242ac130002",
+    "total_area": 590
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "61c7b9a8-3376-11ec-86bd-0242ac130002",
+    "total_area": 5938
+  },
+  {
+    "type": "field",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "d76c427a-314e-11ec-8a34-0242ac130002",
+    "total_area": 2644
+  },
+  {
+    "type": "field",
+    "farm_id": "671d4200-7d51-11eb-8ef1-22000a6ddaf5",
+    "location_id": "9c3c1463-6e67-451f-bf22-06b2630bdd92",
+    "total_area": 10
+  },
+  {
+    "type": "field",
+    "farm_id": "9dce7026-7d92-11eb-a1e8-22000a6ddaf5",
+    "location_id": "a08d8832-36ca-46c2-9bf9-40878e4389f4",
+    "total_area": 4228
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "c7bec8b4-5c6b-11ec-8d2b-0242ac130002",
+    "total_area": 142
+  },
+  {
+    "type": "field",
+    "farm_id": "24e8ee66-97cd-11eb-ae5e-121a0e444ae7",
+    "location_id": "1dbcb931-cf33-4f12-b0ce-a6d3abde287d",
+    "total_area": 914
+  },
+  {
+    "type": "field",
+    "farm_id": "671d4200-7d51-11eb-8ef1-22000a6ddaf5",
+    "location_id": "cf039b79-a244-4a16-bf8f-ab14b17d6308",
+    "total_area": 13
+  },
+  {
+    "type": "field",
+    "farm_id": "4543672e-0f77-11eb-a91b-22000bb9251f",
+    "location_id": "06089470-73f3-4318-ab9d-761b9a9a2512",
+    "total_area": 159494
+  },
+  {
+    "type": "field",
+    "farm_id": "cae26ecc-53cd-11ea-9e9b-22000a946868",
+    "location_id": "1c131950-261b-4805-b4a5-23746f24a0b1",
+    "total_area": 13566
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "d7b68fbc-74a4-11ec-b479-0242ac130004",
+    "location_id": "4b5ee89a-74a7-11ec-b479-0242ac130004",
+    "total_area": 4194
+  },
+  {
+    "type": "field",
+    "farm_id": "15e79e32-5875-11ea-a274-22000a946868",
+    "location_id": "0d7d6c58-428a-4ead-8969-ef6179e5b01a",
+    "total_area": 38698
+  },
+  {
+    "type": "field",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "location_id": "6099ca60-c2c1-4f8a-b887-16d5d7101457",
+    "total_area": 791
+  },
+  {
+    "type": "field",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "location_id": "f6691537-6f62-4f80-b734-9e12bd6e5c12",
+    "total_area": 190
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "location_id": "b39e4208-8dc9-11ec-924b-0242ac120002",
+    "total_area": 105
+  },
+  {
+    "type": "field",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "0809d496-3376-11ec-9e02-0242ac130002",
+    "total_area": 16797
+  },
+  {
+    "type": "field",
+    "farm_id": "8ef17514-89f7-11eb-b6aa-0a7facd3678d",
+    "location_id": "5b04cf69-b7d4-4b85-b865-dc5354ec616f",
+    "total_area": 504
+  },
+  {
+    "type": "field",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "location_id": "9e791c77-8548-4b4a-a3f6-b2dc9d2b9852",
+    "total_area": 4681
+  },
+  {
+    "type": "field",
+    "farm_id": "28b2225a-a549-11ea-b925-22000ba8027d",
+    "location_id": "4080ca68-f92f-4c06-b908-754adf4a8e79",
+    "total_area": 2532
+  },
+  {
+    "type": "barn",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "location_id": "1024b238-25f5-11ec-8078-0242ac130003",
+    "total_area": 134
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "6b77ad20-2177-11ec-8de9-0242ac130003",
+    "total_area": 627130
+  },
+  {
+    "type": "residence",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "location_id": "c8aeb7a4-78b6-11ec-9c98-0242ac130004",
+    "total_area": 821
+  },
+  {
+    "type": "field",
+    "farm_id": "d7603eb0-6b4e-11eb-9d12-22000a6ddaf5",
+    "location_id": "eb64908d-7e59-4325-a78d-9ebf785d52e4",
+    "total_area": 93
+  },
+  {
+    "type": "barn",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "location_id": "11a954b6-31bb-11ec-a1e8-0242ac130002",
+    "total_area": 43
+  },
+  {
+    "type": "field",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "22c55918-5c6b-11ec-8d2b-0242ac130002",
+    "total_area": 14670
+  },
+  {
+    "type": "barn",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "location_id": "affcaeae-310e-11ec-a274-0242ac130002",
+    "total_area": 15
+  },
+  {
+    "type": "barn",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "6c400018-3054-11ec-be02-0242ac130002",
+    "total_area": 22504
+  },
+  {
+    "type": "field",
+    "farm_id": "31135f2e-79b4-11ea-ad28-22000a90b459",
+    "location_id": "ebf6c0b7-8402-42b6-a995-a6fec1e503b3",
+    "total_area": 37
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "3713153a-48d0-4032-9bde-426e28fc56ab",
+    "total_area": 431
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "location_id": "d6f2eee0-8de5-11ec-8334-0242ac120002",
+    "total_area": 245815
+  },
+  {
+    "type": "field",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "267680e8-98aa-11ec-929f-0242ac120002",
+    "total_area": 208950
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "543c123a-e96f-11eb-964c-0242ac120002",
+    "location_id": "2be2ef24-e970-11eb-964c-0242ac120002",
+    "total_area": 2904
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "4b2cbf54-7f2e-4350-a63e-5e924b1181ff",
+    "total_area": 3098
+  },
+  {
+    "type": "field",
+    "farm_id": "3056a5c8-3e3f-11eb-ba5b-22000ab8b02b",
+    "location_id": "c89ad0ab-726d-4fb4-af1f-17dcf38efb9f",
+    "total_area": 5208
+  },
+  {
+    "type": "field",
+    "farm_id": "30dabb36-8a99-11ec-872a-0242ac130004",
+    "location_id": "7c2e0d6c-8a9a-11ec-80d3-0242ac130004",
+    "total_area": 166848
+  },
+  {
+    "type": "field",
+    "farm_id": "cae26ecc-53cd-11ea-9e9b-22000a946868",
+    "location_id": "1d161c5f-a99a-414d-8304-d908276d6baa",
+    "total_area": 10932
+  },
+  {
+    "type": "field",
+    "farm_id": "a26db2c2-c4a5-11eb-ba71-0242ac120002",
+    "location_id": "3b087ebc-eb1c-11eb-90e3-0242ac120002",
+    "total_area": 966075
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "ea8a10dd-9be6-492b-8f60-48418f26c744",
+    "total_area": 2519
+  },
+  {
+    "type": "field",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "0d65f9e2-9afa-11ec-9719-0242ac120002",
+    "total_area": 38824
+  },
+  {
+    "type": "field",
+    "farm_id": "9625aeaa-448c-11eb-a348-22000ab8b02b",
+    "location_id": "9f281ad5-6c8b-4c9f-b8de-a747d207d437",
+    "total_area": 10290
+  },
+  {
+    "type": "residence",
+    "farm_id": "d1b53e6a-38e5-11ec-a075-0242ac130002",
+    "location_id": "5d0e4060-38e6-11ec-a075-0242ac130002",
+    "total_area": 990
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "b5ebef20-3035-11ec-93d7-0242ac130002",
+    "location_id": "13fec642-33af-11ec-9bd4-0242ac130002",
+    "total_area": 377
+  },
+  {
+    "type": "field",
+    "farm_id": "d49b0838-c812-11eb-b18a-0242ac120002",
+    "location_id": "77565504-20a2-11ec-83f3-0242ac130003",
+    "total_area": 2010
+  },
+  {
+    "type": "field",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "location_id": "5474ffa9-469d-47a4-b2f0-7a41bf7c6b81",
+    "total_area": 335
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "d7b68fbc-74a4-11ec-b479-0242ac130004",
+    "location_id": "874fc182-74a5-11ec-b479-0242ac130004",
+    "total_area": 313
+  },
+  {
+    "type": "field",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "location_id": "64461298-8dca-11ec-924b-0242ac120002",
+    "total_area": 16135
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "c981532a-314f-11ec-8a34-0242ac130002",
+    "total_area": 147
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "e13dc1b4-5c6b-11ec-8d2b-0242ac130002",
+    "total_area": 251
+  },
+  {
+    "type": "field",
+    "farm_id": "6909d532-5f98-11eb-be71-22000ab2b8c4",
+    "location_id": "e0fc6e36-abc5-4954-87ef-ecb0829ac294",
+    "total_area": 639
+  },
+  {
+    "type": "garden",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "location_id": "9b0ed8a4-8de4-11ec-8334-0242ac120002",
+    "total_area": 506
+  },
+  {
+    "type": "field",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "location_id": "1bcc0eac-26ee-11ec-b251-0242ac130003",
+    "total_area": 206
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "a26db2c2-c4a5-11eb-ba71-0242ac120002",
+    "location_id": "b25279cc-c872-11eb-89a8-0242ac120002",
+    "total_area": 1094854
+  },
+  {
+    "type": "field",
+    "farm_id": "bb0f5122-a94e-11eb-8b3e-0242ac130002",
+    "location_id": "333fa781-954a-4bbc-a94b-037e54c2ea01",
+    "total_area": 331
+  },
+  {
+    "type": "field",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "location_id": "11337e10-bc5b-4fa7-bc89-3754473c9aed",
+    "total_area": 799
+  },
+  {
+    "type": "barn",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "location_id": "ec85057e-3064-11ec-a314-0242ac130002",
+    "total_area": 381
+  },
+  {
+    "type": "field",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "location_id": "4cea65c9-88fa-4793-80b1-ffce8a84d62c",
+    "total_area": 10409
+  },
+  {
+    "type": "field",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "location_id": "b16c3a64-3a7f-11ec-ae5d-0242ac130002",
+    "total_area": 49
+  },
+  {
+    "type": "field",
+    "farm_id": "5f88170c-4915-11ea-ae5e-22000b8600fb",
+    "location_id": "2023e041-b5e1-473c-8e4a-fd63fa6ebf5a",
+    "total_area": 13889
+  },
+  {
+    "type": "garden",
+    "farm_id": "b6e8494e-7a24-11ec-a3b6-0242ac130004",
+    "location_id": "4834780a-7a25-11ec-82be-0242ac130004",
+    "total_area": 31312
+  },
+  {
+    "type": "field",
+    "farm_id": "9625aeaa-448c-11eb-a348-22000ab8b02b",
+    "location_id": "b74f498e-c9df-4d8e-90fa-0966edde4937",
+    "total_area": 2434
+  },
+  {
+    "type": "barn",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "location_id": "daaea298-78b6-11ec-9c98-0242ac130004",
+    "total_area": 71
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "location_id": "cf5582a0-329c-11ec-bc0b-0242ac130002",
+    "total_area": 708
+  },
+  {
+    "type": "barn",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "location_id": "1d12abda-25f5-11ec-8078-0242ac130003",
+    "total_area": 807
+  },
+  {
+    "type": "field",
+    "farm_id": "403e3d80-57ce-11ec-9639-0242ac130002",
+    "location_id": "43bec512-5e16-11ec-accb-0242ac130002",
+    "total_area": 2988
+  },
+  {
+    "type": "field",
+    "farm_id": "1f7aeba0-63fc-11eb-9688-22000ab2b8c4",
+    "location_id": "9a1367b6-d3e8-4101-bffa-126010459d5f",
+    "total_area": 109363
+  },
+  {
+    "type": "field",
+    "farm_id": "28b2225a-a549-11ea-b925-22000ba8027d",
+    "location_id": "292398df-8a71-4474-9ce5-6086560854fa",
+    "total_area": 47449
+  },
+  {
+    "type": "field",
+    "farm_id": "4e34954e-42f2-11ea-b20a-22000b8600fb",
+    "location_id": "db192443-f476-4012-8696-568c42374003",
+    "total_area": 4822
+  },
+  {
+    "type": "residence",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "8e242266-3376-11ec-86bd-0242ac130002",
+    "total_area": 4687
+  },
+  {
+    "type": "barn",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "49e1eb72-cad7-11eb-bcc7-0242ac120002",
+    "total_area": 177
+  },
+  {
+    "type": "field",
+    "farm_id": "b2a355c4-1ab0-11eb-a02a-22000bb9251f",
+    "location_id": "61c58dbd-c1ac-4c58-9dcf-25518af2f962",
+    "total_area": 4108
+  },
+  {
+    "type": "garden",
+    "farm_id": "9727d474-78d2-11ec-9d16-0242ac130004",
+    "location_id": "439b715e-7a48-11ec-be07-0242ac130004",
+    "total_area": 83554
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "location_id": "6d7869cc-0c3f-11ec-bc28-0242ac130003",
+    "total_area": 42033
+  },
+  {
+    "type": "field",
+    "farm_id": "4e34954e-42f2-11ea-b20a-22000b8600fb",
+    "location_id": "69f01c24-b894-462d-aada-c7a914d2a1a1",
+    "total_area": 4334
+  },
+  {
+    "type": "field",
+    "farm_id": "a26db2c2-c4a5-11eb-ba71-0242ac120002",
+    "location_id": "002808fe-c875-11eb-aee8-0242ac120002",
+    "total_area": 12452798
+  },
+  {
+    "type": "field",
+    "farm_id": "46ca98b2-5b39-11ea-b6c8-22000a946868",
+    "location_id": "edf0bfba-f3b3-4e21-836a-7c10c4e419bb",
+    "total_area": 21
+  },
+  {
+    "type": "field",
+    "farm_id": "9dce7026-7d92-11eb-a1e8-22000a6ddaf5",
+    "location_id": "e88ee5af-00ac-4119-9557-82fc2fcc82ac",
+    "total_area": 4554
+  },
+  {
+    "type": "field",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "location_id": "28166a91-97ff-4d6d-8458-ca7876cdc909",
+    "total_area": 6652
+  },
+  {
+    "type": "field",
+    "farm_id": "e3d004c6-59c1-11eb-a2f3-22000ab2b8c4",
+    "location_id": "1529d922-fe1b-4441-9c8a-2bb7ada0facf",
+    "total_area": 1463
+  },
+  {
+    "type": "field",
+    "farm_id": "3ed48502-66c1-11eb-80f1-22000ab2b8c4",
+    "location_id": "dee279f9-e89c-48e9-8a08-de2b18d3978e",
+    "total_area": 359
+  },
+  {
+    "type": "field",
+    "farm_id": "9ada9d52-d91f-11eb-bd3c-0242ac120002",
+    "location_id": "5b43dc38-9f14-11ec-8ada-0242ac120002",
+    "total_area": 124997
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "23e6b3aa-3376-11ec-b8e6-0242ac130002",
+    "total_area": 2857
+  },
+  {
+    "type": "field",
+    "farm_id": "3b944000-1d45-11eb-8c1f-22000bb9251f",
+    "location_id": "7ed40885-bc19-4ffe-b667-074a48a8f2e5",
+    "total_area": 31
+  },
+  {
+    "type": "field",
+    "farm_id": "29fccef4-664a-11eb-9f1f-22000ab2b8c4",
+    "location_id": "97597999-9442-4134-911a-c6125cfcda08",
+    "total_area": 71467
+  },
+  {
+    "type": "field",
+    "farm_id": "b48d992a-6647-11eb-89a6-22000ab2b8c4",
+    "location_id": "8ee78e3d-000d-4fd9-bfe2-5e8fd6dded72",
+    "total_area": 280771
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "location_id": "5b6564d4-2c69-11ec-985a-0242ac130002",
+    "total_area": 273
+  },
+  {
+    "type": "barn",
+    "farm_id": "8368e776-3105-11ec-a72b-0242ac130002",
+    "location_id": "42b0b7a6-3117-11ec-9e7f-0242ac130002",
+    "total_area": 156301
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "location_id": "6216e678-31d6-11ec-b823-0242ac130002",
+    "total_area": 100
+  },
+  {
+    "type": "field",
+    "farm_id": "01d63a0a-ca09-11eb-acd2-0242ac120002",
+    "location_id": "a43f6b6c-88ff-11ec-8f3d-0242ac130004",
+    "total_area": 72641
+  },
+  {
+    "type": "field",
+    "farm_id": "49930bf8-5efb-11eb-b0bd-22000ab2b8c4",
+    "location_id": "e14b6fd9-7bd5-4c17-8e0b-ab9984d9e97a",
+    "total_area": 10860
+  },
+  {
+    "type": "field",
+    "farm_id": "15e79e32-5875-11ea-a274-22000a946868",
+    "location_id": "d79262a5-182b-4766-acd4-e13ca1fefe9d",
+    "total_area": 20233
+  },
+  {
+    "type": "field",
+    "farm_id": "00b67960-b75d-11ea-8303-22000a3def48",
+    "location_id": "c3eea624-6af3-486d-8f51-e19121be239e",
+    "total_area": 846457046
+  },
+  {
+    "type": "field",
+    "farm_id": "29fccef4-664a-11eb-9f1f-22000ab2b8c4",
+    "location_id": "db9d732d-b559-4a69-8690-bf5dcbf56374",
+    "total_area": 34250
+  },
+  {
+    "type": "field",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "location_id": "c90bc934-5080-11ec-91da-0242ac130002",
+    "total_area": 71
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "location_id": "50b8cbb2-310e-11ec-9eac-0242ac130002",
+    "total_area": 3479
+  },
+  {
+    "type": "field",
+    "farm_id": "c4b562fa-045e-11ec-b69e-0242ac130003",
+    "location_id": "eac41bd0-045e-11ec-b69e-0242ac130003",
+    "total_area": 1219
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "location_id": "bc431802-6cc2-11ec-840e-0242ac130002",
+    "total_area": 158
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "ebae3fb4-3332-11ec-af31-0242ac130002",
+    "total_area": 2925
+  },
+  {
+    "type": "field",
+    "farm_id": "1b6a2672-8066-11ea-9419-22000a9c4c3b",
+    "location_id": "0f3585c3-d065-4cd4-b458-426cf93628fa",
+    "total_area": 1194
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "f0036cac-2de1-11ec-85ad-0242ac130002",
+    "location_id": "0d24e0fe-2de2-11ec-beed-0242ac130002",
+    "total_area": 28880
+  },
+  {
+    "type": "field",
+    "farm_id": "40189f38-6947-11eb-b52b-22000a6ddaf5",
+    "location_id": "b1d6ab47-3703-4e51-8752-d8db74ad8215",
+    "total_area": 190
+  },
+  {
+    "type": "field",
+    "farm_id": "b6e8494e-7a24-11ec-a3b6-0242ac130004",
+    "location_id": "2c641702-7a25-11ec-82be-0242ac130004",
+    "total_area": 48224
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "location_id": "8637da8e-260b-11ec-9480-0242ac130003",
+    "total_area": 96
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "996037d6-faba-11eb-be62-0242ac120002",
+    "total_area": 168461
+  },
+  {
+    "type": "field",
+    "farm_id": "c1ac956e-6784-11eb-bf4c-22000ab2b8c4",
+    "location_id": "5abcf803-718e-4802-ac43-87a6d9155d6f",
+    "total_area": 348
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "location_id": "1531f956-5c42-11ec-b9d1-0242ac130002",
+    "total_area": 303
+  },
+  {
+    "type": "field",
+    "farm_id": "12108814-9659-11eb-b092-121a0e444ae7",
+    "location_id": "24dc7339-8a84-4edf-a053-c6fcfc9a4f0e",
+    "total_area": 376
+  },
+  {
+    "type": "residence",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "location_id": "80dff1da-5c42-11ec-b9d1-0242ac130002",
+    "total_area": 129
+  },
+  {
+    "type": "field",
+    "farm_id": "64427996-610f-11eb-ae3e-22000ab2b8c4",
+    "location_id": "beb1afdf-1601-4725-bdcb-26cfcf47b8f6",
+    "total_area": 226
+  },
+  {
+    "type": "garden",
+    "farm_id": "d287549c-36b8-11ec-91a4-0242ac130002",
+    "location_id": "ec3e1eae-373d-11ec-b970-0242ac130002",
+    "total_area": 2268
+  },
+  {
+    "type": "field",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "location_id": "03d7c766-fa34-4fe8-a61e-ef0ac51293ae",
+    "total_area": 3098
+  },
+  {
+    "type": "garden",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "7047b5e6-5c6b-11ec-8d2b-0242ac130002",
+    "total_area": 910
+  },
+  {
+    "type": "field",
+    "farm_id": "faff1a00-66e7-11eb-b3c8-22000ab2b8c4",
+    "location_id": "d54d019a-7ff6-4d63-8912-30f78a829460",
+    "total_area": 4811
+  },
+  {
+    "type": "field",
+    "farm_id": "8742c4d6-5b3a-11ea-b27b-22000a946868",
+    "location_id": "96fd0fcf-c282-4e19-9df4-e1258856713a",
+    "total_area": 983
+  },
+  {
+    "type": "field",
+    "farm_id": "1679b12e-7304-11ea-88d5-22000a90b459",
+    "location_id": "01402f95-5c86-4270-940c-64af673c9c5d",
+    "total_area": 12274
+  },
+  {
+    "type": "field",
+    "farm_id": "09a46a26-3653-11eb-b328-22000b479377",
+    "location_id": "a3b58c9a-2c63-4ddd-a019-77cdf37526a4",
+    "total_area": 753012
+  },
+  {
+    "type": "field",
+    "farm_id": "90ad0546-6a56-11eb-90f6-22000a6ddaf5",
+    "location_id": "693d314f-e891-46b6-93f7-f1d10f9b5b69",
+    "total_area": 7585
+  },
+  {
+    "type": "field",
+    "farm_id": "6909d532-5f98-11eb-be71-22000ab2b8c4",
+    "location_id": "ff30ebbf-58a7-46ed-9dd8-5a520dedc114",
+    "total_area": 60
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "location_id": "5965444c-3849-11ec-a317-0242ac130002",
+    "total_area": 351944
+  },
+  {
+    "type": "garden",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "cb93d7ae-3056-11ec-966d-0242ac130002",
+    "total_area": 7838
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "a69df680-3332-11ec-af31-0242ac130002",
+    "total_area": 765
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "67d2acd6-8dc1-11ec-8679-0242ac120002",
+    "location_id": "ae5b6de0-8de0-11ec-8334-0242ac120002",
+    "total_area": 4993
+  },
+  {
+    "type": "field",
+    "farm_id": "4886cae6-3b20-11eb-bcfa-22000ab8b02b",
+    "location_id": "5f648952-45bf-49ac-a01c-0388ed0792f6",
+    "total_area": 8175
+  },
+  {
+    "type": "field",
+    "farm_id": "2cde709c-449d-11eb-907c-22000ab8b02b",
+    "location_id": "6d048288-f1af-4449-8a59-a80cd0dff66b",
+    "total_area": 2703
+  },
+  {
+    "type": "field",
+    "farm_id": "24e8ee66-97cd-11eb-ae5e-121a0e444ae7",
+    "location_id": "e69234c4-3313-4953-8112-db63953ac866",
+    "total_area": 925
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "b4ffdf28-304d-11ec-bbea-0242ac130002",
+    "location_id": "0f222bd8-3052-11ec-b1ed-0242ac130002",
+    "total_area": 493346
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "location_id": "c6606a16-3067-11ec-a314-0242ac130002",
+    "total_area": 731
+  },
+  {
+    "type": "field",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "location_id": "6b68e38c-ba7b-4d9d-b828-869944e6489b",
+    "total_area": 16936
+  },
+  {
+    "type": "field",
+    "farm_id": "9322d2c6-90ab-11eb-85b5-0a7facd3678d",
+    "location_id": "8378f48e-2f26-429b-b0cf-d7ceeb9e5f50",
+    "total_area": 321648
+  },
+  {
+    "type": "field",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "location_id": "3ca5fdbd-8f40-4938-8c94-bf4187fd9ba5",
+    "total_area": 2556
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "51895eec-304d-11ec-8582-0242ac130002",
+    "location_id": "9ae2fc1c-30eb-11ec-a856-0242ac130002",
+    "total_area": 9325
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "location_id": "679222ea-8dc8-11ec-a45b-0242ac120002",
+    "total_area": 121
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "b5ebef20-3035-11ec-93d7-0242ac130002",
+    "location_id": "d2284e12-33b0-11ec-9bd4-0242ac130002",
+    "total_area": 3135
+  },
+  {
+    "type": "field",
+    "farm_id": "876e6cfa-a902-11eb-8762-0242ac130002",
+    "location_id": "1f039151-84d9-4d68-98b9-2fd1fc3403dd",
+    "total_area": 737
+  },
+  {
+    "type": "field",
+    "farm_id": "cae26ecc-53cd-11ea-9e9b-22000a946868",
+    "location_id": "29a95903-ecb3-4974-8fb3-552de05ae6b4",
+    "total_area": 10357
+  },
+  {
+    "type": "field",
+    "farm_id": "8110c7e6-357f-11eb-80e2-22000b479377",
+    "location_id": "10fa710f-3f73-4f0d-836f-f699d908da63",
+    "total_area": 336
+  },
+  {
+    "type": "field",
+    "farm_id": "17d85650-6373-11eb-8c1a-22000ab2b8c4",
+    "location_id": "40a6820e-06bb-4a0f-bcc3-f5ba59827404",
+    "total_area": 27135
+  },
+  {
+    "type": "field",
+    "farm_id": "79ee2c62-81bd-11eb-b5a4-0a7facd3678d",
+    "location_id": "b1dab6a3-d05a-4ad0-b71c-6975101eb081",
+    "total_area": 134
+  },
+  {
+    "type": "field",
+    "farm_id": "4a55070e-74df-11eb-b111-22000a6ddaf5",
+    "location_id": "2abf05b6-1bf3-4ea5-a3b9-6c40b28bec54",
+    "total_area": 1485
+  },
+  {
+    "type": "field",
+    "farm_id": "15e79e32-5875-11ea-a274-22000a946868",
+    "location_id": "04d71547-7da4-44e8-9a42-98d58f4245fd",
+    "total_area": 15373
+  },
+  {
+    "type": "field",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "location_id": "9d119682-bfcd-4caa-9c28-4283909167ef",
+    "total_area": 9122
+  },
+  {
+    "type": "field",
+    "farm_id": "c6dbbc80-4e8b-11ea-b0b8-22000a946868",
+    "location_id": "10848c25-effe-4cfd-93ce-d46d998e6050",
+    "total_area": 111897
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "6ce152aa-31d6-11ec-b823-0242ac130002",
+    "total_area": 19316
+  },
+  {
+    "type": "field",
+    "farm_id": "b3cf6a32-64fc-11eb-985d-22000ab2b8c4",
+    "location_id": "9b3ba824-df85-4523-9bdb-0a7356cf317b",
+    "total_area": 65661
+  },
+  {
+    "type": "field",
+    "farm_id": "49930bf8-5efb-11eb-b0bd-22000ab2b8c4",
+    "location_id": "1a13f4fe-7077-4990-a603-805584efd0b7",
+    "total_area": 5548
+  },
+  {
+    "type": "barn",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "2ac38388-314b-11ec-8a34-0242ac130002",
+    "total_area": 171
+  },
+  {
+    "type": "field",
+    "farm_id": "ec72e2ae-10c0-11ec-b6c2-0242ac130003",
+    "location_id": "1e5adca4-10c1-11ec-be04-0242ac130003",
+    "total_area": 430
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "d7b68fbc-74a4-11ec-b479-0242ac130004",
+    "location_id": "d8ef3080-74a6-11ec-b479-0242ac130004",
+    "total_area": 7833
+  },
+  {
+    "type": "field",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "location_id": "746fb1be-329f-11ec-89cc-0242ac130002",
+    "total_area": 82
+  },
+  {
+    "type": "field",
+    "farm_id": "93ff6ae6-568c-11eb-b79e-22000ab2b8c4",
+    "location_id": "eaebb631-5892-447a-9cca-79857a06b902",
+    "total_area": 7321
+  },
+  {
+    "type": "field",
+    "farm_id": "28b2225a-a549-11ea-b925-22000ba8027d",
+    "location_id": "a4d1cb19-ac92-4f2d-a38c-2089887e26c4",
+    "total_area": 2767
+  },
+  {
+    "type": "field",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "location_id": "63efdddf-6c6a-48cb-bb2f-5474bd176276",
+    "total_area": 1391
+  },
+  {
+    "type": "field",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "location_id": "04dc9ce7-890b-4da8-a32a-b32f9281f343",
+    "total_area": 250
+  },
+  {
+    "type": "field",
+    "farm_id": "d7b68fbc-74a4-11ec-b479-0242ac130004",
+    "location_id": "9a12a7fc-74a6-11ec-b479-0242ac130004",
+    "total_area": 14641
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "location_id": "90dcbf84-25f4-11ec-8078-0242ac130003",
+    "total_area": 12677
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "location_id": "c275e942-3055-11ec-966d-0242ac130002",
+    "total_area": 25
+  },
+  {
+    "type": "field",
+    "farm_id": "d7603eb0-6b4e-11eb-9d12-22000a6ddaf5",
+    "location_id": "d97e8054-93ff-4a16-a11b-cb9b89ed204e",
+    "total_area": 87
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "71b66048-d16a-4a3d-8d64-894ad2ba9b18",
+    "total_area": 159
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "b5573d4c-31d6-11ec-80b9-0242ac130002",
+    "total_area": 730
+  },
+  {
+    "type": "field",
+    "farm_id": "bb155670-5cf6-11eb-94f2-22000ab2b8c4",
+    "location_id": "8bf79214-b84a-4040-8b93-52fa4689cc17",
+    "total_area": 1503
+  },
+  {
+    "type": "field",
+    "farm_id": "8cb64c78-1ad2-11eb-909a-22000bb9251f",
+    "location_id": "abe8be7d-d25d-4380-881a-fa0633532eb9",
+    "total_area": 2670
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "location_id": "7b492836-8609-11ec-9e16-0242ac130004",
+    "total_area": 51028
+  },
+  {
+    "type": "field",
+    "farm_id": "8bda0e20-4485-11eb-995c-22000ab8b02b",
+    "location_id": "3bb65b4c-5eb0-44e0-822b-16159ae82506",
+    "total_area": 228
+  },
+  {
+    "type": "field",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "location_id": "3dc5ff3e-31d6-11ec-b823-0242ac130002",
+    "total_area": 4191
+  },
+  {
+    "type": "field",
+    "farm_id": "2b9a1df4-cb20-11ea-aa41-22000a2defbb",
+    "location_id": "242ec8a6-7fb7-4706-9a66-5ec8c2773088",
+    "total_area": 71410
+  },
+  {
+    "type": "field",
+    "farm_id": "7a340552-61a1-11eb-b543-22000ab2b8c4",
+    "location_id": "c0a08301-aa8f-4904-a8ce-784f0b60f02b",
+    "total_area": 50
+  },
+  {
+    "type": "field",
+    "farm_id": "671d4200-7d51-11eb-8ef1-22000a6ddaf5",
+    "location_id": "cd03bbae-3d4d-4c7e-ae1b-3800f2d4ca67",
+    "total_area": 39
+  },
+  {
+    "type": "field",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "location_id": "c048a4fa-6d33-11ec-a8d7-0242ac130002",
+    "total_area": 93077.78779067067
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "b4e30b2b-347b-4239-b66d-403c37814be4",
+    "total_area": 1907
+  },
+  {
+    "type": "field",
+    "farm_id": "15e79e32-5875-11ea-a274-22000a946868",
+    "location_id": "ca767cdb-7951-4d17-9981-59e4bb3cac5c",
+    "total_area": 15414
+  },
+  {
+    "type": "garden",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "location_id": "01818418-33d8-11ec-a8c5-0242ac130002",
+    "total_area": 4401
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "44448deb-6c4c-4b1e-bd37-77b869040283",
+    "total_area": 564
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "location_id": "4de3470a-6f25-11ec-8c22-0242ac130002",
+    "total_area": 8
+  },
+  {
+    "type": "field",
+    "farm_id": "5f88170c-4915-11ea-ae5e-22000b8600fb",
+    "location_id": "d3005767-7116-4841-bed5-da7280083a29",
+    "total_area": 37385
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "b5ebef20-3035-11ec-93d7-0242ac130002",
+    "location_id": "72c3623e-33b2-11ec-9bd4-0242ac130002",
+    "total_area": 982
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "d1b53e6a-38e5-11ec-a075-0242ac130002",
+    "location_id": "c67c6edc-38e6-11ec-a075-0242ac130002",
+    "total_area": 2140
+  },
+  {
+    "type": "field",
+    "farm_id": "6bafd9a0-3e44-11eb-8da1-22000ab8b02b",
+    "location_id": "d656e2cd-235b-4c29-960a-e99e8fdbdbc0",
+    "total_area": 16246
+  },
+  {
+    "type": "field",
+    "farm_id": "8a2245bc-88cc-11eb-bb61-0a7facd3678d",
+    "location_id": "0fa71b65-b16c-4e9d-9e5e-20fd316d6060",
+    "total_area": 136823
+  },
+  {
+    "type": "garden",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "location_id": "511ed78e-38fe-11ec-9c9e-0242ac130002",
+    "total_area": 609
+  },
+  {
+    "type": "garden",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "location_id": "f171f8c0-329f-11ec-89cc-0242ac130002",
+    "total_area": 21
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "9a8be004-2177-11ec-9d08-0242ac130003",
+    "total_area": 725911
+  },
+  {
+    "type": "field",
+    "farm_id": "392dcd3c-42fc-11ea-a6f7-22000b8600fb",
+    "location_id": "d6e8cb68-ff3a-4c08-95eb-66005377a43f",
+    "total_area": 4331
+  },
+  {
+    "type": "field",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "location_id": "dd217f5f-64e8-4554-bceb-ba59b0405ddf",
+    "total_area": 459
+  },
+  {
+    "type": "field",
+    "farm_id": "28b2225a-a549-11ea-b925-22000ba8027d",
+    "location_id": "b7fe7e68-c43d-4dbb-9418-d33545dfcf0b",
+    "total_area": 112932
+  },
+  {
+    "type": "field",
+    "farm_id": "85c82e96-6991-11eb-b6d6-22000a6ddaf5",
+    "location_id": "f31555ab-e13c-43f6-b910-7db2b05cc17d",
+    "total_area": 216
+  },
+  {
+    "type": "field",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "location_id": "bcefd90f-5654-427e-92bc-a27459c2c5e7",
+    "total_area": 3167
+  },
+  {
+    "type": "field",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "6cde4e14-305c-11ec-a382-0242ac130002",
+    "total_area": 117235
+  },
+  {
+    "type": "field",
+    "farm_id": "671d4200-7d51-11eb-8ef1-22000a6ddaf5",
+    "location_id": "855b5786-5d82-44b4-95db-7804e2d25c0b",
+    "total_area": 65
+  },
+  {
+    "type": "field",
+    "farm_id": "bcd87186-9b02-11ec-ba10-0242ac120002",
+    "location_id": "ec81934a-9b02-11ec-8a74-0242ac120002",
+    "total_area": 156732
+  },
+  {
+    "type": "field",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "location_id": "b68fc9f8-f02d-4d8f-b20f-187c6287c89c",
+    "total_area": 1173
+  },
+  {
+    "type": "garden",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "b06c66a0-3338-11ec-af31-0242ac130002",
+    "total_area": 308
+  },
+  {
+    "type": "field",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "location_id": "4a360eff-302b-4967-8c84-fd4d58561629",
+    "total_area": 126
+  },
+  {
+    "type": "field",
+    "farm_id": "49930bf8-5efb-11eb-b0bd-22000ab2b8c4",
+    "location_id": "c4ed8b53-35ff-45a7-a5ea-2bb85f98176a",
+    "total_area": 27794
+  },
+  {
+    "type": "field",
+    "farm_id": "93ff6ae6-568c-11eb-b79e-22000ab2b8c4",
+    "location_id": "de57f836-bea3-45ed-932c-431112df0db5",
+    "total_area": 1707
+  },
+  {
+    "type": "field",
+    "farm_id": "61a46686-5507-11eb-93ea-22000ab2b8c4",
+    "location_id": "8e61248e-3625-4c4e-9653-95824a97996a",
+    "total_area": 66442
+  },
+  {
+    "type": "field",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "location_id": "57f3e69d-70d9-45b1-9342-fcc0cf3364a4",
+    "total_area": 6058
+  },
+  {
+    "type": "field",
+    "farm_id": "17d85650-6373-11eb-8c1a-22000ab2b8c4",
+    "location_id": "2030f267-720f-4adb-9347-13e29e9bf6a1",
+    "total_area": 24403
+  },
+  {
+    "type": "field",
+    "farm_id": "4e9ff8d8-0fd0-11eb-95a5-22000bb9251f",
+    "location_id": "77df6b09-823b-4fd5-b112-eccc4d4a90b1",
+    "total_area": 618660
+  },
+  {
+    "type": "field",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "7313e6ee-5cf4-11ec-b17d-0242ac130002",
+    "total_area": 1352
+  },
+  {
+    "type": "barn",
+    "farm_id": "b4ffdf28-304d-11ec-bbea-0242ac130002",
+    "location_id": "7670e856-3052-11ec-85fa-0242ac130002",
+    "total_area": 300521
+  },
+  {
+    "type": "garden",
+    "farm_id": "8368e776-3105-11ec-a72b-0242ac130002",
+    "location_id": "c375d350-3115-11ec-ace0-0242ac130002",
+    "total_area": 67375
+  },
+  {
+    "type": "field",
+    "farm_id": "bffaf254-5b25-11ea-a6b6-22000a946868",
+    "location_id": "2756eed3-3e6b-448a-9c67-99d183ac278c",
+    "total_area": 115
+  },
+  {
+    "type": "field",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "34c90e66-5c6b-11ec-8d2b-0242ac130002",
+    "total_area": 4717
+  },
+  {
+    "type": "field",
+    "farm_id": "d68bad7a-6ff5-11eb-a53d-22000a6ddaf5",
+    "location_id": "966e7e40-b631-4d80-9678-b1a9c1bb843e",
+    "total_area": 2304
+  },
+  {
+    "type": "field",
+    "farm_id": "dd295afc-7026-11eb-9fab-22000a6ddaf5",
+    "location_id": "743ce670-4e33-41b3-b896-965bcb58ffcf",
+    "total_area": 1491
+  },
+  {
+    "type": "field",
+    "farm_id": "19372492-5b39-11ea-b6c8-22000a946868",
+    "location_id": "1e9574d2-ed51-446a-b84d-05eef6abbe4b",
+    "total_area": 38959
+  },
+  {
+    "type": "field",
+    "farm_id": "2cd3826e-d47a-11eb-a748-0242ac120002",
+    "location_id": "4ffe14e2-d47b-11eb-a748-0242ac120002",
+    "total_area": 148
+  },
+  {
+    "type": "field",
+    "farm_id": "b6e8494e-7a24-11ec-a3b6-0242ac130004",
+    "location_id": "2149bf5c-7a25-11ec-baf9-0242ac130004",
+    "total_area": 67775
+  },
+  {
+    "type": "field",
+    "farm_id": "8d0f1a5a-5e16-11ec-8f50-0242ac130002",
+    "location_id": "a82ba36c-5e16-11ec-8eb2-0242ac130002",
+    "total_area": 14828
+  },
+  {
+    "type": "field",
+    "farm_id": "c6dbbc80-4e8b-11ea-b0b8-22000a946868",
+    "location_id": "54ba9b5d-986c-422f-bcff-eabc6b74277b",
+    "total_area": 68021
+  },
+  {
+    "type": "field",
+    "farm_id": "d7603eb0-6b4e-11eb-9d12-22000a6ddaf5",
+    "location_id": "f4ca9e74-3c88-4110-a758-2d93560e4200",
+    "total_area": 110
+  },
+  {
+    "type": "field",
+    "farm_id": "2057ced0-ca09-11eb-acd2-0242ac120002",
+    "location_id": "3c91cdac-e9b3-11eb-946e-0242ac120002",
+    "total_area": 32534
+  },
+  {
+    "type": "field",
+    "farm_id": "a5847416-e655-11ea-9891-22000ab40d92",
+    "location_id": "797f0a32-d458-4e12-848a-5d19ece8acf6",
+    "total_area": 18465
+  },
+  {
+    "type": "field",
+    "farm_id": "9464f704-ea2e-11eb-b5d8-0242ac120002",
+    "location_id": "af79acae-ea71-11eb-909e-0242ac120002",
+    "total_area": 89053
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "d1b53e6a-38e5-11ec-a075-0242ac130002",
+    "location_id": "b4455418-38e6-11ec-a075-0242ac130002",
+    "total_area": 4494
+  },
+  {
+    "type": "field",
+    "farm_id": "f2be12a0-36bd-11ec-be0c-0242ac130002",
+    "location_id": "1ee2a64e-6f7f-11ec-b9c2-0242ac130002",
+    "total_area": 480306
+  },
+  {
+    "type": "field",
+    "farm_id": "4a8d5c14-95a4-11ea-a9dd-22000ba8027d",
+    "location_id": "82cc7b70-e90d-4b14-adc5-5fed9470a174",
+    "total_area": 278519
+  },
+  {
+    "type": "residence",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "54c2e496-31e4-11ec-b001-0242ac130002",
+    "total_area": 245
+  },
+  {
+    "type": "field",
+    "farm_id": "5dda783e-3115-11ec-b74d-0242ac130002",
+    "location_id": "ca089148-3387-11ec-9349-0242ac130002",
+    "total_area": 15
+  },
+  {
+    "type": "field",
+    "farm_id": "980033a6-2841-11eb-b1d5-22000b479377",
+    "location_id": "98c4f3fe-f29c-4c8f-b09f-7f971408892f",
+    "total_area": 222
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "701c1596-d00f-4b3b-b029-d7d2f3fb61de",
+    "total_area": 204797
+  },
+  {
+    "type": "field",
+    "farm_id": "36674266-6328-11eb-b318-22000ab2b8c4",
+    "location_id": "6cba5cc3-dba8-4d91-a11b-05607b90636b",
+    "total_area": 2342
+  },
+  {
+    "type": "field",
+    "farm_id": "15e79e32-5875-11ea-a274-22000a946868",
+    "location_id": "96d06748-5621-420d-b425-a4e3073dcd7e",
+    "total_area": 11992
+  },
+  {
+    "type": "field",
+    "farm_id": "df4ece56-6069-11eb-a5b0-22000ab2b8c4",
+    "location_id": "90fa7f64-3dc5-4acd-99c6-7f0cd2d09d1d",
+    "total_area": 8786
+  },
+  {
+    "type": "residence",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "2f5b22d8-3151-11ec-8a34-0242ac130002",
+    "total_area": 384
+  },
+  {
+    "type": "field",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "location_id": "59c21a1f-75b1-470f-aa46-2ccadabac29e",
+    "total_area": 519
+  },
+  {
+    "type": "field",
+    "farm_id": "b6e8494e-7a24-11ec-a3b6-0242ac130004",
+    "location_id": "ff7ede34-7a24-11ec-b876-0242ac130004",
+    "total_area": 67749
+  },
+  {
+    "type": "field",
+    "farm_id": "543c123a-e96f-11eb-964c-0242ac120002",
+    "location_id": "52db5100-4d72-11ec-9465-0242ac130002",
+    "total_area": 71
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "location_id": "52d26c58-310b-11ec-b17e-0242ac130002",
+    "total_area": 165
+  },
+  {
+    "type": "field",
+    "farm_id": "19372492-5b39-11ea-b6c8-22000a946868",
+    "location_id": "7b0f488e-90a0-4a57-9c77-9fa7064afc7d",
+    "total_area": 18111
+  },
+  {
+    "type": "residence",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "location_id": "582f9ffc-3135-11ec-a68d-0242ac130002",
+    "total_area": 18872
+  },
+  {
+    "type": "garden",
+    "farm_id": "2faba540-d379-11eb-a746-0242ac120002",
+    "location_id": "9d0e426c-17cd-11ec-a67a-0242ac130003",
+    "total_area": 44107
+  },
+  {
+    "type": "field",
+    "farm_id": "28b2225a-a549-11ea-b925-22000ba8027d",
+    "location_id": "59cb11c9-dc50-4d31-88c1-810c24927879",
+    "total_area": 8172
+  },
+  {
+    "type": "field",
+    "farm_id": "e00e167c-7a07-11ec-be6c-0242ac130004",
+    "location_id": "f41567ce-7a07-11ec-be6c-0242ac130004",
+    "total_area": 127537
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "5f07fc12-84d8-4324-8a09-65f1fc37deae",
+    "total_area": 542
+  },
+  {
+    "type": "garden",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "location_id": "4c68a5fa-31d6-11ec-b823-0242ac130002",
+    "total_area": 2116
+  },
+  {
+    "type": "field",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "location_id": "6699b10c-7944-11ec-be55-0242ac130004",
+    "total_area": 48481
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "d48d0a0b-90ce-47c2-8844-b339166ca358",
+    "total_area": 452
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "415b45d9-b9ca-455e-9c3c-266bf2789cf7",
+    "total_area": 439
+  },
+  {
+    "type": "garden",
+    "farm_id": "12e7be22-9006-11ec-b983-0242ac120002",
+    "location_id": "777ecb46-900b-11ec-80ca-0242ac120002",
+    "total_area": 3583
+  },
+  {
+    "type": "field",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "location_id": "80a1b4ec-42f4-4b10-88ec-59f5cdba9e69",
+    "total_area": 4353
+  },
+  {
+    "type": "field",
+    "farm_id": "30fe2ee4-13cc-11eb-88bc-22000bb9251f",
+    "location_id": "c6f65676-a55c-4786-8615-b93fb06af232",
+    "total_area": 168
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "f96fe3a2-cad5-11eb-8531-0242ac120002",
+    "total_area": 10417
+  },
+  {
+    "type": "field",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "2f63fc68-32a6-11ec-89cc-0242ac130002",
+    "total_area": 812
+  },
+  {
+    "type": "field",
+    "farm_id": "392c6bc8-4a12-11ea-bed2-22000b8600fb",
+    "location_id": "3b2b8978-f7a8-44fa-bcad-639b1c92408a",
+    "total_area": 3268
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "09ebf98f-03ab-4ebd-96d8-e8b30ca172f1",
+    "total_area": 17
+  },
+  {
+    "type": "field",
+    "farm_id": "04da6512-6bc9-11eb-8de4-22000a6ddaf5",
+    "location_id": "f1aecb2f-01de-4ef3-92f9-dfe1a22ae37d",
+    "total_area": 17523
+  },
+  {
+    "type": "field",
+    "farm_id": "5f88170c-4915-11ea-ae5e-22000b8600fb",
+    "location_id": "ec570d31-5af3-47c1-832b-b01ade7b3bda",
+    "total_area": 31479
+  },
+  {
+    "type": "field",
+    "farm_id": "e00e167c-7a07-11ec-be6c-0242ac130004",
+    "location_id": "55ef6fd0-7a08-11ec-8c4b-0242ac130004",
+    "total_area": 22613
+  },
+  {
+    "type": "field",
+    "farm_id": "c6dbbc80-4e8b-11ea-b0b8-22000a946868",
+    "location_id": "538b3b22-2944-47e8-814e-32eb27cb4c1c",
+    "total_area": 583
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "ad7a35b4-73ff-11ec-8f0f-0242ac130004",
+    "location_id": "d6bc93fe-73ff-11ec-9993-0242ac130004",
+    "total_area": 254655
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "131ead2b-3f58-47f7-8a1c-3d27b5af0d5c",
+    "total_area": 375
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "fb189964-305c-11ec-8256-0242ac130002",
+    "total_area": 17801
+  },
+  {
+    "type": "field",
+    "farm_id": "7a340552-61a1-11eb-b543-22000ab2b8c4",
+    "location_id": "806b4177-f777-4233-909c-e45752e5ab4a",
+    "total_area": 381
+  },
+  {
+    "type": "field",
+    "farm_id": "77093132-3747-11ec-8b00-0242ac130002",
+    "location_id": "8e7a0b2a-3747-11ec-bf76-0242ac130002",
+    "total_area": 20206
+  },
+  {
+    "type": "field",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "location_id": "5abcf090-9d0f-4c04-8ecc-b19e2a75babb",
+    "total_area": 1735
+  },
+  {
+    "type": "field",
+    "farm_id": "8110c7e6-357f-11eb-80e2-22000b479377",
+    "location_id": "6136b17c-bd34-43d3-9c86-d1123d2cdfe5",
+    "total_area": 250
+  },
+  {
+    "type": "field",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "location_id": "6d87c3a2-d8a7-40dc-acdb-c52ee100a127",
+    "total_area": 3761
+  },
+  {
+    "type": "field",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "location_id": "31edd908-bd9e-4b61-8ca0-01d20448a7b7",
+    "total_area": 198775
+  },
+  {
+    "type": "barn",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "location_id": "2e986de4-5c42-11ec-b9d1-0242ac130002",
+    "total_area": 3480
+  },
+  {
+    "type": "field",
+    "farm_id": "64929650-5f4a-11ea-990a-22000a946868",
+    "location_id": "537ee1c8-d616-4f18-b0b6-bab7fd396c64",
+    "total_area": 1498
+  },
+  {
+    "type": "field",
+    "farm_id": "f0bdbe74-1a21-11eb-9085-22000bb9251f",
+    "location_id": "152f7a4c-aa68-4890-b8cd-8179bba309bf",
+    "total_area": 230562
+  },
+  {
+    "type": "field",
+    "farm_id": "4a55070e-74df-11eb-b111-22000a6ddaf5",
+    "location_id": "c5b0aa43-e718-47b4-b419-e61f9b666c3e",
+    "total_area": 557
+  },
+  {
+    "type": "field",
+    "farm_id": "3361ad00-d46a-11eb-811e-0242ac120002",
+    "location_id": "8a6e42be-004a-11ec-898e-0242ac130003",
+    "total_area": 3758
+  },
+  {
+    "type": "field",
+    "farm_id": "e17ed26a-7d61-11eb-bfb5-22000a6ddaf5",
+    "location_id": "08059e67-4ea1-422e-8f4c-9a9c81897f6a",
+    "total_area": 187073
+  },
+  {
+    "type": "barn",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "922cb7e2-5c6b-11ec-8d2b-0242ac130002",
+    "total_area": 223
+  },
+  {
+    "type": "field",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "location_id": "2e603e74-aa92-4299-ab6e-71634f2f89f3",
+    "total_area": 5742
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "location_id": "7a3c7846-25f4-11ec-8078-0242ac130003",
+    "total_area": 140
+  },
+  {
+    "type": "field",
+    "farm_id": "63195230-de8a-11eb-bcd8-0242ac120002",
+    "location_id": "b162c768-e985-11eb-b8d8-0242ac120002",
+    "total_area": 299690
+  },
+  {
+    "type": "field",
+    "farm_id": "c6dbbc80-4e8b-11ea-b0b8-22000a946868",
+    "location_id": "8af34030-fec1-42ec-b00c-e0192ba19d7e",
+    "total_area": 282
+  },
+  {
+    "type": "field",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "location_id": "3827df66-78b7-11ec-9c98-0242ac130004",
+    "total_area": 10846
+  },
+  {
+    "type": "field",
+    "farm_id": "67d2acd6-8dc1-11ec-8679-0242ac120002",
+    "location_id": "1f8622e0-9b0f-11ec-92ee-0242ac120002",
+    "total_area": 6174
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "c7cd4e56-3057-11ec-966d-0242ac130002",
+    "total_area": 12603
+  },
+  {
+    "type": "field",
+    "farm_id": "d5816dfa-1ae3-11eb-a861-22000bb9251f",
+    "location_id": "9bf1bbf6-838c-4c8e-b480-7353729c2375",
+    "total_area": 1601
+  },
+  {
+    "type": "field",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "location_id": "4c4c9eb5-1eae-4ac1-868b-d79714b06cea",
+    "total_area": 552840
+  },
+  {
+    "type": "field",
+    "farm_id": "0ba1473a-449b-11eb-907c-22000ab8b02b",
+    "location_id": "41872499-c43c-4704-b34b-9efca7d615ca",
+    "total_area": 4430
+  },
+  {
+    "type": "field",
+    "farm_id": "c6dbbc80-4e8b-11ea-b0b8-22000a946868",
+    "location_id": "54483145-fdc5-4dd6-8f76-9e054102c4bf",
+    "total_area": 18404
+  },
+  {
+    "type": "garden",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "5eae4e26-5c6b-11ec-8d2b-0242ac130002",
+    "total_area": 1227
+  },
+  {
+    "type": "field",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "location_id": "ba8c9091-1936-4a9e-904f-e7da282c9d00",
+    "total_area": 1707
+  },
+  {
+    "type": "field",
+    "farm_id": "2548d3ac-5b2a-11ea-b343-22000a946868",
+    "location_id": "0814102f-ecb4-468e-91e6-2c3258f421cb",
+    "total_area": 177
+  },
+  {
+    "type": "field",
+    "farm_id": "31aa961c-370c-11eb-9cec-22000b479377",
+    "location_id": "7bd9da60-4185-48eb-ba78-fb3caaf70b97",
+    "total_area": 606
+  },
+  {
+    "type": "field",
+    "farm_id": "6bd9469a-87fb-11eb-a9dd-0a7facd3678d",
+    "location_id": "226e5eac-b896-438e-8116-b9c781c3d264",
+    "total_area": 3714
+  },
+  {
+    "type": "field",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "location_id": "66601266-b0a5-466a-a6ef-dfa3cc367b13",
+    "total_area": 389
+  },
+  {
+    "type": "barn",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "location_id": "f3e68e46-8de3-11ec-8334-0242ac120002",
+    "total_area": 101
+  },
+  {
+    "type": "field",
+    "farm_id": "19372492-5b39-11ea-b6c8-22000a946868",
+    "location_id": "ebbc12c3-e2ec-479a-a581-431f4ab1f78f",
+    "total_area": 22050
+  },
+  {
+    "type": "field",
+    "farm_id": "74ca8710-8e67-11eb-b071-0a7facd3678d",
+    "location_id": "3de2b14b-e6b0-4bf7-9534-fbfc2cc83b96",
+    "total_area": 10864
+  },
+  {
+    "type": "field",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "location_id": "849daf3a-25f4-11ec-8078-0242ac130003",
+    "total_area": 1665
+  },
+  {
+    "type": "field",
+    "farm_id": "440ee648-a92e-11eb-8b1b-0242ac130002",
+    "location_id": "37c9f94f-cb50-42c8-9baa-142354b0d425",
+    "total_area": 1099
+  },
+  {
+    "type": "field",
+    "farm_id": "0d92dda4-7ecc-11eb-9bd6-22000a6ddaf5",
+    "location_id": "159642de-766a-403e-b84f-d2b8aab2a534",
+    "total_area": 571
+  },
+  {
+    "type": "residence",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "025f54f2-5c6c-11ec-8d2b-0242ac130002",
+    "total_area": 176
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "6c15f094-7a64-4b5d-8290-d9ff64fef32b",
+    "total_area": 688
+  },
+  {
+    "type": "field",
+    "farm_id": "28b2225a-a549-11ea-b925-22000ba8027d",
+    "location_id": "bce148e9-a7fc-4022-9399-e0477fd030cc",
+    "total_area": 5524
+  },
+  {
+    "type": "barn",
+    "farm_id": "d7b68fbc-74a4-11ec-b479-0242ac130004",
+    "location_id": "17bf5b84-74a5-11ec-b479-0242ac130004",
+    "total_area": 748
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "b976498e-31c9-11ec-9897-0242ac130002",
+    "total_area": 1094
+  },
+  {
+    "type": "field",
+    "farm_id": "b5ebef20-3035-11ec-93d7-0242ac130002",
+    "location_id": "44831bc2-33b1-11ec-9bd4-0242ac130002",
+    "total_area": 1627
+  },
+  {
+    "type": "field",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "ebfffd3a-3338-11ec-af31-0242ac130002",
+    "total_area": 511
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "6b22af7f-abbf-45bd-96d5-3d32d95b20f6",
+    "total_area": 581
+  },
+  {
+    "type": "field",
+    "farm_id": "5f88170c-4915-11ea-ae5e-22000b8600fb",
+    "location_id": "86e68313-c8b5-4de2-9d88-4599794f97ac",
+    "total_area": 24097
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "12e7be22-9006-11ec-b983-0242ac120002",
+    "location_id": "a240dffa-900a-11ec-80e6-0242ac120002",
+    "total_area": 22577
+  },
+  {
+    "type": "field",
+    "farm_id": "42e26698-0cf0-11ec-9fc8-0242ac130003",
+    "location_id": "14fce20e-0cf4-11ec-a7f3-0242ac130003",
+    "total_area": 50569
+  },
+  {
+    "type": "residence",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "f9945b9c-5c6b-11ec-8d2b-0242ac130002",
+    "total_area": 296
+  },
+  {
+    "type": "field",
+    "farm_id": "f758e55e-9038-11ec-916e-0242ac120002",
+    "location_id": "2340f38c-9039-11ec-a6ac-0242ac120002",
+    "total_area": 12568
+  },
+  {
+    "type": "field",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "location_id": "860f8603-481f-4bfb-94d3-161dcf5dd08c",
+    "total_area": 283858
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "42a9f0a2-314d-11ec-8a34-0242ac130002",
+    "total_area": 118300
+  },
+  {
+    "type": "field",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "85dedb10-31d6-11ec-b823-0242ac130002",
+    "total_area": 1421
+  },
+  {
+    "type": "field",
+    "farm_id": "4e169ac4-61ca-11eb-bd5c-22000ab2b8c4",
+    "location_id": "3b0a1979-28a7-4812-9285-70b6bf72723e",
+    "total_area": 206397
+  },
+  {
+    "type": "field",
+    "farm_id": "b0eee49a-59a4-11eb-a3f1-22000ab2b8c4",
+    "location_id": "f617beb8-3974-45ce-9510-6d1ab036dfd9",
+    "total_area": 3906
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "3e72610a-3057-11ec-966d-0242ac130002",
+    "total_area": 9470
+  },
+  {
+    "type": "residence",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "location_id": "4f07d0d8-386b-11ec-a1d5-0242ac130002",
+    "total_area": 201
+  },
+  {
+    "type": "field",
+    "farm_id": "c1ac956e-6784-11eb-bf4c-22000ab2b8c4",
+    "location_id": "eb41044c-7fa1-4468-a7f1-41cbc2cd0f22",
+    "total_area": 81
+  },
+  {
+    "type": "field",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "location_id": "c0844b8c-3051-11ec-b45a-0242ac130002",
+    "total_area": 2735
+  },
+  {
+    "type": "field",
+    "farm_id": "5d375864-6e7a-11ec-85e2-0242ac130002",
+    "location_id": "eff6cb30-6e7a-11ec-84bf-0242ac130002",
+    "total_area": 83297
+  },
+  {
+    "type": "field",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "location_id": "9f19d833-5fa7-405d-8763-8595327ed1cc",
+    "total_area": 161
+  },
+  {
+    "type": "garden",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "location_id": "9683d754-6ce1-11ec-b918-0242ac130002",
+    "total_area": 2708
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "location_id": "3f66d2c8-5c42-11ec-b9d1-0242ac130002",
+    "total_area": 12995
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "b5ebef20-3035-11ec-93d7-0242ac130002",
+    "location_id": "d952ebb8-33b3-11ec-9bd4-0242ac130002",
+    "total_area": 422
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "location_id": "ac253b42-31b4-11ec-adce-0242ac130002",
+    "total_area": 46.999693419671
+  },
+  {
+    "type": "field",
+    "farm_id": "392dcd3c-42fc-11ea-a6f7-22000b8600fb",
+    "location_id": "e245bbd0-95af-4ed5-8652-ef804c8b3e8b",
+    "total_area": 1679
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "location_id": "1d730380-386b-11ec-a1d5-0242ac130002",
+    "total_area": 1644
+  },
+  {
+    "type": "field",
+    "farm_id": "4e34954e-42f2-11ea-b20a-22000b8600fb",
+    "location_id": "7577adf0-c684-42bc-937d-4430bc4ad8f2",
+    "total_area": 608
+  },
+  {
+    "type": "garden",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "f0343a12-2175-11ec-a52e-0242ac130003",
+    "total_area": 4163218
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "67d2acd6-8dc1-11ec-8679-0242ac120002",
+    "location_id": "7f406a4c-8de0-11ec-8334-0242ac120002",
+    "total_area": 54000
+  },
+  {
+    "type": "field",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "26565374-2166-11ec-879d-0242ac130003",
+    "total_area": 381035
+  },
+  {
+    "type": "field",
+    "farm_id": "7b0d5fe8-a452-11eb-bbcc-0242ac130002",
+    "location_id": "e15f50f3-74a8-4fb5-b0ea-139541af8879",
+    "total_area": 1256
+  },
+  {
+    "type": "field",
+    "farm_id": "12e7be22-9006-11ec-b983-0242ac120002",
+    "location_id": "dc09cb30-9009-11ec-80e6-0242ac120002",
+    "total_area": 27171
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "location_id": "5823cd52-3109-11ec-bd2a-0242ac130002",
+    "total_area": 225
+  },
+  {
+    "type": "field",
+    "farm_id": "49070da6-5b6e-11ea-8a5d-22000a946868",
+    "location_id": "701808c5-5cb1-413a-9a5c-606e0e214681",
+    "total_area": 80
+  },
+  {
+    "type": "field",
+    "farm_id": "256b2bde-3039-11eb-81d1-22000b479377",
+    "location_id": "680de552-3131-4a8f-bdcc-ca3f6a7b597f",
+    "total_area": 401454
+  },
+  {
+    "type": "field",
+    "farm_id": "bf1354e0-17a4-11ea-a8d4-22000b628b95",
+    "location_id": "99df7d08-11de-475d-b414-a63fd36c5dc4",
+    "total_area": 2320
+  },
+  {
+    "type": "garden",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "b4f0d46e-3332-11ec-af31-0242ac130002",
+    "total_area": 776
+  },
+  {
+    "type": "field",
+    "farm_id": "3b8be870-2a82-11eb-bf05-22000b479377",
+    "location_id": "d1ebeaeb-d636-4f04-b851-8937a57ab791",
+    "total_area": 63379
+  },
+  {
+    "type": "field",
+    "farm_id": "11359696-a438-11ea-8857-22000ba8027d",
+    "location_id": "b92c6de9-8820-481b-816d-83c7c247f841",
+    "total_area": 4278
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "cff50ea1-1dc6-47d7-b3ed-d98e404ab021",
+    "total_area": 448
+  },
+  {
+    "type": "field",
+    "farm_id": "9322d2c6-90ab-11eb-85b5-0a7facd3678d",
+    "location_id": "9c51e958-3f83-4fa0-beda-85e7872bf13f",
+    "total_area": 25616
+  },
+  {
+    "type": "field",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "location_id": "2cccacea-91ca-4ee4-abfd-841e5333f0b8",
+    "total_area": 2778
+  },
+  {
+    "type": "residence",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "location_id": "ec8e8802-8dc9-11ec-924b-0242ac120002",
+    "total_area": 5815
+  },
+  {
+    "type": "garden",
+    "farm_id": "3803bdfc-36b3-11ec-9d47-0242ac130002",
+    "location_id": "0d785c0a-3744-11ec-abd1-0242ac130002",
+    "total_area": 78933
+  },
+  {
+    "type": "field",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "location_id": "a842e268-310a-11ec-af88-0242ac130002",
+    "total_area": 1991
+  },
+  {
+    "type": "field",
+    "farm_id": "d287549c-36b8-11ec-91a4-0242ac130002",
+    "location_id": "478031ae-373d-11ec-a108-0242ac130002",
+    "total_area": 3311
+  },
+  {
+    "type": "field",
+    "farm_id": "e7fb39d0-698e-11eb-bcea-22000a6ddaf5",
+    "location_id": "9007df4f-9fc7-430f-b6a8-365238018640",
+    "total_area": 5761
+  },
+  {
+    "type": "garden",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "29250cd6-0789-11ec-9953-0242ac130003",
+    "total_area": 212600
+  },
+  {
+    "type": "garden",
+    "farm_id": "ad7a35b4-73ff-11ec-8f0f-0242ac130004",
+    "location_id": "c1ce8916-73ff-11ec-9993-0242ac130004",
+    "total_area": 292763
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "location_id": "3baafac6-3102-11ec-af65-0242ac130002",
+    "total_area": 3650
+  },
+  {
+    "type": "field",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "location_id": "bd30ea58-5be1-4946-a16c-2599fb8f974e",
+    "total_area": 3677
+  },
+  {
+    "type": "residence",
+    "farm_id": "fdef2b42-39dc-11ec-8f9a-0242ac130002",
+    "location_id": "664d7766-39dd-11ec-a601-0242ac130002",
+    "total_area": 293
+  },
+  {
+    "type": "field",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "location_id": "c842d4e4-30ef-11ec-b101-0242ac130002",
+    "total_area": 4605
+  },
+  {
+    "type": "field",
+    "farm_id": "c6dbbc80-4e8b-11ea-b0b8-22000a946868",
+    "location_id": "c3264220-f0b4-4ee1-9f7a-dbc6c8548cf2",
+    "total_area": 460006
+  },
+  {
+    "type": "field",
+    "farm_id": "a71f3616-b753-11ea-95fd-22000a3def48",
+    "location_id": "141ea104-87fa-4984-a332-fceb76a59da5",
+    "total_area": 254141
+  },
+  {
+    "type": "field",
+    "farm_id": "e3d004c6-59c1-11eb-a2f3-22000ab2b8c4",
+    "location_id": "9738aef1-7bdb-466d-a8eb-87db4f65dada",
+    "total_area": 1431
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "location_id": "06983794-30ef-11ec-869c-0242ac130002",
+    "total_area": 200240
+  },
+  {
+    "type": "field",
+    "farm_id": "9603e4f2-9d81-11eb-8c86-121a0e444ae7",
+    "location_id": "a04cf911-1d68-4df9-81e1-03040c5e11ae",
+    "total_area": 7243
+  },
+  {
+    "type": "field",
+    "farm_id": "e17ed26a-7d61-11eb-bfb5-22000a6ddaf5",
+    "location_id": "be7a9431-295e-4e1a-91b5-040914acfc93",
+    "total_area": 161267
+  },
+  {
+    "type": "field",
+    "farm_id": "24e8ee66-97cd-11eb-ae5e-121a0e444ae7",
+    "location_id": "f5e39486-131b-4154-8215-3098cbc44daa",
+    "total_area": 414
+  },
+  {
+    "type": "field",
+    "farm_id": "49930bf8-5efb-11eb-b0bd-22000ab2b8c4",
+    "location_id": "e5c20e89-5111-4def-9b9e-5a498439a308",
+    "total_area": 10590
+  },
+  {
+    "type": "field",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "a583b3ba-3338-11ec-af31-0242ac130002",
+    "total_area": 419
+  },
+  {
+    "type": "field",
+    "farm_id": "dc1e3faa-2865-11eb-a6b6-22000b479377",
+    "location_id": "187bce4c-2abf-4c96-82b7-95d5f4d5d970",
+    "total_area": 2968
+  },
+  {
+    "type": "barn",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "location_id": "1293a198-3057-11ec-b13d-0242ac130002",
+    "total_area": 23144
+  },
+  {
+    "type": "field",
+    "farm_id": "0587ec94-1e00-11eb-8d80-22000bb9251f",
+    "location_id": "209f7203-75a4-4833-8e11-b8306329c59f",
+    "total_area": 21803
+  },
+  {
+    "type": "field",
+    "farm_id": "3308b0e6-3597-11eb-a902-22000b479377",
+    "location_id": "0b7217a8-586a-47f1-ad3c-db7887c31627",
+    "total_area": 149851
+  },
+  {
+    "type": "field",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "location_id": "29448709-17d0-4417-8c8f-a98b5cdcc031",
+    "total_area": 172
+  },
+  {
+    "type": "garden",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "e6cd61c4-3688-11ec-98e0-0242ac130002",
+    "total_area": 1143
+  },
+  {
+    "type": "field",
+    "farm_id": "d68bad7a-6ff5-11eb-a53d-22000a6ddaf5",
+    "location_id": "40075b27-7422-4b4a-83bd-e43bb71986b6",
+    "total_area": 291
+  },
+  {
+    "type": "field",
+    "farm_id": "64427996-610f-11eb-ae3e-22000ab2b8c4",
+    "location_id": "c56dac42-f8d5-4f50-b5c5-f5ddb8fb4490",
+    "total_area": 218
+  },
+  {
+    "type": "field",
+    "farm_id": "f0bdbe74-1a21-11eb-9085-22000bb9251f",
+    "location_id": "00e96d37-b633-4425-bfdb-43956b6c5da3",
+    "total_area": 71881
+  },
+  {
+    "type": "field",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "location_id": "f171bd46-38fe-11ec-93a6-0242ac130002",
+    "total_area": 5197
+  },
+  {
+    "type": "barn",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "location_id": "9c04623c-31ba-11ec-a1e8-0242ac130002",
+    "total_area": 127
+  },
+  {
+    "type": "garden",
+    "farm_id": "d7b68fbc-74a4-11ec-b479-0242ac130004",
+    "location_id": "21abddc8-74a7-11ec-b479-0242ac130004",
+    "total_area": 1992
+  },
+  {
+    "type": "field",
+    "farm_id": "3b8be870-2a82-11eb-bf05-22000b479377",
+    "location_id": "fbd51df5-c8ae-4196-9271-73144bbfe131",
+    "total_area": 5270
+  },
+  {
+    "type": "field",
+    "farm_id": "a17f90dc-33bb-11ea-9707-22000b8600fb",
+    "location_id": "25cecf1c-d93a-4927-993b-f69c9b481560",
+    "total_area": 128
+  },
+  {
+    "type": "field",
+    "farm_id": "034ec3f6-22d5-11eb-a491-22000bb9251f",
+    "location_id": "60f865d3-a05c-44e3-84cb-45787e324274",
+    "total_area": 4192
+  },
+  {
+    "type": "field",
+    "farm_id": "24e8ee66-97cd-11eb-ae5e-121a0e444ae7",
+    "location_id": "8e4d460d-ab2f-4d81-8041-b3e2916db76b",
+    "total_area": 962
+  },
+  {
+    "type": "field",
+    "farm_id": "91013000-68c9-11eb-a38e-22000a6ddaf5",
+    "location_id": "5b45db52-3db1-44f7-9d50-1cc5fea230b5",
+    "total_area": 16967
+  },
+  {
+    "type": "field",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "location_id": "a73726a8-e066-11eb-ac43-0242ac120002",
+    "total_area": 840.00037161252
+  },
+  {
+    "type": "field",
+    "farm_id": "15e79e32-5875-11ea-a274-22000a946868",
+    "location_id": "f98686f8-b615-4e39-968a-d91aafc10db4",
+    "total_area": 7734
+  },
+  {
+    "type": "field",
+    "farm_id": "64929650-5f4a-11ea-990a-22000a946868",
+    "location_id": "97e28937-fc38-439d-b176-dd8cd23a8199",
+    "total_area": 2360
+  },
+  {
+    "type": "field",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "location_id": "f90ba640-313b-11ec-b91e-0242ac130002",
+    "total_area": 13
+  },
+  {
+    "type": "residence",
+    "farm_id": "dcd91532-27a1-11ec-9fa9-0242ac130003",
+    "location_id": "b56da344-2cfd-11ec-9b06-0242ac130002",
+    "total_area": 102
+  },
+  {
+    "type": "field",
+    "farm_id": "bb155670-5cf6-11eb-94f2-22000ab2b8c4",
+    "location_id": "e84d5f17-3a39-4074-a657-f092dba91970",
+    "total_area": 27878
+  },
+  {
+    "type": "field",
+    "farm_id": "15e79e32-5875-11ea-a274-22000a946868",
+    "location_id": "3ba921f8-e8e5-499c-9f0b-16630e47a7f0",
+    "total_area": 4755
+  },
+  {
+    "type": "field",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "location_id": "66843a0c-8dcb-11ec-924b-0242ac120002",
+    "total_area": 16723
+  },
+  {
+    "type": "field",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "location_id": "e455d547-05bf-4f41-a269-1071888d320e",
+    "total_area": 3319
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "291652a0-a893-4806-8e0b-dcbefe8cdeca",
+    "total_area": 468
+  },
+  {
+    "type": "field",
+    "farm_id": "09a46a26-3653-11eb-b328-22000b479377",
+    "location_id": "8e81ccc7-7934-430b-a896-e0eda161a73b",
+    "total_area": 84484
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "1c10818c-1aec-4e04-8b20-53f75a12b73c",
+    "total_area": 86
+  },
+  {
+    "type": "field",
+    "farm_id": "2eb6b42e-3745-11ec-98a6-0242ac130002",
+    "location_id": "29450c1a-3746-11ec-98a6-0242ac130002",
+    "total_area": 56227
+  },
+  {
+    "type": "field",
+    "farm_id": "f0bdbe74-1a21-11eb-9085-22000bb9251f",
+    "location_id": "4388f0bc-770c-41b0-be4b-d08e3cf73bcf",
+    "total_area": 91253
+  },
+  {
+    "type": "field",
+    "farm_id": "dcd2a6d0-4533-11eb-bfe2-22000ab8b02b",
+    "location_id": "da42bd91-da4c-4574-a0e3-555e7a8c3910",
+    "total_area": 1626
+  },
+  {
+    "type": "field",
+    "farm_id": "c670b7ce-3b1f-11eb-a4ba-22000ab8b02b",
+    "location_id": "24b73454-e065-4dbe-aeb8-5433bf1fc086",
+    "total_area": 1604
+  },
+  {
+    "type": "field",
+    "farm_id": "236266b0-22b8-11eb-ab01-22000bb9251f",
+    "location_id": "7fef6798-b873-4712-9fa2-60b5b453142f",
+    "total_area": 1156
+  },
+  {
+    "type": "field",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "location_id": "6d71c836-26f4-11ec-8c51-0242ac130003",
+    "total_area": 232
+  },
+  {
+    "type": "garden",
+    "farm_id": "b4ffdf28-304d-11ec-bbea-0242ac130002",
+    "location_id": "c8a0557a-304e-11ec-827c-0242ac130002",
+    "total_area": 57325
+  },
+  {
+    "type": "residence",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "location_id": "4e890a6a-3135-11ec-a68d-0242ac130002",
+    "total_area": 25372
+  },
+  {
+    "type": "field",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "location_id": "7d82e8d6-30ef-11ec-b703-0242ac130002",
+    "total_area": 4566
+  },
+  {
+    "type": "field",
+    "farm_id": "d68bad7a-6ff5-11eb-a53d-22000a6ddaf5",
+    "location_id": "2bd927f5-e0d6-413f-b9aa-3adfdea58265",
+    "total_area": 2469
+  },
+  {
+    "type": "field",
+    "farm_id": "fdef2b42-39dc-11ec-8f9a-0242ac130002",
+    "location_id": "508120fe-39dd-11ec-a601-0242ac130002",
+    "total_area": 653
+  },
+  {
+    "type": "field",
+    "farm_id": "9dce7026-7d92-11eb-a1e8-22000a6ddaf5",
+    "location_id": "1c9bbaed-6d8b-4112-a2a7-d103bb509d52",
+    "total_area": 2953
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "baf8d5ea-3347-11ec-af57-0242ac130002",
+    "total_area": 388
+  },
+  {
+    "type": "field",
+    "farm_id": "54fdf6b0-3b15-11eb-9886-22000ab8b02b",
+    "location_id": "416fffb7-5941-44e6-a8fb-0634080e6603",
+    "total_area": 1061
+  },
+  {
+    "type": "field",
+    "farm_id": "dd295afc-7026-11eb-9fab-22000a6ddaf5",
+    "location_id": "32893c3e-9eeb-4adc-ae09-f1db804ad682",
+    "total_area": 2148
+  },
+  {
+    "type": "field",
+    "farm_id": "64929650-5f4a-11ea-990a-22000a946868",
+    "location_id": "4ce00612-b2fe-4f7d-b3ac-e9c28a966b36",
+    "total_area": 1313
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "location_id": "b94f1b9a-5c42-11ec-b9d1-0242ac130002",
+    "total_area": 284506
+  },
+  {
+    "type": "field",
+    "farm_id": "4504fffc-c7c3-11eb-bafa-0242ac120002",
+    "location_id": "8139de8e-c7c3-11eb-a188-0242ac120002",
+    "total_area": 36675
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "location_id": "be16fb12-386a-11ec-a1d5-0242ac130002",
+    "total_area": 218174
+  },
+  {
+    "type": "field",
+    "farm_id": "85c82e96-6991-11eb-b6d6-22000a6ddaf5",
+    "location_id": "910f9092-c4c9-4953-9a30-bb6fe61136b2",
+    "total_area": 359
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "c1a2285a-3375-11ec-9672-0242ac130002",
+    "total_area": 315596
+  },
+  {
+    "type": "barn",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "2985bdde-3375-11ec-a903-0242ac130002",
+    "total_area": 17182
+  },
+  {
+    "type": "field",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "location_id": "89c8f138-5856-4003-8640-51522bc9d807",
+    "total_area": 39724
+  },
+  {
+    "type": "barn",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "59821078-32a3-11ec-89cc-0242ac130002",
+    "total_area": 137
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "0fabde8a-cad8-11eb-bcc7-0242ac120002",
+    "total_area": 15
+  },
+  {
+    "type": "field",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "location_id": "0cf09744-3117-11ec-b013-0242ac130002",
+    "total_area": 27
+  },
+  {
+    "type": "field",
+    "farm_id": "e5a472e0-3492-11eb-b4fe-22000b479377",
+    "location_id": "e512b473-4442-40bb-9bcc-a643f19bb218",
+    "total_area": 15724
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "296e4fa4-3385-11ec-9ad4-0242ac130002",
+    "total_area": 434854
+  },
+  {
+    "type": "field",
+    "farm_id": "36674266-6328-11eb-b318-22000ab2b8c4",
+    "location_id": "60976ec4-3a38-48c7-892f-07caf1fe7843",
+    "total_area": 99
+  },
+  {
+    "type": "residence",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "location_id": "e731f4c6-3102-11ec-bb40-0242ac130002",
+    "total_area": 68
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "f69ee770-3410-4a46-bdd7-fc0c6a26b029",
+    "total_area": 1160
+  },
+  {
+    "type": "field",
+    "farm_id": "b69b79a8-8609-11eb-b046-0a7facd3678d",
+    "location_id": "d2b86dd6-8263-4aa9-918b-795d26dcecd3",
+    "total_area": 1666
+  },
+  {
+    "type": "garden",
+    "farm_id": "b5ebef20-3035-11ec-93d7-0242ac130002",
+    "location_id": "e651389e-33b1-11ec-9bd4-0242ac130002",
+    "total_area": 2226
+  },
+  {
+    "type": "field",
+    "farm_id": "36674266-6328-11eb-b318-22000ab2b8c4",
+    "location_id": "a12cbafd-8238-4bcc-b430-9930a60b9b6b",
+    "total_area": 16377
+  },
+  {
+    "type": "barn",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "location_id": "ef2ea5e2-5c41-11ec-b9d1-0242ac130002",
+    "total_area": 202
+  },
+  {
+    "type": "field",
+    "farm_id": "d7603eb0-6b4e-11eb-9d12-22000a6ddaf5",
+    "location_id": "c77af7ba-9bf6-4df1-a408-6a01f0db0491",
+    "total_area": 85
+  },
+  {
+    "type": "field",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "location_id": "6e18dd78-99ac-4f1b-8880-f08eaff818c0",
+    "total_area": 2724
+  },
+  {
+    "type": "field",
+    "farm_id": "b2a355c4-1ab0-11eb-a02a-22000bb9251f",
+    "location_id": "8e96c681-c869-44ad-9563-ef69427e93eb",
+    "total_area": 9111
+  },
+  {
+    "type": "field",
+    "farm_id": "f8f001ca-57e2-11eb-acc7-22000ab2b8c4",
+    "location_id": "8167d5a0-93a1-4226-8f89-4e05d8af08ff",
+    "total_area": 46730
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "a4a4c594-050d-43a9-9ca2-c918de3873b2",
+    "total_area": 442
+  },
+  {
+    "type": "field",
+    "farm_id": "f0bdbe74-1a21-11eb-9085-22000bb9251f",
+    "location_id": "6757316a-762c-4920-bac6-82fac7560c98",
+    "total_area": 234823
+  },
+  {
+    "type": "field",
+    "farm_id": "3308b0e6-3597-11eb-a902-22000b479377",
+    "location_id": "81fc11ad-8ad7-4cf0-8749-e8f69660f786",
+    "total_area": 852645
+  },
+  {
+    "type": "garden",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "ef2126bc-01fe-11ec-98c9-0242ac130003",
+    "total_area": 100248
+  },
+  {
+    "type": "field",
+    "farm_id": "67dfaeb8-3421-11eb-9810-22000b479377",
+    "location_id": "036658a9-0590-4e60-974b-ead7e7883f52",
+    "total_area": 80386
+  },
+  {
+    "type": "field",
+    "farm_id": "b0eee49a-59a4-11eb-a3f1-22000ab2b8c4",
+    "location_id": "ae71155b-dca0-4d8a-98d1-df77909858c6",
+    "total_area": 2911
+  },
+  {
+    "type": "field",
+    "farm_id": "13480dde-a9f4-11eb-ad5b-0242ac130002",
+    "location_id": "f1606970-7a63-4f1a-a16e-f425ab2e8d13",
+    "total_area": 4496
+  },
+  {
+    "type": "field",
+    "farm_id": "2222e56e-2acd-11eb-b9f7-22000b479377",
+    "location_id": "3bd9ba0c-8444-4255-9483-34f572a7005a",
+    "total_area": 2593
+  },
+  {
+    "type": "barn",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "location_id": "03951ce2-304f-11ec-a938-0242ac130002",
+    "total_area": 184
+  },
+  {
+    "type": "field",
+    "farm_id": "67dfaeb8-3421-11eb-9810-22000b479377",
+    "location_id": "4f4f68a0-b0c1-4402-8414-3b6f48af364c",
+    "total_area": 22521
+  },
+  {
+    "type": "field",
+    "farm_id": "ef175d4e-c96e-11eb-a31a-0242ac120002",
+    "location_id": "6a04051c-c978-11eb-9550-0242ac120002",
+    "total_area": 45572
+  },
+  {
+    "type": "field",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "location_id": "8ffc0ca0-01cf-4977-96da-e99319830fc8",
+    "total_area": 1085
+  },
+  {
+    "type": "field",
+    "farm_id": "82b693b2-0f75-11eb-a2e7-22000bb9251f",
+    "location_id": "8cb16da1-6948-4270-84f1-cf7c640e3f72",
+    "total_area": 66500
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "fa3ad1ac-7278-11ec-ac7e-0242ac130002",
+    "location_id": "74279e1c-7361-11ec-a8e3-0242ac130004",
+    "total_area": 8954
+  },
+  {
+    "type": "field",
+    "farm_id": "5f88170c-4915-11ea-ae5e-22000b8600fb",
+    "location_id": "821dcb79-1545-458d-838d-0c62cc0b1be1",
+    "total_area": 16966
+  },
+  {
+    "type": "field",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "baa2d15c-5c6b-11ec-8d2b-0242ac130002",
+    "total_area": 4045
+  },
+  {
+    "type": "barn",
+    "farm_id": "b4ffdf28-304d-11ec-bbea-0242ac130002",
+    "location_id": "5c5ff354-3051-11ec-b356-0242ac130002",
+    "total_area": 219325
+  },
+  {
+    "type": "field",
+    "farm_id": "9322d2c6-90ab-11eb-85b5-0a7facd3678d",
+    "location_id": "7f6e92f0-ee1e-45c5-aef3-03861dec9458",
+    "total_area": 9407
+  },
+  {
+    "type": "field",
+    "farm_id": "4e34954e-42f2-11ea-b20a-22000b8600fb",
+    "location_id": "da640df7-d338-43ae-bf61-5e78894dc94c",
+    "total_area": 3800
+  },
+  {
+    "type": "field",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "location_id": "4386de95-3e66-4664-aa4e-541da1a85905",
+    "total_area": 629
+  },
+  {
+    "type": "field",
+    "farm_id": "67d2acd6-8dc1-11ec-8679-0242ac120002",
+    "location_id": "370c52a4-8de0-11ec-8334-0242ac120002",
+    "total_area": 6825
+  },
+  {
+    "type": "field",
+    "farm_id": "d7b68fbc-74a4-11ec-b479-0242ac130004",
+    "location_id": "0e8b28f2-74a7-11ec-b479-0242ac130004",
+    "total_area": 108466
+  },
+  {
+    "type": "field",
+    "farm_id": "236266b0-22b8-11eb-ab01-22000bb9251f",
+    "location_id": "1107d6fd-9574-476c-85a4-04b32c96f616",
+    "total_area": 2960
+  },
+  {
+    "type": "field",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "location_id": "9babc3e6-b41a-4c8a-9f07-5da1d91cdb99",
+    "total_area": 15378
+  },
+  {
+    "type": "residence",
+    "farm_id": "b6e8494e-7a24-11ec-a3b6-0242ac130004",
+    "location_id": "5789e5f6-7a25-11ec-82be-0242ac130004",
+    "total_area": 2725
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "43c641e8-57eb-4347-bf88-63944c6353d8",
+    "total_area": 16
+  },
+  {
+    "type": "field",
+    "farm_id": "40189f38-6947-11eb-b52b-22000a6ddaf5",
+    "location_id": "4c20d1c5-932f-451a-91bb-7fc743c8edfc",
+    "total_area": 1882
+  },
+  {
+    "type": "field",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "location_id": "2630c710-18d7-45c2-9b78-f89e035a5787",
+    "total_area": 38
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "01d63a0a-ca09-11eb-acd2-0242ac120002",
+    "location_id": "d25bccb6-88ff-11ec-b0ff-0242ac130004",
+    "total_area": 4414
+  },
+  {
+    "type": "barn",
+    "farm_id": "b4ffdf28-304d-11ec-bbea-0242ac130002",
+    "location_id": "45ce651c-3051-11ec-b356-0242ac130002",
+    "total_area": 14189
+  },
+  {
+    "type": "field",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "location_id": "8fde3d50-5c41-11ec-b9d1-0242ac130002",
+    "total_area": 66451
+  },
+  {
+    "type": "field",
+    "farm_id": "a26db2c2-c4a5-11eb-ba71-0242ac120002",
+    "location_id": "9d2b88b8-c872-11eb-89a8-0242ac120002",
+    "total_area": 1215708
+  },
+  {
+    "type": "field",
+    "farm_id": "bb155670-5cf6-11eb-94f2-22000ab2b8c4",
+    "location_id": "541a020c-0bd1-4adb-bc5a-b60855f4161d",
+    "total_area": 434
+  },
+  {
+    "type": "field",
+    "farm_id": "46539cea-16b9-11ea-b182-22000b628b95",
+    "location_id": "a09de0af-df6a-4d08-9baf-fb77e7f7e707",
+    "total_area": 682
+  },
+  {
+    "type": "garden",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "location_id": "81e94924-26f4-11ec-8c51-0242ac130003",
+    "total_area": 39
+  },
+  {
+    "type": "field",
+    "farm_id": "5c27fbbc-5b63-11ea-88c3-22000a946868",
+    "location_id": "ffe1cee2-0e47-4cb9-b20a-f0b8f942ef7d",
+    "total_area": 289
+  },
+  {
+    "type": "field",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "location_id": "d95a73c7-0099-4412-ba69-1344390b2acc",
+    "total_area": 3109
+  },
+  {
+    "type": "field",
+    "farm_id": "cae26ecc-53cd-11ea-9e9b-22000a946868",
+    "location_id": "9ce77bd8-f4a5-493b-8251-f2ec97ee5403",
+    "total_area": 3226
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "6605efef-9993-4541-b167-06c0c63d5d7f",
+    "total_area": 563
+  },
+  {
+    "type": "residence",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "location_id": "6d0e3b98-2624-11ec-a839-0242ac130003",
+    "total_area": 81
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "00204590-3339-11ec-af31-0242ac130002",
+    "total_area": 329
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "dfd427b8-31e2-11ec-87f1-0242ac130002",
+    "total_area": 66787
+  },
+  {
+    "type": "field",
+    "farm_id": "63819c1e-6168-11ea-8e16-22000a946868",
+    "location_id": "270ddac8-cbfb-482e-a344-c8001e7e141b",
+    "total_area": 608
+  },
+  {
+    "type": "field",
+    "farm_id": "c1d816fe-49d8-11eb-949b-22000ab8b02b",
+    "location_id": "4a01efee-b48c-4001-b4b1-54ba6027aa6e",
+    "total_area": 1522
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "location_id": "bdc69dde-26f4-11ec-8c51-0242ac130003",
+    "total_area": 50
+  },
+  {
+    "type": "field",
+    "farm_id": "adfa74a4-1592-11ea-a501-22000b628b95",
+    "location_id": "eed893af-58f0-4bcc-a94b-7315bdc277a5",
+    "total_area": 2026
+  },
+  {
+    "type": "field",
+    "farm_id": "d42bb120-3fa8-11ea-a9bd-22000b8600fb",
+    "location_id": "922f823b-fbde-4353-879e-077ebdc3c043",
+    "total_area": 78
+  },
+  {
+    "type": "field",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "location_id": "da647584-c889-11eb-8c75-0242ac120002",
+    "total_area": 42115
+  },
+  {
+    "type": "field",
+    "farm_id": "c90317a4-83ce-11ec-86d2-0242ac130004",
+    "location_id": "ed7fffc0-83ce-11ec-b385-0242ac130004",
+    "total_area": 445
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "f50a6c30-3054-11ec-966d-0242ac130002",
+    "total_area": 190314
+  },
+  {
+    "type": "field",
+    "farm_id": "8ccef970-638a-11eb-a290-22000ab2b8c4",
+    "location_id": "8ac05b2d-8f28-4785-ae78-15437618112b",
+    "total_area": 2593
+  },
+  {
+    "type": "field",
+    "farm_id": "256b2bde-3039-11eb-81d1-22000b479377",
+    "location_id": "88f3d11b-b1d2-4f75-9449-6f0752de77e7",
+    "total_area": 688560
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "4ece253a-38f8-11ec-b466-0242ac130002",
+    "total_area": 144176606
+  },
+  {
+    "type": "field",
+    "farm_id": "f7c91e5e-1326-11eb-a1bb-22000bb9251f",
+    "location_id": "90d40c84-84e8-41ff-80ea-a7b825f01b9b",
+    "total_area": 45256
+  },
+  {
+    "type": "field",
+    "farm_id": "00b67960-b75d-11ea-8303-22000a3def48",
+    "location_id": "da0ee6ed-8d4c-4345-a741-2ec367f67f77",
+    "total_area": 37026
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "543c123a-e96f-11eb-964c-0242ac120002",
+    "location_id": "ee79b42e-fab8-11eb-be62-0242ac120002",
+    "total_area": 5101
+  },
+  {
+    "type": "field",
+    "farm_id": "9625aeaa-448c-11eb-a348-22000ab8b02b",
+    "location_id": "5a9162ca-4ee6-4aa6-b279-f73bb7872858",
+    "total_area": 529
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "7b1c56aa-ac2f-4dfc-a418-86196d1052af",
+    "total_area": 432
+  },
+  {
+    "type": "field",
+    "farm_id": "6909d532-5f98-11eb-be71-22000ab2b8c4",
+    "location_id": "a8b912f4-11da-4956-8717-dff2e224d402",
+    "total_area": 288
+  },
+  {
+    "type": "field",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "location_id": "77a53169-a9fb-4a14-8d8b-7952778f84c4",
+    "total_area": 199
+  },
+  {
+    "type": "field",
+    "farm_id": "c670b7ce-3b1f-11eb-a4ba-22000ab8b02b",
+    "location_id": "8fcd9704-a22b-46ca-af0c-a2a8819759a5",
+    "total_area": 2155
+  },
+  {
+    "type": "field",
+    "farm_id": "3b944000-1d45-11eb-8c1f-22000bb9251f",
+    "location_id": "243bff0e-c10a-4d37-860d-b8f9f053b389",
+    "total_area": 100
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "2d499f62-3055-11ec-966d-0242ac130002",
+    "total_area": 97328
+  },
+  {
+    "type": "field",
+    "farm_id": "64427996-610f-11eb-ae3e-22000ab2b8c4",
+    "location_id": "7e3cfecf-ab40-435d-b74a-613b9e3721ab",
+    "total_area": 49
+  },
+  {
+    "type": "field",
+    "farm_id": "829b1e3a-285b-11eb-8aca-22000b479377",
+    "location_id": "f90c0a13-34d6-4fea-8a98-825c06c81487",
+    "total_area": 4346
+  },
+  {
+    "type": "field",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "location_id": "16e072d8-2688-491c-8769-059052332aab",
+    "total_area": 4794
+  },
+  {
+    "type": "field",
+    "farm_id": "09a46a26-3653-11eb-b328-22000b479377",
+    "location_id": "6c2b22d5-3b36-4a83-a714-2b0459739a34",
+    "total_area": 292693
+  },
+  {
+    "type": "field",
+    "farm_id": "674b1ebe-1271-11eb-b723-22000bb9251f",
+    "location_id": "473f0ab9-8520-45c6-92a8-44cd97f38b64",
+    "total_area": 6329
+  },
+  {
+    "type": "field",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "location_id": "99c42b86-30ef-11ec-b101-0242ac130002",
+    "total_area": 8976
+  },
+  {
+    "type": "field",
+    "farm_id": "8cbafe3e-17b4-11ea-8261-22000b628b95",
+    "location_id": "d93bb128-07e2-4f60-aa2e-ed7c698a8971",
+    "total_area": 11259
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "3911b0b8-dbaf-4248-8398-dc8a3ce2a78f",
+    "total_area": 233
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "location_id": "e9e35eec-0134-11ec-92ad-0242ac130003",
+    "total_area": 44
+  },
+  {
+    "type": "field",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "location_id": "61f7cd2c-c09d-43cf-9687-a0502236acfd",
+    "total_area": 37415
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "771040dc-52de-11ec-8c67-0242ac130002",
+    "total_area": 1108480
+  },
+  {
+    "type": "field",
+    "farm_id": "2621e95c-04f9-11eb-b8bd-22000a41d56e",
+    "location_id": "231b78aa-1aee-40de-904a-1016df0e146c",
+    "total_area": 3776
+  },
+  {
+    "type": "garden",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "6efb3e8c-faba-11eb-be62-0242ac120002",
+    "total_area": 126047
+  },
+  {
+    "type": "field",
+    "farm_id": "bffaf254-5b25-11ea-a6b6-22000a946868",
+    "location_id": "a4fdef94-bb37-4ada-ae6a-5f9996431658",
+    "total_area": 109
+  },
+  {
+    "type": "barn",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "location_id": "e7069c1e-31b0-11ec-803f-0242ac130002",
+    "total_area": 120.00018580626
+  },
+  {
+    "type": "field",
+    "farm_id": "ac6fc57c-40c9-11eb-bc1b-22000ab8b02b",
+    "location_id": "418d08bf-59ce-4275-ad94-20989dfaff78",
+    "total_area": 4900
+  },
+  {
+    "type": "field",
+    "farm_id": "5f88170c-4915-11ea-ae5e-22000b8600fb",
+    "location_id": "025a3cc4-ae17-4090-a4a9-e22f05472be5",
+    "total_area": 27249
+  },
+  {
+    "type": "field",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "location_id": "f0d963cb-8cfb-4a30-92b2-80e67893741b",
+    "total_area": 183
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "1b46c3e6-3cd0-4ec6-82d7-8f353bee9ff0",
+    "total_area": 101
+  },
+  {
+    "type": "field",
+    "farm_id": "392c6bc8-4a12-11ea-bed2-22000b8600fb",
+    "location_id": "3bec2067-7b10-4cee-89f2-45305ffa7707",
+    "total_area": 2195
+  },
+  {
+    "type": "field",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "location_id": "c904175a-ee30-11eb-bf2e-0242ac120002",
+    "total_area": 40031
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "d7b68fbc-74a4-11ec-b479-0242ac130004",
+    "location_id": "82f49b74-74a7-11ec-b479-0242ac130004",
+    "total_area": 413951
+  },
+  {
+    "type": "field",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "a6958c4a-3056-11ec-966d-0242ac130002",
+    "total_area": 29738
+  },
+  {
+    "type": "field",
+    "farm_id": "c6dbbc80-4e8b-11ea-b0b8-22000a946868",
+    "location_id": "64bfb330-4723-46fe-ae92-5c625bf9b343",
+    "total_area": 15333
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "e7fcbc7c-50b0-426d-8d35-1f8aaecc03b4",
+    "total_area": 454
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "12e7be22-9006-11ec-b983-0242ac120002",
+    "location_id": "c1c753c2-9a5f-11ec-86bb-0242ac120002",
+    "total_area": 175700
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "01623d52-09c5-11ec-8e87-0242ac130003",
+    "total_area": 18504
+  },
+  {
+    "type": "garden",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "location_id": "a232534c-8dc9-11ec-924b-0242ac120002",
+    "total_area": 22
+  },
+  {
+    "type": "field",
+    "farm_id": "fc7f1742-3b20-11eb-a4ba-22000ab8b02b",
+    "location_id": "a8e61170-b400-4a81-a113-d8bc18d2a06f",
+    "total_area": 12124
+  },
+  {
+    "type": "field",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "63c7e038-faba-11eb-be62-0242ac120002",
+    "total_area": 239051
+  },
+  {
+    "type": "field",
+    "farm_id": "3b5d50f8-5b68-11ea-8d8e-22000a946868",
+    "location_id": "1062875a-2f2f-4187-a2b9-d6d2258b88a3",
+    "total_area": 216
+  },
+  {
+    "type": "field",
+    "farm_id": "674b1ebe-1271-11eb-b723-22000bb9251f",
+    "location_id": "a485e362-967d-41bf-9f0c-bec55f4b1077",
+    "total_area": 1459
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "67d2acd6-8dc1-11ec-8679-0242ac120002",
+    "location_id": "0dee69fc-8de0-11ec-8334-0242ac120002",
+    "total_area": 3466
+  },
+  {
+    "type": "field",
+    "farm_id": "94b58e66-6c8a-11eb-90b1-22000a6ddaf5",
+    "location_id": "defb5eea-43f2-43dc-96d0-ac9beb203b03",
+    "total_area": 12996
+  },
+  {
+    "type": "field",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "location_id": "14fea39c-15ed-43f7-a8f6-c743592942ff",
+    "total_area": 283
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "location_id": "f9c17e94-8dc9-11ec-924b-0242ac120002",
+    "total_area": 75350
+  },
+  {
+    "type": "barn",
+    "farm_id": "8368e776-3105-11ec-a72b-0242ac130002",
+    "location_id": "36346068-3117-11ec-9e7f-0242ac130002",
+    "total_area": 42343
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "e53f6850-3054-11ec-966d-0242ac130002",
+    "total_area": 935
+  },
+  {
+    "type": "field",
+    "farm_id": "b69b79a8-8609-11eb-b046-0a7facd3678d",
+    "location_id": "b91f7387-e30c-4961-a92f-12f6816877a3",
+    "total_area": 1585
+  },
+  {
+    "type": "field",
+    "farm_id": "b35439de-65a1-11eb-94a5-22000ab2b8c4",
+    "location_id": "e0a00a00-9e42-4987-b714-cd4db04a2609",
+    "total_area": 61165
+  },
+  {
+    "type": "field",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "location_id": "4875b71d-3594-47e5-91f5-edcb2cb3d464",
+    "total_area": 1292
+  },
+  {
+    "type": "garden",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "location_id": "6abd6f9a-314f-11ec-8a34-0242ac130002",
+    "total_area": 1268
+  },
+  {
+    "type": "field",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "location_id": "859f4299-0908-4afe-9413-9e3a10ef8d5c",
+    "total_area": 262
+  },
+  {
+    "type": "barn",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "7a9e25f8-31d6-11ec-b823-0242ac130002",
+    "total_area": 385
+  },
+  {
+    "type": "residence",
+    "farm_id": "b5ebef20-3035-11ec-93d7-0242ac130002",
+    "location_id": "7d6714c4-33b2-11ec-9bd4-0242ac130002",
+    "total_area": 1085
+  },
+  {
+    "type": "field",
+    "farm_id": "8cb64c78-1ad2-11eb-909a-22000bb9251f",
+    "location_id": "9d170cc2-58b2-4ddd-a769-91401a9def1f",
+    "total_area": 722955
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "98f2113f-e3d5-4d2a-bb7e-310e2c769941",
+    "total_area": 32689
+  },
+  {
+    "type": "field",
+    "farm_id": "0587ec94-1e00-11eb-8d80-22000bb9251f",
+    "location_id": "d711a992-713c-44d0-832d-de06714d725b",
+    "total_area": 544
+  },
+  {
+    "type": "field",
+    "farm_id": "24e8ee66-97cd-11eb-ae5e-121a0e444ae7",
+    "location_id": "c92d6049-fa47-48e1-b717-b8e931ccad5e",
+    "total_area": 972
+  },
+  {
+    "type": "field",
+    "farm_id": "24e8ee66-97cd-11eb-ae5e-121a0e444ae7",
+    "location_id": "582763cf-a6c1-4f91-9d80-7e111dbeb00d",
+    "total_area": 965
+  },
+  {
+    "type": "garden",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "location_id": "f3445326-25f4-11ec-8078-0242ac130003",
+    "total_area": 2169
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "db9193b6-4844-490a-ac12-672786c6a738",
+    "total_area": 43
+  },
+  {
+    "type": "field",
+    "farm_id": "d1b53e6a-38e5-11ec-a075-0242ac130002",
+    "location_id": "72eecbf2-38e6-11ec-a075-0242ac130002",
+    "total_area": 4339
+  },
+  {
+    "type": "barn",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "location_id": "d80f8ae8-5c41-11ec-b9d1-0242ac130002",
+    "total_area": 900
+  },
+  {
+    "type": "garden",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "9f968cec-31d6-11ec-80b9-0242ac130002",
+    "total_area": 360
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "d2ecd854-2177-11ec-a651-0242ac130003",
+    "total_area": 3765302
+  },
+  {
+    "type": "residence",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "location_id": "90153872-310e-11ec-81ea-0242ac130002",
+    "total_area": 401
+  },
+  {
+    "type": "field",
+    "farm_id": "51895eec-304d-11ec-8582-0242ac130002",
+    "location_id": "a1887f42-30eb-11ec-a856-0242ac130002",
+    "total_area": 5806
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "fced2832-305b-11ec-a382-0242ac130002",
+    "total_area": 4428
+  },
+  {
+    "type": "garden",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "0ab2cfec-2177-11ec-8412-0242ac130003",
+    "total_area": 432178
+  },
+  {
+    "type": "field",
+    "farm_id": "b6e8494e-7a24-11ec-a3b6-0242ac130004",
+    "location_id": "3c5e5910-7a25-11ec-82be-0242ac130004",
+    "total_area": 114986
+  },
+  {
+    "type": "field",
+    "farm_id": "63819c1e-6168-11ea-8e16-22000a946868",
+    "location_id": "0255082e-7ab7-44ae-8279-d319a3fe12ff",
+    "total_area": 314
+  },
+  {
+    "type": "field",
+    "farm_id": "40189f38-6947-11eb-b52b-22000a6ddaf5",
+    "location_id": "d27f5374-5a9b-4774-88d6-27721f6cf836",
+    "total_area": 1252
+  },
+  {
+    "type": "field",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "location_id": "2cc738aa-3114-11ec-8c48-0242ac130002",
+    "total_area": 59
+  },
+  {
+    "type": "field",
+    "farm_id": "cabd299e-3e52-11eb-980b-22000ab8b02b",
+    "location_id": "c1ebe44f-8444-4434-88ff-c055fe5d3bf9",
+    "total_area": 17007
+  },
+  {
+    "type": "field",
+    "farm_id": "cae26ecc-53cd-11ea-9e9b-22000a946868",
+    "location_id": "64b91af4-8354-4d32-8e7d-509aee3c911d",
+    "total_area": 9297
+  },
+  {
+    "type": "field",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "7b42adee-3686-11ec-8558-0242ac130002",
+    "total_area": 1069
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "location_id": "022e790c-c88a-11eb-8c75-0242ac120002",
+    "total_area": 24292
+  },
+  {
+    "type": "garden",
+    "farm_id": "2057ced0-ca09-11eb-acd2-0242ac120002",
+    "location_id": "35db2208-1675-11ec-880f-0242ac130003",
+    "total_area": 3759
+  },
+  {
+    "type": "field",
+    "farm_id": "dd295afc-7026-11eb-9fab-22000a6ddaf5",
+    "location_id": "9d65b136-ab5b-4e73-8db1-84b3b546de8e",
+    "total_area": 706
+  },
+  {
+    "type": "field",
+    "farm_id": "3361ad00-d46a-11eb-811e-0242ac120002",
+    "location_id": "8cd8ae94-ea6b-11eb-bd20-0242ac120002",
+    "total_area": 20329
+  },
+  {
+    "type": "field",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "location_id": "b1b65fac-a96d-4622-9812-614f3a12bbb6",
+    "total_area": 416162
+  },
+  {
+    "type": "field",
+    "farm_id": "faff1a00-66e7-11eb-b3c8-22000ab2b8c4",
+    "location_id": "d8762a4b-1e7a-4509-9087-381b8768f05d",
+    "total_area": 4772
+  },
+  {
+    "type": "field",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "location_id": "b789ead4-30ef-11ec-b101-0242ac130002",
+    "total_area": 5427
+  },
+  {
+    "type": "field",
+    "farm_id": "1fd14056-4497-11eb-9f96-22000ab8b02b",
+    "location_id": "31e3b315-e056-4b61-a346-c00753bad927",
+    "total_area": 3307
+  },
+  {
+    "type": "field",
+    "farm_id": "d37fd9fa-39a2-11eb-9923-22000b479377",
+    "location_id": "8ebacfe8-21e2-4c32-9274-4feb78fde888",
+    "total_area": 122
+  },
+  {
+    "type": "field",
+    "farm_id": "e7fd1cf6-dec2-11eb-9cc5-0242ac120002",
+    "location_id": "01f11b76-dec3-11eb-9cc5-0242ac120002",
+    "total_area": 23956
+  },
+  {
+    "type": "field",
+    "farm_id": "efc2bbd6-697d-11eb-b6d7-22000a6ddaf5",
+    "location_id": "cbe70be8-1f6c-4b9e-a7c3-47d9e0f78925",
+    "total_area": 596
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "5751972d-c9b6-4b0a-b4b0-4b99ef6381ce",
+    "total_area": 443
+  },
+  {
+    "type": "field",
+    "farm_id": "64929650-5f4a-11ea-990a-22000a946868",
+    "location_id": "628c0ead-9eeb-4418-8021-36d4a07c7661",
+    "total_area": 1890
+  },
+  {
+    "type": "field",
+    "farm_id": "d68bad7a-6ff5-11eb-a53d-22000a6ddaf5",
+    "location_id": "5a8f489a-eea1-4323-802e-55787034e0cd",
+    "total_area": 1072
+  },
+  {
+    "type": "garden",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "a99ec010-31d6-11ec-80b9-0242ac130002",
+    "total_area": 651
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "d1b53e6a-38e5-11ec-a075-0242ac130002",
+    "location_id": "9e224862-38e6-11ec-a075-0242ac130002",
+    "total_area": 657
+  },
+  {
+    "type": "field",
+    "farm_id": "4122442a-3e3a-11eb-9bca-22000ab8b02b",
+    "location_id": "a3cdbdae-cb02-4512-9aa2-e2ffcb9634f0",
+    "total_area": 33554
+  },
+  {
+    "type": "field",
+    "farm_id": "2b3361b4-39a0-11ec-85be-0242ac130002",
+    "location_id": "53392266-39a0-11ec-aecf-0242ac130002",
+    "total_area": 35435
+  },
+  {
+    "type": "field",
+    "farm_id": "8ccef970-638a-11eb-a290-22000ab2b8c4",
+    "location_id": "25a7f631-af8d-4dfa-9465-02787ad60785",
+    "total_area": 1044
+  },
+  {
+    "type": "garden",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "location_id": "97414350-3101-11ec-a43e-0242ac130002",
+    "total_area": 308
+  },
+  {
+    "type": "field",
+    "farm_id": "a17f90dc-33bb-11ea-9707-22000b8600fb",
+    "location_id": "dde90a1a-b7ae-4c1a-8426-baf69dbd60d9",
+    "total_area": 10387
+  },
+  {
+    "type": "field",
+    "farm_id": "5f88170c-4915-11ea-ae5e-22000b8600fb",
+    "location_id": "4acc4373-282c-41f4-8ad7-95a63e87f9b1",
+    "total_area": 69948
+  },
+  {
+    "type": "field",
+    "farm_id": "06001e24-7c21-11eb-b915-22000a6ddaf5",
+    "location_id": "56960166-fa22-4c42-acd3-aceecf5d238a",
+    "total_area": 3184
+  },
+  {
+    "type": "field",
+    "farm_id": "a26db2c2-c4a5-11eb-ba71-0242ac120002",
+    "location_id": "8b4b7870-eb1c-11eb-90e3-0242ac120002",
+    "total_area": 741314
+  },
+  {
+    "type": "field",
+    "farm_id": "a26db2c2-c4a5-11eb-ba71-0242ac120002",
+    "location_id": "a2ede47c-eb1c-11eb-90e3-0242ac120002",
+    "total_area": 26868
+  },
+  {
+    "type": "barn",
+    "farm_id": "d49b0838-c812-11eb-b18a-0242ac120002",
+    "location_id": "72b9f554-d913-11eb-82e9-0242ac120002",
+    "total_area": 29269
+  },
+  {
+    "type": "field",
+    "farm_id": "85c82e96-6991-11eb-b6d6-22000a6ddaf5",
+    "location_id": "b2af7661-7a30-4967-94a4-ef942e778a40",
+    "total_area": 785
+  },
+  {
+    "type": "field",
+    "farm_id": "85a1cf56-43be-11eb-8491-22000ab8b02b",
+    "location_id": "01b584ab-2d7b-4f98-8d79-de05ad60fa86",
+    "total_area": 1345815
+  },
+  {
+    "type": "field",
+    "farm_id": "46539cea-16b9-11ea-b182-22000b628b95",
+    "location_id": "7c095bcd-4ecf-45ca-81d0-b8659ec272e0",
+    "total_area": 4957
+  },
+  {
+    "type": "field",
+    "farm_id": "0587ec94-1e00-11eb-8d80-22000bb9251f",
+    "location_id": "9d4073fd-1234-48e8-99cd-267cbd07f2b6",
+    "total_area": 117829
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "b5ebef20-3035-11ec-93d7-0242ac130002",
+    "location_id": "04f631fa-33b2-11ec-9bd4-0242ac130002",
+    "total_area": 1982.961565975158
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "f5e4b2e6-3338-11ec-af31-0242ac130002",
+    "total_area": 706
+  },
+  {
+    "type": "field",
+    "farm_id": "85c82e96-6991-11eb-b6d6-22000a6ddaf5",
+    "location_id": "cb1fb7c2-1dda-43d9-aa42-549279a4ad24",
+    "total_area": 172
+  },
+  {
+    "type": "garden",
+    "farm_id": "01d63a0a-ca09-11eb-acd2-0242ac120002",
+    "location_id": "c2418596-88ff-11ec-b0ff-0242ac130004",
+    "total_area": 19856
+  },
+  {
+    "type": "barn",
+    "farm_id": "f59b2634-305a-11ec-ad47-0242ac130002",
+    "location_id": "510caafe-305d-11ec-8256-0242ac130002",
+    "total_area": 262135
+  },
+  {
+    "type": "field",
+    "farm_id": "6bd9469a-87fb-11eb-a9dd-0a7facd3678d",
+    "location_id": "ef855049-510f-44da-94e0-8fe3b8742db6",
+    "total_area": 3124
+  },
+  {
+    "type": "barn",
+    "farm_id": "51895eec-304d-11ec-8582-0242ac130002",
+    "location_id": "8fc6bd18-358d-11ec-8847-0242ac130002",
+    "total_area": 1063
+  },
+  {
+    "type": "garden",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "location_id": "97e90a70-26f4-11ec-8c51-0242ac130003",
+    "total_area": 16
+  },
+  {
+    "type": "garden",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "ff18fc0a-6dbc-11ec-8853-0242ac130002",
+    "total_area": 1581852
+  },
+  {
+    "type": "field",
+    "farm_id": "d7603eb0-6b4e-11eb-9d12-22000a6ddaf5",
+    "location_id": "94906258-09c6-490e-b4c9-d172a112aad3",
+    "total_area": 57
+  },
+  {
+    "type": "field",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "location_id": "e733ea92-c889-11eb-8c75-0242ac120002",
+    "total_area": 77921
+  },
+  {
+    "type": "field",
+    "farm_id": "c1ac956e-6784-11eb-bf4c-22000ab2b8c4",
+    "location_id": "3d9a01a0-122f-49f0-baa1-73f8a043f643",
+    "total_area": 14
+  },
+  {
+    "type": "field",
+    "farm_id": "5f88170c-4915-11ea-ae5e-22000b8600fb",
+    "location_id": "5c0374c7-62a8-4956-a2ed-be4222dc7e94",
+    "total_area": 10208
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "location_id": "0a25c8f8-386b-11ec-a1d5-0242ac130002",
+    "total_area": 136
+  },
+  {
+    "type": "garden",
+    "farm_id": "543c123a-e96f-11eb-964c-0242ac120002",
+    "location_id": "90aba654-e96f-11eb-964c-0242ac120002",
+    "total_area": 18169
+  },
+  {
+    "type": "field",
+    "farm_id": "c1ac956e-6784-11eb-bf4c-22000ab2b8c4",
+    "location_id": "86a91a51-104c-4bab-b4f1-c487e6140862",
+    "total_area": 57
+  },
+  {
+    "type": "field",
+    "farm_id": "efc2bbd6-697d-11eb-b6d7-22000a6ddaf5",
+    "location_id": "1b620027-a6ac-45c3-bae1-58bb0f68b21e",
+    "total_area": 186
+  },
+  {
+    "type": "field",
+    "farm_id": "74f6d588-4f4f-11eb-934c-22000ab8b02b",
+    "location_id": "fb7d02fc-8065-4d06-98b6-38fdbf64ea28",
+    "total_area": 68127
+  },
+  {
+    "type": "field",
+    "farm_id": "8477cc1a-2b3c-11eb-b956-22000b479377",
+    "location_id": "b93a996f-78d4-402a-b98e-ee0f2d4a016c",
+    "total_area": 3269
+  },
+  {
+    "type": "field",
+    "farm_id": "a4fb8e3a-64db-11eb-9f0f-22000ab2b8c4",
+    "location_id": "4e3b0370-1672-11ec-9a0e-0242ac130003",
+    "total_area": 376410
+  },
+  {
+    "type": "field",
+    "farm_id": "91013000-68c9-11eb-a38e-22000a6ddaf5",
+    "location_id": "41238cc0-5bca-4f54-9a22-61b104c64552",
+    "total_area": 203852
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "0d2d8172-725f-47a4-a467-4a0453ff200e",
+    "total_area": 254891
+  },
+  {
+    "type": "field",
+    "farm_id": "435589ba-60a4-11ea-8a5d-22000a946868",
+    "location_id": "6cf8d112-2675-4c34-abd5-b26671afc34f",
+    "total_area": 83870
+  },
+  {
+    "type": "field",
+    "farm_id": "5d36f54c-046b-11eb-a9f9-22000a41d56e",
+    "location_id": "0f509906-fbf1-45b4-a526-2173bffb0775",
+    "total_area": 14124
+  },
+  {
+    "type": "field",
+    "farm_id": "ada12ff6-100f-11ec-8ebd-0242ac130003",
+    "location_id": "e2bc2230-1010-11ec-9bf2-0242ac130003",
+    "total_area": 17324
+  },
+  {
+    "type": "field",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "location_id": "57bb2bb8-59fc-4a6c-9814-63e8664a7461",
+    "total_area": 49628
+  },
+  {
+    "type": "field",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "c6169d32-3332-11ec-af31-0242ac130002",
+    "total_area": 1465
+  },
+  {
+    "type": "field",
+    "farm_id": "8742c4d6-5b3a-11ea-b27b-22000a946868",
+    "location_id": "dd2a339c-e2e2-4071-af26-0af1caa5dee4",
+    "total_area": 134
+  },
+  {
+    "type": "field",
+    "farm_id": "17d85650-6373-11eb-8c1a-22000ab2b8c4",
+    "location_id": "fc5a41df-ba8b-45a2-ace7-affb8188ad0a",
+    "total_area": 18360
+  },
+  {
+    "type": "field",
+    "farm_id": "23759a6a-6f66-11ea-b9c3-22000a90b459",
+    "location_id": "951ea68f-2cce-4628-85ae-7eff1a5ab39b",
+    "total_area": 1303
+  },
+  {
+    "type": "field",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "07c860c6-3388-11ec-861f-0242ac130002",
+    "total_area": 2590941
+  },
+  {
+    "type": "field",
+    "farm_id": "d7b68fbc-74a4-11ec-b479-0242ac130004",
+    "location_id": "8a305014-74a6-11ec-b479-0242ac130004",
+    "total_area": 222253
+  },
+  {
+    "type": "field",
+    "farm_id": "11359696-a438-11ea-8857-22000ba8027d",
+    "location_id": "0d762515-4497-4f15-a391-ed98c32e50cf",
+    "total_area": 250
+  },
+  {
+    "type": "field",
+    "farm_id": "b1eafe76-333c-11eb-870b-22000b479377",
+    "location_id": "8f61ae63-0189-402a-b8e2-a995f0353b5d",
+    "total_area": 6708
+  },
+  {
+    "type": "field",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "4851dca8-305e-11ec-9e4f-0242ac130002",
+    "total_area": 582558
+  },
+  {
+    "type": "field",
+    "farm_id": "4e9ff8d8-0fd0-11eb-95a5-22000bb9251f",
+    "location_id": "7c13fec1-f369-4c17-ae8a-9bb054a0f126",
+    "total_area": 535568
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "cbb21263-0022-4590-ad14-f63c9a923d7e",
+    "total_area": 387
+  },
+  {
+    "type": "field",
+    "farm_id": "f0bdbe74-1a21-11eb-9085-22000bb9251f",
+    "location_id": "25becbfb-8b0e-4e89-826b-c92991b43b1c",
+    "total_area": 73671
+  },
+  {
+    "type": "field",
+    "farm_id": "74f6d588-4f4f-11eb-934c-22000ab8b02b",
+    "location_id": "895e3d90-2ecb-4db2-8ab4-904234d6649c",
+    "total_area": 81871
+  },
+  {
+    "type": "field",
+    "farm_id": "8cb64c78-1ad2-11eb-909a-22000bb9251f",
+    "location_id": "f423bb05-a4b7-4e67-938c-3376bcdb9651",
+    "total_area": 85480
+  },
+  {
+    "type": "field",
+    "farm_id": "f8b880ce-b3d7-11ea-90e5-22000a3def48",
+    "location_id": "3fce41e4-9d49-4b02-bc9e-28e6bc5531f0",
+    "total_area": 55828
+  },
+  {
+    "type": "field",
+    "farm_id": "671d4200-7d51-11eb-8ef1-22000a6ddaf5",
+    "location_id": "633739b9-900d-4f3e-af14-f21555490778",
+    "total_area": 248
+  },
+  {
+    "type": "field",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "location_id": "f09799d6-019f-11ec-ba16-0242ac130003",
+    "total_area": 637
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "c0992234-3338-11ec-af31-0242ac130002",
+    "total_area": 314
+  },
+  {
+    "type": "field",
+    "farm_id": "19372492-5b39-11ea-b6c8-22000a946868",
+    "location_id": "c6189efc-f5c9-4d85-b6a7-8a1d893939ac",
+    "total_area": 1316
+  },
+  {
+    "type": "field",
+    "farm_id": "a7d927b8-3e4b-11eb-a791-22000ab8b02b",
+    "location_id": "ee943b5c-a8ef-497b-970d-7cdc20259873",
+    "total_area": 3074
+  },
+  {
+    "type": "field",
+    "farm_id": "64427996-610f-11eb-ae3e-22000ab2b8c4",
+    "location_id": "012c4aa0-9913-4c59-95ce-95f628d0ccf4",
+    "total_area": 320
+  },
+  {
+    "type": "field",
+    "farm_id": "f378d5d6-709d-11eb-ac01-22000a6ddaf5",
+    "location_id": "562eb2b6-aa68-4717-a452-6e03172655dd",
+    "total_area": 82609
+  },
+  {
+    "type": "field",
+    "farm_id": "8368e776-3105-11ec-a72b-0242ac130002",
+    "location_id": "fef4caea-3105-11ec-a72b-0242ac130002",
+    "total_area": 211709
+  },
+  {
+    "type": "field",
+    "farm_id": "24e8ee66-97cd-11eb-ae5e-121a0e444ae7",
+    "location_id": "4d828e94-aec6-4fdb-a0e7-f07b49e0f2cf",
+    "total_area": 337
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "a2d42d87-b2cb-4f84-a2f2-cbf03cdfc310",
+    "total_area": 435
+  },
+  {
+    "type": "field",
+    "farm_id": "274d9648-7081-11eb-98d3-22000a6ddaf5",
+    "location_id": "7a2d076a-5b8d-4abc-a3f9-7f3dc6fab9cd",
+    "total_area": 8838
+  },
+  {
+    "type": "field",
+    "farm_id": "10024cae-333c-11eb-a5b4-22000b479377",
+    "location_id": "08ea7181-2bc4-4fe3-bb88-b33e73e061fe",
+    "total_area": 1362
+  },
+  {
+    "type": "field",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "location_id": "9cfb7710-32ab-11ec-8169-0242ac130002",
+    "total_area": 118
+  },
+  {
+    "type": "field",
+    "farm_id": "3b5d50f8-5b68-11ea-8d8e-22000a946868",
+    "location_id": "1e05c754-d44b-46d5-be87-171fed733a63",
+    "total_area": 525
+  },
+  {
+    "type": "field",
+    "farm_id": "498218c8-a5f2-11eb-96c6-0242ac130002",
+    "location_id": "af65df95-19d5-4134-abe3-3a55ac546b45",
+    "total_area": 150406
+  },
+  {
+    "type": "field",
+    "farm_id": "1578f642-333c-11eb-a5b4-22000b479377",
+    "location_id": "94cdfee6-b5e6-454a-87a7-972e7f4b16ce",
+    "total_area": 141
+  },
+  {
+    "type": "field",
+    "farm_id": "64929650-5f4a-11ea-990a-22000a946868",
+    "location_id": "be8af621-e978-4e98-8769-32cb6c33401c",
+    "total_area": 2112
+  },
+  {
+    "type": "field",
+    "farm_id": "c1ac956e-6784-11eb-bf4c-22000ab2b8c4",
+    "location_id": "10671c43-cf0a-42c3-b163-4b8e65f1ae59",
+    "total_area": 148
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "7a9b0ea1-0095-4cc9-8aaa-d9a136393c09",
+    "total_area": 60712
+  },
+  {
+    "type": "field",
+    "farm_id": "030deafa-1dfa-11eb-b7f5-22000bb9251f",
+    "location_id": "96e97366-2127-4c5e-830f-1e6fafe9b46e",
+    "total_area": 2730
+  },
+  {
+    "type": "field",
+    "farm_id": "980033a6-2841-11eb-b1d5-22000b479377",
+    "location_id": "c3ac40f8-0730-4ca9-ae8c-e4d06cec2f76",
+    "total_area": 1010
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "3b3b0de8-d22b-4ef4-9de9-3058ae69dfaa",
+    "total_area": 479
+  },
+  {
+    "type": "field",
+    "farm_id": "487e1f16-388e-11eb-af8a-22000b479377",
+    "location_id": "17b98b75-a4ee-4507-95b2-8f80d7d30fc8",
+    "total_area": 20256
+  },
+  {
+    "type": "field",
+    "farm_id": "01d63a0a-ca09-11eb-acd2-0242ac120002",
+    "location_id": "a3673cc4-88ff-11ec-8f3d-0242ac130004",
+    "total_area": 72641
+  },
+  {
+    "type": "garden",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "location_id": "128f54fe-6ce2-11ec-9c72-0242ac130002",
+    "total_area": 4498
+  },
+  {
+    "type": "garden",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "46188d60-cad8-11eb-bcc7-0242ac120002",
+    "total_area": 13
+  },
+  {
+    "type": "field",
+    "farm_id": "f1f7fa7e-333b-11eb-a5b4-22000b479377",
+    "location_id": "9b973e79-ad77-4619-bdcc-e3e7d8e2b76d",
+    "total_area": 1094
+  },
+  {
+    "type": "field",
+    "farm_id": "b6065408-169e-11ea-be5c-22000b628b95",
+    "location_id": "60651072-ba0f-4f3d-9dae-fc6dccc25b2c",
+    "total_area": 20
+  },
+  {
+    "type": "field",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "location_id": "7fe77780-8de3-11ec-8334-0242ac120002",
+    "total_area": 66662
+  },
+  {
+    "type": "field",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "location_id": "31accac4-313c-11ec-b91e-0242ac130002",
+    "total_area": 2.972900157006
+  },
+  {
+    "type": "field",
+    "farm_id": "9727d474-78d2-11ec-9d16-0242ac130004",
+    "location_id": "aba53388-78d2-11ec-9d16-0242ac130004",
+    "total_area": 82592
+  },
+  {
+    "type": "field",
+    "farm_id": "a17f90dc-33bb-11ea-9707-22000b8600fb",
+    "location_id": "0dd752d4-d75f-4a00-8152-1ea31c78c783",
+    "total_area": 162
+  },
+  {
+    "type": "field",
+    "farm_id": "8ccef970-638a-11eb-a290-22000ab2b8c4",
+    "location_id": "bbaa8686-525e-423e-9abe-17c46d6b2876",
+    "total_area": 4384
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "b6e8494e-7a24-11ec-a3b6-0242ac130004",
+    "location_id": "7d72d502-7a25-11ec-82be-0242ac130004",
+    "total_area": 182950
+  },
+  {
+    "type": "residence",
+    "farm_id": "3361ad00-d46a-11eb-811e-0242ac120002",
+    "location_id": "6c4d1706-004a-11ec-898e-0242ac130003",
+    "total_area": 844
+  },
+  {
+    "type": "field",
+    "farm_id": "392c6bc8-4a12-11ea-bed2-22000b8600fb",
+    "location_id": "d7cacbf5-8c26-474e-9cdf-3eec9fdf8c97",
+    "total_area": 4397
+  },
+  {
+    "type": "field",
+    "farm_id": "99337bb6-2b57-11eb-8ed8-22000b479377",
+    "location_id": "89a5cd00-d796-420e-8e47-5bbeec808c20",
+    "total_area": 27255
+  },
+  {
+    "type": "field",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "location_id": "8aa669f2-8dc9-11ec-924b-0242ac120002",
+    "total_area": 16988
+  },
+  {
+    "type": "field",
+    "farm_id": "64427996-610f-11eb-ae3e-22000ab2b8c4",
+    "location_id": "e09a30fb-31a6-4097-9282-ecea28616e52",
+    "total_area": 299
+  },
+  {
+    "type": "garden",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "84396246-52d6-11ec-abf4-0242ac130002",
+    "total_area": 450329
+  },
+  {
+    "type": "field",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "location_id": "21aa213d-f69c-4fbe-8302-db8e1b280949",
+    "total_area": 413
+  },
+  {
+    "type": "garden",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "location_id": "0df676d8-310b-11ec-b17e-0242ac130002",
+    "total_area": 510
+  },
+  {
+    "type": "field",
+    "farm_id": "5f88170c-4915-11ea-ae5e-22000b8600fb",
+    "location_id": "3b657541-cf1d-4334-be8c-b171f0cca4b5",
+    "total_area": 10484
+  },
+  {
+    "type": "field",
+    "farm_id": "b0fdd794-67ef-11eb-b64c-22000a6ddaf5",
+    "location_id": "b043e42b-c226-4daa-bc26-1608d67b054a",
+    "total_area": 240306
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "b6e8494e-7a24-11ec-a3b6-0242ac130004",
+    "location_id": "64ffcc32-7a25-11ec-82be-0242ac130004",
+    "total_area": 1068
+  },
+  {
+    "type": "residence",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "7343c470-32cb-11ec-8d00-0242ac130002",
+    "total_area": 99
+  },
+  {
+    "type": "field",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "location_id": "ec1691a5-dc7c-4136-911a-9205b68dcbcb",
+    "total_area": 16159801
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "2faba540-d379-11eb-a746-0242ac120002",
+    "location_id": "5320a4d2-260b-11ec-998f-0242ac130003",
+    "total_area": 785912
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "43ded49e-0841-49e8-8b5d-4f1ec3a4d73a",
+    "total_area": 521
+  },
+  {
+    "type": "field",
+    "farm_id": "28b2225a-a549-11ea-b925-22000ba8027d",
+    "location_id": "216f4b90-eb0b-491d-a549-ba0c095b4c62",
+    "total_area": 59209
+  },
+  {
+    "type": "field",
+    "farm_id": "19372492-5b39-11ea-b6c8-22000a946868",
+    "location_id": "50e8c102-ab3d-4941-93a2-f62a444dc94f",
+    "total_area": 31906
+  },
+  {
+    "type": "field",
+    "farm_id": "008e3a80-3652-11eb-9f66-22000b479377",
+    "location_id": "f915d40e-98b7-4a13-8fc8-90d325265b3f",
+    "total_area": 3826
+  },
+  {
+    "type": "field",
+    "farm_id": "91013000-68c9-11eb-a38e-22000a6ddaf5",
+    "location_id": "97ad4a9d-f99d-4700-ac1e-73e90ea20e32",
+    "total_area": 31767
+  },
+  {
+    "type": "garden",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "location_id": "000df0da-25f5-11ec-8078-0242ac130003",
+    "total_area": 2117
+  },
+  {
+    "type": "field",
+    "farm_id": "23759a6a-6f66-11ea-b9c3-22000a90b459",
+    "location_id": "952867bb-cb76-4015-8506-7c6d836ee6ab",
+    "total_area": 3198
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "d3bbf4aa-3332-11ec-af31-0242ac130002",
+    "total_area": 1769
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "f0473158-305c-11ec-b334-0242ac130002",
+    "total_area": 118127
+  },
+  {
+    "type": "field",
+    "farm_id": "faff1a00-66e7-11eb-b3c8-22000ab2b8c4",
+    "location_id": "d3f18cfd-2c91-4124-9b18-291c939a5d62",
+    "total_area": 30937
+  },
+  {
+    "type": "field",
+    "farm_id": "c9cd26d0-0fd9-11eb-a772-22000bb9251f",
+    "location_id": "74d2ca24-7c0e-4c4f-8938-2281bf14e3bf",
+    "total_area": 61203
+  },
+  {
+    "type": "field",
+    "farm_id": "a17f90dc-33bb-11ea-9707-22000b8600fb",
+    "location_id": "f12f882e-51e4-403d-8586-55a6a2067c5a",
+    "total_area": 77
+  },
+  {
+    "type": "field",
+    "farm_id": "efc2bbd6-697d-11eb-b6d7-22000a6ddaf5",
+    "location_id": "2600fdda-f124-4ae1-bc47-42dc14cf837a",
+    "total_area": 86
+  },
+  {
+    "type": "field",
+    "farm_id": "40189f38-6947-11eb-b52b-22000a6ddaf5",
+    "location_id": "7bd7a740-aaae-4a0a-be6b-6c7fd6534967",
+    "total_area": 107
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "4495bb6e-32a4-11ec-89cc-0242ac130002",
+    "total_area": 113
+  },
+  {
+    "type": "garden",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "550da574-5c6b-11ec-8d2b-0242ac130002",
+    "total_area": 714
+  },
+  {
+    "type": "field",
+    "farm_id": "90ad0546-6a56-11eb-90f6-22000a6ddaf5",
+    "location_id": "be213eda-fff5-4371-ab07-d9f4321c38eb",
+    "total_area": 6649
+  },
+  {
+    "type": "field",
+    "farm_id": "b2a355c4-1ab0-11eb-a02a-22000bb9251f",
+    "location_id": "c9fc14a7-5f45-4b2c-8c4e-f87f30fd68ae",
+    "total_area": 2994
+  },
+  {
+    "type": "surface_water",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "location_id": "13962494-8de5-11ec-8334-0242ac120002",
+    "total_area": 3833
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "location_id": "02da8f2a-26eb-11ec-8954-0242ac130003",
+    "total_area": 747
+  },
+  {
+    "type": "field",
+    "farm_id": "49930bf8-5efb-11eb-b0bd-22000ab2b8c4",
+    "location_id": "07922b6f-e901-4936-a870-cb2ed6877b1d",
+    "total_area": 42837
+  },
+  {
+    "type": "field",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "location_id": "2389e2af-da4f-46fa-a0b1-5d894ac775ad",
+    "total_area": 64
+  },
+  {
+    "type": "ceremonial_area",
+    "farm_id": "d1b53e6a-38e5-11ec-a075-0242ac130002",
+    "location_id": "d8468918-38e6-11ec-a075-0242ac130002",
+    "total_area": 908
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "location_id": "8499b734-3136-11ec-a7ac-0242ac130002",
+    "total_area": 133
+  },
+  {
+    "type": "field",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "location_id": "5f1d79b6-25f4-11ec-8078-0242ac130003",
+    "total_area": 1716
+  },
+  {
+    "type": "field",
+    "farm_id": "faff1a00-66e7-11eb-b3c8-22000ab2b8c4",
+    "location_id": "ba0489d8-c86c-41bd-9421-0255ee628fd3",
+    "total_area": 9214
+  },
+  {
+    "type": "field",
+    "farm_id": "31aa961c-370c-11eb-9cec-22000b479377",
+    "location_id": "6907c8a8-2f77-45a7-a639-4f92bd454016",
+    "total_area": 1161
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "location_id": "83ef8196-8de4-11ec-8334-0242ac120002",
+    "total_area": 36803
+  },
+  {
+    "type": "field",
+    "farm_id": "24e8ee66-97cd-11eb-ae5e-121a0e444ae7",
+    "location_id": "7a116ff7-c080-40df-bb78-19122ff4294d",
+    "total_area": 707
+  },
+  {
+    "type": "field",
+    "farm_id": "31135f2e-79b4-11ea-ad28-22000a90b459",
+    "location_id": "bbb29ed9-88c0-45af-81c2-ccd06a0fa7f6",
+    "total_area": 54
+  },
+  {
+    "type": "barn",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "location_id": "b4939e9c-5c41-11ec-b9d1-0242ac130002",
+    "total_area": 106
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "c4b562fa-045e-11ec-b69e-0242ac130003",
+    "location_id": "69a87640-09ea-11ec-b355-0242ac130003",
+    "total_area": 99
+  },
+  {
+    "type": "field",
+    "farm_id": "2222e56e-2acd-11eb-b9f7-22000b479377",
+    "location_id": "b2ed9dc2-f9cc-4a85-a93c-6855b72ef6b2",
+    "total_area": 2621
+  },
+  {
+    "type": "field",
+    "farm_id": "79ee2c62-81bd-11eb-b5a4-0a7facd3678d",
+    "location_id": "21e781af-bd79-426c-b517-e78d28800141",
+    "total_area": 138
+  },
+  {
+    "type": "field",
+    "farm_id": "4e34954e-42f2-11ea-b20a-22000b8600fb",
+    "location_id": "3bc0f8fb-e535-460a-9a5f-fd51e02450e4",
+    "total_area": 199425
+  },
+  {
+    "type": "residence",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "location_id": "101b3214-26ed-11ec-8f91-0242ac130003",
+    "total_area": 193
+  },
+  {
+    "type": "field",
+    "farm_id": "99337bb6-2b57-11eb-8ed8-22000b479377",
+    "location_id": "c432edee-917a-4c82-8646-90f9463ea76f",
+    "total_area": 30354
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "2d0c8198-8e94-4c69-8c51-78c58abe390f",
+    "total_area": 498
+  },
+  {
+    "type": "field",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "a9ab9d34-5c6b-11ec-8d2b-0242ac130002",
+    "total_area": 3023
+  },
+  {
+    "type": "field",
+    "farm_id": "392c6bc8-4a12-11ea-bed2-22000b8600fb",
+    "location_id": "4ab058ac-b0e2-43b8-9134-83f4a5c4f47b",
+    "total_area": 37023
+  },
+  {
+    "type": "field",
+    "farm_id": "8cb64c78-1ad2-11eb-909a-22000bb9251f",
+    "location_id": "6e9d0de5-ba51-44a6-9cf8-6afdc78fb64a",
+    "total_area": 4113
+  },
+  {
+    "type": "field",
+    "farm_id": "67d2acd6-8dc1-11ec-8679-0242ac120002",
+    "location_id": "519ff698-8dcc-11ec-924b-0242ac120002",
+    "total_area": 1604
+  },
+  {
+    "type": "field",
+    "farm_id": "7a340552-61a1-11eb-b543-22000ab2b8c4",
+    "location_id": "425da885-6f2f-4216-b93f-e0d5a6a1a8fb",
+    "total_area": 72
+  },
+  {
+    "type": "garden",
+    "farm_id": "67d2acd6-8dc1-11ec-8679-0242ac120002",
+    "location_id": "25527a7a-90c9-11ec-a6fa-0242ac120002",
+    "total_area": 200
+  },
+  {
+    "type": "field",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "location_id": "77fa58fe-5c41-11ec-b9d1-0242ac130002",
+    "total_area": 58833
+  },
+  {
+    "type": "barn",
+    "farm_id": "ba231718-09f6-11ec-9fa3-0242ac130003",
+    "location_id": "75234cc2-09f7-11ec-b7ec-0242ac130003",
+    "total_area": 45873
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "location_id": "7148c6c4-01e9-11ec-b141-0242ac130003",
+    "total_area": 8196
+  },
+  {
+    "type": "field",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "location_id": "4c2ccb7e-733b-11ec-8d3f-0242ac130004",
+    "total_area": 1031254
+  },
+  {
+    "type": "field",
+    "farm_id": "99f4289e-f941-11eb-a9ee-0242ac120002",
+    "location_id": "b8b583e0-f941-11eb-88bc-0242ac120002",
+    "total_area": 20386
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "a153d696-305c-11ec-a382-0242ac130002",
+    "total_area": 149100
+  },
+  {
+    "type": "field",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "location_id": "92dd2864-6ee4-41b1-bc70-f109b66887ab",
+    "total_area": 432
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "location_id": "5c9bedae-8de5-11ec-8334-0242ac120002",
+    "total_area": 249
+  },
+  {
+    "type": "field",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "location_id": "e85fedf3-f100-4677-85e6-5ad5b45cef6c",
+    "total_area": 2674
+  },
+  {
+    "type": "field",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "location_id": "a1e85200-313b-11ec-b91e-0242ac130002",
+    "total_area": 11
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "94f0d9b2-6f63-11ec-8aa5-0242ac130002",
+    "total_area": 739413
+  },
+  {
+    "type": "field",
+    "farm_id": "4a55070e-74df-11eb-b111-22000a6ddaf5",
+    "location_id": "253dbd1e-326f-467c-931e-e4f44ae5a1f1",
+    "total_area": 593
+  },
+  {
+    "type": "field",
+    "farm_id": "a17f90dc-33bb-11ea-9707-22000b8600fb",
+    "location_id": "3448685f-1949-4f68-b97f-1eca73f886c0",
+    "total_area": 8805
+  },
+  {
+    "type": "field",
+    "farm_id": "87273f94-5276-11ea-a41a-22000a946868",
+    "location_id": "365b1483-9580-4c1b-9aac-cb8e429735e7",
+    "total_area": 47312
+  },
+  {
+    "type": "field",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "location_id": "d6324307-715f-4153-a890-5d4983280a1f",
+    "total_area": 845
+  },
+  {
+    "type": "barn",
+    "farm_id": "b4ffdf28-304d-11ec-bbea-0242ac130002",
+    "location_id": "90baa466-3054-11ec-be02-0242ac130002",
+    "total_area": 218024
+  },
+  {
+    "type": "field",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "location_id": "4fdfb92b-1a50-4215-83c2-0df7329e624f",
+    "total_area": 324402
+  },
+  {
+    "type": "field",
+    "farm_id": "cf0e049a-3e4e-11eb-a791-22000ab8b02b",
+    "location_id": "1f5b1f1f-4554-477a-85de-7ced08c9e1a2",
+    "total_area": 19182
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "51895eec-304d-11ec-8582-0242ac130002",
+    "location_id": "abf5a95e-358d-11ec-8847-0242ac130002",
+    "total_area": 3913
+  },
+  {
+    "type": "field",
+    "farm_id": "4a55070e-74df-11eb-b111-22000a6ddaf5",
+    "location_id": "8f3e588f-2a30-4e5a-aabe-a38548b58014",
+    "total_area": 852
+  },
+  {
+    "type": "field",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "location_id": "8956f9c2-30ef-11ec-b703-0242ac130002",
+    "total_area": 5248
+  },
+  {
+    "type": "field",
+    "farm_id": "28b2225a-a549-11ea-b925-22000ba8027d",
+    "location_id": "df4962ab-bb6f-4afc-881e-decb8ee14b31",
+    "total_area": 11228
+  },
+  {
+    "type": "field",
+    "farm_id": "9625aeaa-448c-11eb-a348-22000ab8b02b",
+    "location_id": "b9d26c8a-202f-4aad-a3af-367b79111aee",
+    "total_area": 1462
+  },
+  {
+    "type": "garden",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "location_id": "f88737da-78b6-11ec-9c98-0242ac130004",
+    "total_area": 804
+  },
+  {
+    "type": "field",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "fe729350-5c6a-11ec-8d2b-0242ac130002",
+    "total_area": 17591
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "b4ffdf28-304d-11ec-bbea-0242ac130002",
+    "location_id": "170c49c8-3052-11ec-b1ed-0242ac130002",
+    "total_area": 363249
+  },
+  {
+    "type": "field",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "location_id": "a58f8bbd-f5b7-43f8-afab-33528dbb63a0",
+    "total_area": 4511
+  },
+  {
+    "type": "field",
+    "farm_id": "dd295afc-7026-11eb-9fab-22000a6ddaf5",
+    "location_id": "6f8a5a46-c19f-4b4c-a484-e975c1e664b4",
+    "total_area": 106
+  },
+  {
+    "type": "field",
+    "farm_id": "36674266-6328-11eb-b318-22000ab2b8c4",
+    "location_id": "2cd70485-86d0-48af-af9e-e9b1f00ea6de",
+    "total_area": 962
+  },
+  {
+    "type": "field",
+    "farm_id": "2faba540-d379-11eb-a746-0242ac120002",
+    "location_id": "74742088-17cd-11ec-a67a-0242ac130003",
+    "total_area": 281944
+  },
+  {
+    "type": "field",
+    "farm_id": "49930bf8-5efb-11eb-b0bd-22000ab2b8c4",
+    "location_id": "c72e8b45-1b7a-4336-8fbb-b440304c87a7",
+    "total_area": 20967
+  },
+  {
+    "type": "field",
+    "farm_id": "c1ac956e-6784-11eb-bf4c-22000ab2b8c4",
+    "location_id": "e2a9b2f6-c0b8-4ee9-aeae-8be9d133435e",
+    "total_area": 70
+  },
+  {
+    "type": "natural_area",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "location_id": "d8dd91ca-5c6b-11ec-8d2b-0242ac130002",
+    "total_area": 3642
+  },
+  {
+    "type": "field",
+    "farm_id": "5f88170c-4915-11ea-ae5e-22000b8600fb",
+    "location_id": "7c440e97-acc2-491a-826c-129c5d9bbf31",
+    "total_area": 23297
+  },
+  {
+    "type": "field",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "location_id": "91b123df-f2e1-4b23-9024-9c64002a68e6",
+    "total_area": 34341
+  },
+  {
+    "type": "barn",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "location_id": "5340858e-8dc8-11ec-a45b-0242ac120002",
+    "total_area": 122
+  },
+  {
+    "type": "field",
+    "farm_id": "bb0f5122-a94e-11eb-8b3e-0242ac130002",
+    "location_id": "dd951104-1077-43f3-8e32-9b0ee4cf2937",
+    "total_area": 166
+  },
+  {
+    "type": "garden",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "location_id": "12dae444-09c5-11ec-8e87-0242ac130003",
+    "total_area": 2076
+  },
+  {
+    "type": "farm_site_boundary",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "location_id": "630763c8-8609-11ec-9e16-0242ac130004",
+    "total_area": 54283
+  },
+  {
+    "type": "field",
+    "farm_id": "8110c7e6-357f-11eb-80e2-22000b479377",
+    "location_id": "fb3208b4-623a-4f20-8a7c-508413fb9964",
+    "total_area": 1174
+  },
+  {
+    "type": "field",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "location_id": "50df5a88-8de4-11ec-8334-0242ac120002",
+    "total_area": 24991
+  },
+  {
+    "type": "residence",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "location_id": "eeaf70d0-3057-11ec-966d-0242ac130002",
+    "total_area": 25813
+  },
+  {
+    "type": "field",
+    "farm_id": "7d1bddbe-4499-11eb-87eb-22000ab8b02b",
+    "location_id": "d4da0281-e8ec-4422-810b-8c89fc473856",
+    "total_area": 6438
+  },
+  {
+    "type": "field",
+    "farm_id": "28b2225a-a549-11ea-b925-22000ba8027d",
+    "location_id": "20ee6947-990c-4205-9779-2f4a73835a49",
+    "total_area": 9649
+  },
+  {
+    "type": "greenhouse",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "location_id": "da9d8cf2-32a6-11ec-89cc-0242ac130002",
+    "total_area": 372
+  },
+  {
+    "type": "field",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "location_id": "a2841876-78b6-11ec-9c98-0242ac130004",
+    "total_area": 5589
+  },
+  {
+    "type": "field",
+    "farm_id": "c14c67f4-3c08-11eb-9b6b-22000ab8b02b",
+    "location_id": "86ca3656-1244-4f83-b7b3-9d6d73aaf1f4",
+    "total_area": 5568
+  }
+]

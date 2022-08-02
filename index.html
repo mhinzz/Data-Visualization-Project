@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Litefarm</title>
+</head>
+<body>
+<div id="app">
+  <div class="header">
+    <h1> Where does your organic food come from? </h1>
+    <h2> Lifefarms Organic Farming Dashboard</h2>
+    <h3> Explore the farms and users of the Lifefarms organic farming database to learn more about
+      organic farming worldwide.
+      <br> Investigate crop types, certifications and what type of farms are using the lifefarms app below!
+    </h3>
+  </div>
+  <div class="page">
+    <div id="map"></div>
+    <div class="lower-charts">
+      <div class="chart-container">
+        <div id="chart1"></div>
+        <div class="expandable-certification-container">
+          <h4 id="certification-title">certification</h4>
+          <div id="chart2" class="expandable-chart"></div>
+        </div>
+        <div class="expandable-crop-container">
+          <h4 id="crop-title">crop</h4>
+          <div id="chart3" class="expandable-chart"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="chart4"></div>
+</div>
+
+<div id="tooltip" class="non-clickable"></div>
+<script type="module" src="/js/main.js"></script>
+</body>
+</html>

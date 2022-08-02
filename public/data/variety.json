@@ -1,0 +1,6398 @@
+[
+  {
+    "crop_id": 52,
+    "crop_variety_id": "827689d2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d7603eb0-6b4e-11eb-9d12-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 66,
+    "crop_variety_id": "82766088-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "3b944000-1d45-11eb-8c1f-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 89,
+    "crop_variety_id": "82764486-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d4b9a7b0-27a5-11eb-8123-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1152,
+    "crop_variety_id": "8276f5f2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "5c27fbbc-5b63-11ea-88c3-22000a946868",
+    "crop_variety_name": "Napoli"
+  },
+  {
+    "crop_id": 144,
+    "crop_variety_id": "8276e184-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "49930bf8-5efb-11eb-b0bd-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 138,
+    "crop_variety_id": "fa6fca8c-31d8-11ec-8078-0242ac130002",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "crop_variety_name": "Mari"
+  },
+  {
+    "crop_id": 1430,
+    "crop_variety_id": "82777cac-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "876e6cfa-a902-11eb-8762-0242ac130002",
+    "crop_variety_name": "Criollas"
+  },
+  {
+    "crop_id": 1437,
+    "crop_variety_id": "82779494-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "6146b532-a911-11eb-a5ba-0242ac130002",
+    "crop_variety_name": "Criolla"
+  },
+  {
+    "crop_id": 65,
+    "crop_variety_id": "82778d3c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d5816dfa-1ae3-11eb-a861-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1511,
+    "crop_variety_id": "c0b377b0-3464-11ec-aac7-0242ac130002",
+    "farm_id": "b5ebef20-3035-11ec-93d7-0242ac130002",
+    "crop_variety_name": "n"
+  },
+  {
+    "crop_id": 163,
+    "crop_variety_id": "827656a6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8bda0e20-4485-11eb-995c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "82762d7a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "dc1e3faa-2865-11eb-a6b6-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 148,
+    "crop_variety_id": "2ecfbc40-c7e6-11eb-823d-0242ac120002",
+    "farm_id": "a26db2c2-c4a5-11eb-ba71-0242ac120002",
+    "crop_variety_name": "A"
+  },
+  {
+    "crop_id": 37,
+    "crop_variety_id": "82777464-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8ccef970-638a-11eb-a290-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 124,
+    "crop_variety_id": "8276aed0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1154,
+    "crop_variety_id": "8276cec4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "63819c1e-6168-11ea-8e16-22000a946868",
+    "crop_variety_name": "Knight"
+  },
+  {
+    "crop_id": 23,
+    "crop_variety_id": "447e7102-10c1-11ec-b6c2-0242ac130003",
+    "farm_id": "ec72e2ae-10c0-11ec-b6c2-0242ac130003",
+    "crop_variety_name": "Albion"
+  },
+  {
+    "crop_id": 103,
+    "crop_variety_id": "827739d6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "829b1e3a-285b-11eb-8aca-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 103,
+    "crop_variety_id": "83cfd13c-5c6d-11ec-9acf-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Hamlin"
+  },
+  {
+    "crop_id": 93,
+    "crop_variety_id": "82761eb6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "8276a14c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 52,
+    "crop_variety_id": "8277c964-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1234,
+    "crop_variety_id": "8277dda0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Bolero F1"
+  },
+  {
+    "crop_id": 120,
+    "crop_variety_id": "8277a8e4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "7b0d5fe8-a452-11eb-bbcc-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1532,
+    "crop_variety_id": "66a833ca-5c44-11ec-bb19-0242ac130002",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "crop_variety_name": "Fantastico"
+  },
+  {
+    "crop_id": 110,
+    "crop_variety_id": "e867707c-e90a-11eb-aa55-0242ac120002",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "crop_variety_name": "3"
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "8276f656-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "54fdf6b0-3b15-11eb-9886-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1167,
+    "crop_variety_id": "82769fbc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "64929650-5f4a-11ea-990a-22000a946868",
+    "crop_variety_name": "Boro"
+  },
+  {
+    "crop_id": 1428,
+    "crop_variety_id": "8276abd8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "498218c8-a5f2-11eb-96c6-0242ac130002",
+    "crop_variety_name": "Manager"
+  },
+  {
+    "crop_id": 1116,
+    "crop_variety_id": "827703f8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "adfa74a4-1592-11ea-a501-22000b628b95",
+    "crop_variety_name": "Common"
+  },
+  {
+    "crop_id": 112,
+    "crop_variety_id": "8277c798-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "46ca9068-3fb5-11eb-811c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1716,
+    "crop_variety_id": "914df238-310e-11ec-81ea-0242ac130002",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "crop_variety_name": "Timothy"
+  },
+  {
+    "crop_id": 1521,
+    "crop_variety_id": "4173cdcc-1b02-11ec-996d-0242ac130003",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Sweet arugula"
+  },
+  {
+    "crop_id": 1199,
+    "crop_variety_id": "827636d0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "Don't know"
+  },
+  {
+    "crop_id": 166,
+    "crop_variety_id": "8277c662-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1300,
+    "crop_variety_id": "8276b6aa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "674b1ebe-1271-11eb-b723-22000bb9251f",
+    "crop_variety_name": "Camote Rojo"
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "827757f4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1422,
+    "crop_variety_id": "8277a9f2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "498218c8-a5f2-11eb-96c6-0242ac130002",
+    "crop_variety_name": "Sheds"
+  },
+  {
+    "crop_id": 26,
+    "crop_variety_id": "82769dd2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 121,
+    "crop_variety_id": "8276defa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "256b2bde-3039-11eb-81d1-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1508,
+    "crop_variety_id": "53c74ee8-373d-11ec-a108-0242ac130002",
+    "farm_id": "d287549c-36b8-11ec-91a4-0242ac130002",
+    "crop_variety_name": "Acai palm"
+  },
+  {
+    "crop_id": 153,
+    "crop_variety_id": "8276e972-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "06001e24-7c21-11eb-b915-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "82763130-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "dd295afc-7026-11eb-9fab-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1416,
+    "crop_variety_id": "827718f2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": "cuyes "
+  },
+  {
+    "crop_id": 1459,
+    "crop_variety_id": "8276f8e0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Babosa"
+  },
+  {
+    "crop_id": 1375,
+    "crop_variety_id": "82774034-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "40189f38-6947-11eb-b52b-22000a6ddaf5",
+    "crop_variety_name": "New Girl"
+  },
+  {
+    "crop_id": 31,
+    "crop_variety_id": "aeab3228-c96c-11eb-8768-0242ac120002",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "crop_variety_name": "Sweet "
+  },
+  {
+    "crop_id": 1137,
+    "crop_variety_id": "8276dcf2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "46539cea-16b9-11ea-b182-22000b628b95",
+    "crop_variety_name": "ambrosia"
+  },
+  {
+    "crop_id": 1753,
+    "crop_variety_id": "acfa3d4a-38ff-11ec-884c-0242ac130002",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "crop_variety_name": "White"
+  },
+  {
+    "crop_id": 1536,
+    "crop_variety_id": "04cce220-32b1-11ec-bbdd-0242ac130002",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "crop_variety_name": "S"
+  },
+  {
+    "crop_id": 159,
+    "crop_variety_id": "e9cda556-7a25-11ec-82be-0242ac130004",
+    "farm_id": "b6e8494e-7a24-11ec-a3b6-0242ac130004",
+    "crop_variety_name": "Orange"
+  },
+  {
+    "crop_id": 1456,
+    "crop_variety_id": "8276d342-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Lichia"
+  },
+  {
+    "crop_id": 1108,
+    "crop_variety_id": "82763cb6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "392dcd3c-42fc-11ea-a6f7-22000b8600fb",
+    "crop_variety_name": "Seirra"
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "8276fca0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "13480dde-a9f4-11eb-ad5b-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1750,
+    "crop_variety_id": "9d1237ae-3682-11ec-a3f0-0242ac130002",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "crop_variety_name": "Beets, non cover crop"
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "82765e62-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "6146b532-a911-11eb-a5ba-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1250,
+    "crop_variety_id": "827673d4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Golden Zucchini"
+  },
+  {
+    "crop_id": 141,
+    "crop_variety_id": "8277077c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "36674266-6328-11eb-b318-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 21,
+    "crop_variety_id": "8276fe1c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c6dbbc80-4e8b-11ea-b0b8-22000a946868",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1485,
+    "crop_variety_id": "827784fe-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "13480dde-a9f4-11eb-ad5b-0242ac130002",
+    "crop_variety_name": "Común "
+  },
+  {
+    "crop_id": 60,
+    "crop_variety_id": "8276b4d4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "f8f001ca-57e2-11eb-acc7-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1276,
+    "crop_variety_id": "82776b86-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "15e79e32-5875-11ea-a274-22000a946868",
+    "crop_variety_name": "simeto3"
+  },
+  {
+    "crop_id": 89,
+    "crop_variety_id": "82778ca6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "83f4e6f0-3e39-11eb-9bca-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 94,
+    "crop_variety_id": "82767c08-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8ccef970-638a-11eb-a290-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 148,
+    "crop_variety_id": "82763d92-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1119,
+    "crop_variety_id": "82767ba4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "392c6bc8-4a12-11ea-bed2-22000b8600fb",
+    "crop_variety_name": "Corn"
+  },
+  {
+    "crop_id": 1633,
+    "crop_variety_id": "ba43ab66-78bb-11ec-b32c-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Tarmeña"
+  },
+  {
+    "crop_id": 1446,
+    "crop_variety_id": "8276ea3a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Guandú"
+  },
+  {
+    "crop_id": 1378,
+    "crop_variety_id": "827771d0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "31135f2e-79b4-11ea-ad28-22000a90b459",
+    "crop_variety_name": "Red Savonese"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "8276d16c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c9cd26d0-0fd9-11eb-a772-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1484,
+    "crop_variety_id": "8276235c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "440ee648-a92e-11eb-8b1b-0242ac130002",
+    "crop_variety_name": "Comúm"
+  },
+  {
+    "crop_id": 1212,
+    "crop_variety_id": "82770b00-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Slenderette Bush Snap "
+  },
+  {
+    "crop_id": 1222,
+    "crop_variety_id": "82765cd2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "00b67960-b75d-11ea-8303-22000a3def48",
+    "crop_variety_name": "asas"
+  },
+  {
+    "crop_id": 34,
+    "crop_variety_id": "827669b6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1323,
+    "crop_variety_id": "82769788-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c1d816fe-49d8-11eb-949b-22000ab8b02b",
+    "crop_variety_name": "Mini Green Cos"
+  },
+  {
+    "crop_id": 1741,
+    "crop_variety_id": "f99288de-31d8-11ec-a77a-0242ac130002",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "crop_variety_name": "More"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "8276cce4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 11,
+    "crop_variety_id": "d4fa8c4e-74a7-11ec-b479-0242ac130004",
+    "farm_id": "d7b68fbc-74a4-11ec-b479-0242ac130004",
+    "crop_variety_name": "Amarilla"
+  },
+  {
+    "crop_id": 58,
+    "crop_variety_id": "8277932c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d37fd9fa-39a2-11eb-9923-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 103,
+    "crop_variety_id": "82762794-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1449,
+    "crop_variety_id": "8276e67a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Ora-pro-nobis"
+  },
+  {
+    "crop_id": 5,
+    "crop_variety_id": "8277057e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "2222e56e-2acd-11eb-b9f7-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 54,
+    "crop_variety_id": "827692ce-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "440ee648-a92e-11eb-8b1b-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 67,
+    "crop_variety_id": "827736de-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "4c285384-2dfc-11ec-96d8-0242ac130002",
+    "farm_id": "f0036cac-2de1-11ec-85ad-0242ac130002",
+    "crop_variety_name": "Apple, non cover crop"
+  },
+  {
+    "crop_id": 1596,
+    "crop_variety_id": "1d8702dc-32b1-11ec-bbdd-0242ac130002",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "crop_variety_name": "A"
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "57ff6b34-0cf0-11ec-8eb5-0242ac130003",
+    "farm_id": "42e26698-0cf0-11ec-9fc8-0242ac130003",
+    "crop_variety_name": "34"
+  },
+  {
+    "crop_id": 1476,
+    "crop_variety_id": "82767ec4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e3d004c6-59c1-11eb-a2f3-22000ab2b8c4",
+    "crop_variety_name": "Común"
+  },
+  {
+    "crop_id": 57,
+    "crop_variety_id": "82763342-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "0ba1473a-449b-11eb-907c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 58,
+    "crop_variety_id": "8276edd2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "17d85650-6373-11eb-8c1a-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 148,
+    "crop_variety_id": "8276e35a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 35,
+    "crop_variety_id": "8276ff2a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1183,
+    "crop_variety_id": "82776be0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "Various"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "8277778e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4543672e-0f77-11eb-a91b-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "82770880-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8bda0e20-4485-11eb-995c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "b96ad72e-376f-11ec-bf5b-0242ac130002",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "crop_variety_name": "Not sure"
+  },
+  {
+    "crop_id": 1239,
+    "crop_variety_id": "827711b8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Buttercup"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "c9ae3476-30eb-11ec-8794-0242ac130002",
+    "farm_id": "51895eec-304d-11ec-8582-0242ac130002",
+    "crop_variety_name": "mac"
+  },
+  {
+    "crop_id": 50,
+    "crop_variety_id": "827748cc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 58,
+    "crop_variety_id": "11abef7e-47db-11ec-b425-0242ac130002",
+    "farm_id": "dcd91532-27a1-11ec-9fa9-0242ac130003",
+    "crop_variety_name": "Chinês"
+  },
+  {
+    "crop_id": 1202,
+    "crop_variety_id": "82763d24-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e0309a1a-a116-11ea-a0a6-22000ba8027d",
+    "crop_variety_name": "Green headed beasts"
+  },
+  {
+    "crop_id": 125,
+    "crop_variety_id": "82776000-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1301,
+    "crop_variety_id": "827774f0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "3b8be870-2a82-11eb-bf05-22000b479377",
+    "crop_variety_name": "Valencia"
+  },
+  {
+    "crop_id": 1379,
+    "crop_variety_id": "827712e4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "fc7f1742-3b20-11eb-a4ba-22000ab8b02b",
+    "crop_variety_name": "N/A"
+  },
+  {
+    "crop_id": 31,
+    "crop_variety_id": "8276413e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "36674266-6328-11eb-b318-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 2,
+    "crop_variety_id": "8276c0f0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "cf0e049a-3e4e-11eb-a791-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1184,
+    "crop_variety_id": "8276bd6c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "Don't know"
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "ba88218a-09dd-11ec-a2ee-0242ac130003",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "crop_variety_name": "Beeeens"
+  },
+  {
+    "crop_id": 1308,
+    "crop_variety_id": "82766e66-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "829b1e3a-285b-11eb-8aca-22000b479377",
+    "crop_variety_name": "Criolla"
+  },
+  {
+    "crop_id": 1448,
+    "crop_variety_id": "82771794-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e3d004c6-59c1-11eb-a2f3-22000ab2b8c4",
+    "crop_variety_name": "Thymus vulgarys"
+  },
+  {
+    "crop_id": 26,
+    "crop_variety_id": "8277b06e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "faff1a00-66e7-11eb-b3c8-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 89,
+    "crop_variety_id": "827767da-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "74f6d588-4f4f-11eb-934c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1520,
+    "crop_variety_id": "6cef47ee-8482-11ec-88ed-0242ac130004",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Arracacha with custom image"
+  },
+  {
+    "crop_id": 1243,
+    "crop_variety_id": "8276f322-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Mixed"
+  },
+  {
+    "crop_id": 1463,
+    "crop_variety_id": "8277d882-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Araçá"
+  },
+  {
+    "crop_id": 1313,
+    "crop_variety_id": "8277c9fa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "54fdf6b0-3b15-11eb-9886-22000ab8b02b",
+    "crop_variety_name": "Zapallito"
+  },
+  {
+    "crop_id": 1620,
+    "crop_variety_id": "9803f1aa-8dce-11ec-b541-0242ac120002",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "crop_variety_name": "Smelly"
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "82761b6e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "f1f7fa7e-333b-11eb-a5b4-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1298,
+    "crop_variety_id": "8277af38-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "31135f2e-79b4-11ea-ad28-22000a90b459",
+    "crop_variety_name": "Salanova"
+  },
+  {
+    "crop_id": 1510,
+    "crop_variety_id": "e51fb8e6-3830-11ec-b431-0242ac130002",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "crop_variety_name": "3"
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "608c6df2-feda-11eb-bc2d-0242ac130003",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "crop_variety_name": "Green Avocadoes"
+  },
+  {
+    "crop_id": 1443,
+    "crop_variety_id": "827652e6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "malva "
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "82774ae8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "14661188-0f77-11eb-a91b-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 166,
+    "crop_variety_id": "ea4de2c4-310b-11ec-8d8a-0242ac130002",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "crop_variety_name": "Sweet "
+  },
+  {
+    "crop_id": 84,
+    "crop_variety_id": "8277b654-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 128,
+    "crop_variety_id": "89ec44b0-52e0-11ec-9a34-0242ac130002",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Broad bean"
+  },
+  {
+    "crop_id": 1206,
+    "crop_variety_id": "827787b0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Provider Bush Snap "
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "8276b876-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b48d992a-6647-11eb-89a6-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1436,
+    "crop_variety_id": "82767654-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Jiló"
+  },
+  {
+    "crop_id": 1686,
+    "crop_variety_id": "0a3d0d66-335b-11ec-b636-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "Comum"
+  },
+  {
+    "crop_id": 1510,
+    "crop_variety_id": "f879687a-30e6-11ec-abdf-0242ac130002",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "crop_variety_name": "tuna sandwhich "
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "8277383c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "13480dde-a9f4-11eb-ad5b-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1515,
+    "crop_variety_id": "b1c0cb26-30eb-11ec-849d-0242ac130002",
+    "farm_id": "51895eec-304d-11ec-8582-0242ac130002",
+    "crop_variety_name": "sdfs"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "827691fc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8ccef970-638a-11eb-a290-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 11,
+    "crop_variety_id": "9005a0f8-3387-11ec-9349-0242ac130002",
+    "farm_id": "5dda783e-3115-11ec-b74d-0242ac130002",
+    "crop_variety_name": "R"
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "39193986-31d8-11ec-acc3-0242ac130002",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "crop_variety_name": "Dulce"
+  },
+  {
+    "crop_id": 1240,
+    "crop_variety_id": "82779e62-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Butternut"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "82772c8e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "14661188-0f77-11eb-a91b-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1186,
+    "crop_variety_id": "82773a76-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "Don't know"
+  },
+  {
+    "crop_id": 1687,
+    "crop_variety_id": "cc28877c-3a7f-11ec-ae5d-0242ac130002",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "crop_variety_name": "Franks"
+  },
+  {
+    "crop_id": 81,
+    "crop_variety_id": "ce90f70c-c814-11eb-8907-0242ac120002",
+    "farm_id": "d49b0838-c812-11eb-b18a-0242ac120002",
+    "crop_variety_name": "2"
+  },
+  {
+    "crop_id": 1472,
+    "crop_variety_id": "8276c190-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e3d004c6-59c1-11eb-a2f3-22000ab2b8c4",
+    "crop_variety_name": "Menta de Jardín"
+  },
+  {
+    "crop_id": 65,
+    "crop_variety_id": "8276fbce-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "876e6cfa-a902-11eb-8762-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 89,
+    "crop_variety_id": "82767122-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "3056a5c8-3e3f-11eb-ba5b-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 56,
+    "crop_variety_id": "7d8ebecc-31b2-11ec-8656-0242ac130002",
+    "farm_id": "51895eec-304d-11ec-8582-0242ac130002",
+    "crop_variety_name": "sdfs"
+  },
+  {
+    "crop_id": 1383,
+    "crop_variety_id": "82779868-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "06001e24-7c21-11eb-b915-22000a6ddaf5",
+    "crop_variety_name": "Donattello"
+  },
+  {
+    "crop_id": 1464,
+    "crop_variety_id": "827622a8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Amendoeira da praia "
+  },
+  {
+    "crop_id": 1451,
+    "crop_variety_id": "8276acbe-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Acerola"
+  },
+  {
+    "crop_id": 49,
+    "crop_variety_id": "8277dd3c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c670b7ce-3b1f-11eb-a4ba-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 164,
+    "crop_variety_id": "be959890-3686-11ec-8558-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "Comum"
+  },
+  {
+    "crop_id": 1195,
+    "crop_variety_id": "8277bd84-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Vicar Hulless (Prairie Garden Seeds)"
+  },
+  {
+    "crop_id": 1543,
+    "crop_variety_id": "301c49ee-9039-11ec-916e-0242ac120002",
+    "farm_id": "f758e55e-9038-11ec-916e-0242ac120002",
+    "crop_variety_name": "Green"
+  },
+  {
+    "crop_id": 1218,
+    "crop_variety_id": "8277d620-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "11359696-a438-11ea-8857-22000ba8027d",
+    "crop_variety_name": "renegade"
+  },
+  {
+    "crop_id": 128,
+    "crop_variety_id": "8276fb56-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "6146b532-a911-11eb-a5ba-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "70bf807a-fab0-11eb-abea-0242ac120002",
+    "farm_id": "543c123a-e96f-11eb-964c-0242ac120002",
+    "crop_variety_name": "Apple, non cover crop"
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "8277adc6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "dd295afc-7026-11eb-9fab-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 123,
+    "crop_variety_id": "8276ebca-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8110c7e6-357f-11eb-80e2-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1508,
+    "crop_variety_id": "14549bb8-7279-11ec-976a-0242ac130002",
+    "farm_id": "fa3ad1ac-7278-11ec-ac7e-0242ac130002",
+    "crop_variety_name": "Acai palm"
+  },
+  {
+    "crop_id": 144,
+    "crop_variety_id": "c4ec3c48-df5c-11eb-95d7-0242ac120002",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Clover, Cover Crop"
+  },
+  {
+    "crop_id": 1281,
+    "crop_variety_id": "8276339c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Berlotti Drying beans"
+  },
+  {
+    "crop_id": 1094,
+    "crop_variety_id": "827650de-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "crop_variety_name": "great"
+  },
+  {
+    "crop_id": 1246,
+    "crop_variety_id": "8277c8ce-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Giant Winter Spinach with Calipso Cilantro"
+  },
+  {
+    "crop_id": 1552,
+    "crop_variety_id": "810dba1a-8de9-11ec-ae81-0242ac120002",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "crop_variety_name": "Saudade de ela"
+  },
+  {
+    "crop_id": 54,
+    "crop_variety_id": "8276e90e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 95,
+    "crop_variety_id": "0eb41304-310c-11ec-a72d-0242ac130002",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "crop_variety_name": "Bitter"
+  },
+  {
+    "crop_id": 1097,
+    "crop_variety_id": "8276b7cc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bf1354e0-17a4-11ea-a8d4-22000b628b95",
+    "crop_variety_name": "Easter Egg"
+  },
+  {
+    "crop_id": 101,
+    "crop_variety_id": "827728e2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "440ee648-a92e-11eb-8b1b-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1531,
+    "crop_variety_id": "ddc8b434-1a4f-11ec-8a3a-0242ac130003",
+    "farm_id": "ba231718-09f6-11ec-9fa3-0242ac130003",
+    "crop_variety_name": "Big Red"
+  },
+  {
+    "crop_id": 1525,
+    "crop_variety_id": "2d3d4d84-39d3-11ec-9141-0242ac130002",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "crop_variety_name": "The best"
+  },
+  {
+    "crop_id": 133,
+    "crop_variety_id": "781a9308-39e1-11ec-8116-0242ac130002",
+    "farm_id": "fdef2b42-39dc-11ec-8f9a-0242ac130002",
+    "crop_variety_name": "Coco for coconuts"
+  },
+  {
+    "crop_id": 1521,
+    "crop_variety_id": "e1172206-5c6c-11ec-82e3-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Estrella"
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "8276e83c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "36674266-6328-11eb-b318-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 166,
+    "crop_variety_id": "82769bd4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "54fdf6b0-3b15-11eb-9886-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1158,
+    "crop_variety_id": "8276ca82-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "49070da6-5b6e-11ea-8a5d-22000a946868",
+    "crop_variety_name": "Chemanius"
+  },
+  {
+    "crop_id": 138,
+    "crop_variety_id": "8276cfbe-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "85c82e96-6991-11eb-b6d6-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 60,
+    "crop_variety_id": "8277e03e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "04da6512-6bc9-11eb-8de4-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 144,
+    "crop_variety_id": "67c6d978-82e6-11ec-80ab-0242ac130004",
+    "farm_id": "b6e8494e-7a24-11ec-a3b6-0242ac130004",
+    "crop_variety_name": "Wild"
+  },
+  {
+    "crop_id": 1174,
+    "crop_variety_id": "8277d27e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "23759a6a-6f66-11ea-b9c3-22000a90b459",
+    "crop_variety_name": "winter squash"
+  },
+  {
+    "crop_id": 65,
+    "crop_variety_id": "82777e8c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "fc7f1742-3b20-11eb-a4ba-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 126,
+    "crop_variety_id": "827738aa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "93ff6ae6-568c-11eb-b79e-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 160,
+    "crop_variety_id": "7dc8e30e-335b-11ec-ab58-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "Moranga "
+  },
+  {
+    "crop_id": 1475,
+    "crop_variety_id": "8276faf2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e3d004c6-59c1-11eb-a2f3-22000ab2b8c4",
+    "crop_variety_name": "Aloe vera"
+  },
+  {
+    "crop_id": 1147,
+    "crop_variety_id": "82768f54-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "435589ba-60a4-11ea-8a5d-22000a946868",
+    "crop_variety_name": "Small"
+  },
+  {
+    "crop_id": 1189,
+    "crop_variety_id": "8277a650-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Dwarf grey"
+  },
+  {
+    "crop_id": 1452,
+    "crop_variety_id": "8277d1e8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Maracujá"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "352d4270-3900-11ec-8de9-0242ac130002",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "crop_variety_name": "Nutty"
+  },
+  {
+    "crop_id": 159,
+    "crop_variety_id": "8276601a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8ccef970-638a-11eb-a290-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 26,
+    "crop_variety_id": "82762550-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4a55070e-74df-11eb-b111-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 117,
+    "crop_variety_id": "7be33872-7975-11ec-9d6f-0242ac130004",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Dulce"
+  },
+  {
+    "crop_id": 111,
+    "crop_variety_id": "827725e0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "829b1e3a-285b-11eb-8aca-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 81,
+    "crop_variety_id": "827687f2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "1578f642-333c-11eb-a5b4-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1092,
+    "crop_variety_id": "8276d2b6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "crop_variety_name": "Crispy"
+  },
+  {
+    "crop_id": 123,
+    "crop_variety_id": "3781c13a-310e-11ec-9d4a-0242ac130002",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "crop_variety_name": "Green"
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "d3362fee-f941-11eb-88bc-0242ac120002",
+    "farm_id": "99f4289e-f941-11eb-a9ee-0242ac120002",
+    "crop_variety_name": "Sweet corn"
+  },
+  {
+    "crop_id": 60,
+    "crop_variety_id": "82766ff6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "b0d8d49c-30e6-11ec-b16b-0242ac130002",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "crop_variety_name": "maça"
+  },
+  {
+    "crop_id": 1571,
+    "crop_variety_id": "9680f430-30e6-11ec-955e-0242ac130002",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "crop_variety_name": "wooo"
+  },
+  {
+    "crop_id": 84,
+    "crop_variety_id": "82763b80-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "fc7f1742-3b20-11eb-a4ba-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 126,
+    "crop_variety_id": "8277485e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "85c82e96-6991-11eb-b6d6-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "82774a16-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "36674266-6328-11eb-b318-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 148,
+    "crop_variety_id": "82772108-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "fc7f1742-3b20-11eb-a4ba-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1284,
+    "crop_variety_id": "82778fd0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "26"
+  },
+  {
+    "crop_id": 67,
+    "crop_variety_id": "82768e32-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8110c7e6-357f-11eb-80e2-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1512,
+    "crop_variety_id": "353775ca-30ee-11ec-acd4-0242ac130002",
+    "farm_id": "51895eec-304d-11ec-8582-0242ac130002",
+    "crop_variety_name": "sdf"
+  },
+  {
+    "crop_id": 1509,
+    "crop_variety_id": "e0a0d74e-9039-11ec-8f65-0242ac120002",
+    "farm_id": "f758e55e-9038-11ec-916e-0242ac120002",
+    "crop_variety_name": "White"
+  },
+  {
+    "crop_id": 1389,
+    "crop_variety_id": "82776fe6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "crop_variety_name": "Italian"
+  },
+  {
+    "crop_id": 58,
+    "crop_variety_id": "8277b0fa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 67,
+    "crop_variety_id": "8276a1b0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "efc2bbd6-697d-11eb-b6d7-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 123,
+    "crop_variety_id": "82776b22-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "0587ec94-1e00-11eb-8d80-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1211,
+    "crop_variety_id": "8276f6ba-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Desi"
+  },
+  {
+    "crop_id": 60,
+    "crop_variety_id": "19516420-7a26-11ec-9654-0242ac130004",
+    "farm_id": "b6e8494e-7a24-11ec-a3b6-0242ac130004",
+    "crop_variety_name": "Green"
+  },
+  {
+    "crop_id": 1272,
+    "crop_variety_id": "8276dab8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bf1354e0-17a4-11ea-a8d4-22000b628b95",
+    "crop_variety_name": "Bon vivant, ashbrook, lollo"
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "8276ff8e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "69fc26da-7289-11eb-989c-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 148,
+    "crop_variety_id": "82769a9e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d37fd9fa-39a2-11eb-9923-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1175,
+    "crop_variety_id": "82767f64-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "Roma"
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "82773dfa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "9625aeaa-448c-11eb-a348-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 26,
+    "crop_variety_id": "82770e16-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "6c180c04-3e40-11eb-9e95-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "8277169a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "674b1ebe-1271-11eb-b723-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1277,
+    "crop_variety_id": "8276e7d8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "15e79e32-5875-11ea-a274-22000a946868",
+    "crop_variety_name": "simeto4"
+  },
+  {
+    "crop_id": 112,
+    "crop_variety_id": "ad7f4498-f621-11eb-9960-0242ac120002",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "crop_variety_name": "Mangies"
+  },
+  {
+    "crop_id": 102,
+    "crop_variety_id": "47a18f48-5c6d-11ec-b977-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Clemenules"
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "8276884c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "17d85650-6373-11eb-8c1a-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1337,
+    "crop_variety_id": "82765c32-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "17d85650-6373-11eb-8c1a-22000ab2b8c4",
+    "crop_variety_name": "My"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "827685f4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8cb64c78-1ad2-11eb-909a-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 52,
+    "crop_variety_id": "f6efba7a-5c6c-11ec-96a8-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Rey"
+  },
+  {
+    "crop_id": 35,
+    "crop_variety_id": "82779dd6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "85c82e96-6991-11eb-b6d6-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1241,
+    "crop_variety_id": "82775e7a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Chiogga  William Seeds organic"
+  },
+  {
+    "crop_id": 144,
+    "crop_variety_id": "1fb75310-2c6a-11ec-985a-0242ac130002",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "crop_variety_name": "Purple Lace Clover"
+  },
+  {
+    "crop_id": 1102,
+    "crop_variety_id": "82769ef4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "Highbush"
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "8276247e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "09bec2bc-3b1d-11eb-a4ba-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1327,
+    "crop_variety_id": "8276af98-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "49930bf8-5efb-11eb-b0bd-22000ab2b8c4",
+    "crop_variety_name": "Pinot Noir"
+  },
+  {
+    "crop_id": 1708,
+    "crop_variety_id": "3af85f32-32b1-11ec-a080-0242ac130002",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "crop_variety_name": "G"
+  },
+  {
+    "crop_id": 1522,
+    "crop_variety_id": "31e4c31e-3102-11ec-ba90-0242ac130002",
+    "farm_id": "51895eec-304d-11ec-8582-0242ac130002",
+    "crop_variety_name": "sdfs"
+  },
+  {
+    "crop_id": 1535,
+    "crop_variety_id": "aca431ee-31d8-11ec-a77a-0242ac130002",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "crop_variety_name": "Sowing"
+  },
+  {
+    "crop_id": 1316,
+    "crop_variety_id": "82765908-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8477cc1a-2b3c-11eb-b956-22000b479377",
+    "crop_variety_name": "Haffa"
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "af3cced8-2dfb-11ec-8050-0242ac130002",
+    "farm_id": "f0036cac-2de1-11ec-85ad-0242ac130002",
+    "crop_variety_name": "Clover, Cover Crop"
+  },
+  {
+    "crop_id": 26,
+    "crop_variety_id": "827658a4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "2222e56e-2acd-11eb-b9f7-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1133,
+    "crop_variety_id": "82766628-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "R"
+  },
+  {
+    "crop_id": 160,
+    "crop_variety_id": "82771fb4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1169,
+    "crop_variety_id": "827760c8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "crop_variety_name": "Some variety"
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "82778332-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b0fdd794-67ef-11eb-b64c-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "570902ac-d47a-11eb-8807-0242ac120002",
+    "farm_id": "849eb168-d479-11eb-a748-0242ac120002",
+    "crop_variety_name": "Apple, non cover test"
+  },
+  {
+    "crop_id": 1481,
+    "crop_variety_id": "82768c48-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "440ee648-a92e-11eb-8b1b-0242ac130002",
+    "crop_variety_name": "Común "
+  },
+  {
+    "crop_id": 1460,
+    "crop_variety_id": "8277d4e0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Chinês"
+  },
+  {
+    "crop_id": 1521,
+    "crop_variety_id": "cdbbf70e-5c6c-11ec-a82a-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Fuegito"
+  },
+  {
+    "crop_id": 67,
+    "crop_variety_id": "b9069036-31d7-11ec-a9de-0242ac130002",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "crop_variety_name": "Mokum"
+  },
+  {
+    "crop_id": 1153,
+    "crop_variety_id": "8277dee0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "23759a6a-6f66-11ea-b9c3-22000a90b459",
+    "crop_variety_name": "Talon, Frontier, Red Carpet, Red cabernet"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "827769ba-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b48d992a-6647-11eb-89a6-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 54,
+    "crop_variety_id": "2f6493da-fafc-11eb-a308-0242ac120002",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "crop_variety_name": "Celery organic"
+  },
+  {
+    "crop_id": 1479,
+    "crop_variety_id": "82771eb0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "df4d988c-a930-11eb-b942-0242ac130002",
+    "crop_variety_name": "jícama común"
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "82775484-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "93ff6ae6-568c-11eb-b79e-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "8276cb22-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "10024cae-333c-11eb-a5b4-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1763,
+    "crop_variety_id": "1c9fe576-6f6c-11ec-8e95-0242ac130002",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Lupin's Lupino"
+  },
+  {
+    "crop_id": 1257,
+    "crop_variety_id": "827756dc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "2b9a1df4-cb20-11ea-aa41-22000a2defbb",
+    "crop_variety_name": "twetwetw"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "b7f600ba-334d-11ec-aa76-0242ac130002",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "crop_variety_name": "fugi"
+  },
+  {
+    "crop_id": 166,
+    "crop_variety_id": "8277326a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "09bec2bc-3b1d-11eb-a4ba-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "8277bba4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "09bec2bc-3b1d-11eb-a4ba-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1090,
+    "crop_variety_id": "82765246-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b6065408-169e-11ea-be5c-22000b628b95",
+    "crop_variety_name": "Spicy"
+  },
+  {
+    "crop_id": 11,
+    "crop_variety_id": "fbf9cacc-9b02-11ec-8a74-0242ac120002",
+    "farm_id": "bcd87186-9b02-11ec-ba10-0242ac120002",
+    "crop_variety_name": "Doce"
+  },
+  {
+    "crop_id": 128,
+    "crop_variety_id": "827672b2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "256b2bde-3039-11eb-81d1-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1150,
+    "crop_variety_id": "82762f5a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "63819c1e-6168-11ea-8e16-22000a946868",
+    "crop_variety_name": "june bearing"
+  },
+  {
+    "crop_id": 73,
+    "crop_variety_id": "8277b334-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 67,
+    "crop_variety_id": "a8bbfe4a-5c6c-11ec-94f7-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Cohete"
+  },
+  {
+    "crop_id": 112,
+    "crop_variety_id": "8276dc66-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bb155670-5cf6-11eb-94f2-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1270,
+    "crop_variety_id": "8276f818-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "cae26ecc-53cd-11ea-9e9b-22000a946868",
+    "crop_variety_name": "Merlot3"
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "8276f9a8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "82772a18-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "256b2bde-3039-11eb-81d1-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1143,
+    "crop_variety_id": "82764f76-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bffaf254-5b25-11ea-a6b6-22000a946868",
+    "crop_variety_name": "Everest "
+  },
+  {
+    "crop_id": 4,
+    "crop_variety_id": "8277ba64-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "440ee648-a92e-11eb-8b1b-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1149,
+    "crop_variety_id": "8276bf92-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "435589ba-60a4-11ea-8a5d-22000a946868",
+    "crop_variety_name": "Gala"
+  },
+  {
+    "crop_id": 160,
+    "crop_variety_id": "8276d8ba-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "faff1a00-66e7-11eb-b3c8-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1767,
+    "crop_variety_id": "5ed97e26-74b1-11ec-9c0e-0242ac130004",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Luceana"
+  },
+  {
+    "crop_id": 1513,
+    "crop_variety_id": "2b08d8c6-39dd-11ec-8f9a-0242ac130002",
+    "farm_id": "fdef2b42-39dc-11ec-8f9a-0242ac130002",
+    "crop_variety_name": "Hulk-out"
+  },
+  {
+    "crop_id": 1251,
+    "crop_variety_id": "82763860-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Zucchini jackpot, organic"
+  },
+  {
+    "crop_id": 1196,
+    "crop_variety_id": "8276749c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Black Alberta (Prairie Garden Seeds)"
+  },
+  {
+    "crop_id": 89,
+    "crop_variety_id": "8276c956-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8cb64c78-1ad2-11eb-909a-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1525,
+    "crop_variety_id": "138af7ec-78bc-11ec-8c04-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Italiano"
+  },
+  {
+    "crop_id": 1333,
+    "crop_variety_id": "82778bca-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "36674266-6328-11eb-b318-22000ab2b8c4",
+    "crop_variety_name": "Coocoo for cabbage puffs"
+  },
+  {
+    "crop_id": 1530,
+    "crop_variety_id": "2cfa0b28-78bc-11ec-8c49-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Rojo"
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "8276576e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "6146b532-a911-11eb-a5ba-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 144,
+    "crop_variety_id": "09511838-fb85-11eb-a66d-0242ac120002",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "crop_variety_name": "Sweet clover"
+  },
+  {
+    "crop_id": 1417,
+    "crop_variety_id": "82764daa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": "comun"
+  },
+  {
+    "crop_id": 1159,
+    "crop_variety_id": "82775556-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "49070da6-5b6e-11ea-8a5d-22000a946868",
+    "crop_variety_name": "Rainbow"
+  },
+  {
+    "crop_id": 1125,
+    "crop_variety_id": "8276ec2e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "Curley"
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "8276be02-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "10024cae-333c-11eb-a5b4-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1109,
+    "crop_variety_id": "8277ae8e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "392dcd3c-42fc-11ea-a6f7-22000b8600fb",
+    "crop_variety_name": "Early bloom"
+  },
+  {
+    "crop_id": 48,
+    "crop_variety_id": "8277223e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 125,
+    "crop_variety_id": "b9a251e6-334f-11ec-bc46-0242ac130002",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "crop_variety_name": "cobertura"
+  },
+  {
+    "crop_id": 1140,
+    "crop_variety_id": "827753bc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "crop_variety_name": "red2"
+  },
+  {
+    "crop_id": 49,
+    "crop_variety_id": "827704ca-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "56012ffe-449e-11eb-907c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "64a4c1ce-31d8-11ec-a459-0242ac130002",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "crop_variety_name": "Forra"
+  },
+  {
+    "crop_id": 144,
+    "crop_variety_id": "beeb68c8-faaf-11eb-abea-0242ac120002",
+    "farm_id": "543c123a-e96f-11eb-964c-0242ac120002",
+    "crop_variety_name": "Clover, Cover Crop"
+  },
+  {
+    "crop_id": 1453,
+    "crop_variety_id": "8277430e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Boldo"
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "9f4403a4-3830-11ec-9e4f-0242ac130002",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "crop_variety_name": "2"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "9b95a1e8-fab1-11eb-a19f-0242ac120002",
+    "farm_id": "2faba540-d379-11eb-a746-0242ac120002",
+    "crop_variety_name": "Apple,  organic "
+  },
+  {
+    "crop_id": 1465,
+    "crop_variety_id": "8276b2c2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Sálvia"
+  },
+  {
+    "crop_id": 143,
+    "crop_variety_id": "19f469d6-3750-11ec-92c6-0242ac130002",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "crop_variety_name": "Wild tobacco"
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "82773742-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "829b1e3a-285b-11eb-8aca-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1531,
+    "crop_variety_id": "0763f13c-8dcd-11ec-8a43-0242ac120002",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "crop_variety_name": "Red"
+  },
+  {
+    "crop_id": 1267,
+    "crop_variety_id": "827662d6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4e34954e-42f2-11ea-b20a-22000b8600fb",
+    "crop_variety_name": "Leek__"
+  },
+  {
+    "crop_id": 126,
+    "crop_variety_id": "62d626e8-3350-11ec-8ec7-0242ac130002",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "crop_variety_name": "cobertura"
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "8245432a-1bbc-11ec-9861-0242ac130003",
+    "farm_id": "ada12ff6-100f-11ec-8ebd-0242ac130003",
+    "crop_variety_name": "Abui #1"
+  },
+  {
+    "crop_id": 49,
+    "crop_variety_id": "827670be-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1261,
+    "crop_variety_id": "8276bee8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Tibetan black"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "8277209a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b35439de-65a1-11eb-94a5-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "82779fac-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "256b2bde-3039-11eb-81d1-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 102,
+    "crop_variety_id": "5a4181bc-5c6d-11ec-97c9-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Clementine di Calabria"
+  },
+  {
+    "crop_id": 1420,
+    "crop_variety_id": "82763536-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Juçara"
+  },
+  {
+    "crop_id": 1287,
+    "crop_variety_id": "82765a34-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "14"
+  },
+  {
+    "crop_id": 1387,
+    "crop_variety_id": "82777360-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "829b1e3a-285b-11eb-8aca-22000b479377",
+    "crop_variety_name": "Frijol de árbol "
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "8277cfb8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "82b693b2-0f75-11eb-a2e7-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "12d19df4-3106-11ec-baf9-0242ac130002",
+    "farm_id": "8368e776-3105-11ec-a72b-0242ac130002",
+    "crop_variety_name": "Apple, non cover crop"
+  },
+  {
+    "crop_id": 1512,
+    "crop_variety_id": "13f1d1e2-374e-11ec-bd50-0242ac130002",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "crop_variety_name": "Somespice"
+  },
+  {
+    "crop_id": 31,
+    "crop_variety_id": "293705f6-ea99-11eb-9f4c-0242ac120002",
+    "farm_id": "3361ad00-d46a-11eb-811e-0242ac120002",
+    "crop_variety_name": "New Ape"
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "b6d134d2-faba-11eb-bd73-0242ac120002",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "crop_variety_name": "Alfalfa organic"
+  },
+  {
+    "crop_id": 1259,
+    "crop_variety_id": "8277281a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "5f204b98-e1a1-11ea-9eb5-22000ab40d92",
+    "crop_variety_name": "Alpha"
+  },
+  {
+    "crop_id": 1101,
+    "crop_variety_id": "8277b3fc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "mixed"
+  },
+  {
+    "crop_id": 1469,
+    "crop_variety_id": "82774fac-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Arnica"
+  },
+  {
+    "crop_id": 59,
+    "crop_variety_id": "8277264e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e5a472e0-3492-11eb-b4fe-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1665,
+    "crop_variety_id": "3c15bd0c-31d9-11ec-a870-0242ac130002",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "crop_variety_name": "Juicy"
+  },
+  {
+    "crop_id": 128,
+    "crop_variety_id": "8277bce4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "93ff6ae6-568c-11eb-b79e-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 59,
+    "crop_variety_id": "203c5a72-8dce-11ec-86ec-0242ac120002",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "crop_variety_name": "Spicy"
+  },
+  {
+    "crop_id": 89,
+    "crop_variety_id": "82764e40-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b92fd016-708c-11eb-974a-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1749,
+    "crop_variety_id": "d603efa6-3378-11ec-ab63-0242ac130002",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "crop_variety_name": "uva"
+  },
+  {
+    "crop_id": 1509,
+    "crop_variety_id": "458e1be2-1675-11ec-987f-0242ac130003",
+    "farm_id": "2057ced0-ca09-11eb-acd2-0242ac120002",
+    "crop_variety_name": "C"
+  },
+  {
+    "crop_id": 1132,
+    "crop_variety_id": "82765606-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "Thyme"
+  },
+  {
+    "crop_id": 101,
+    "crop_variety_id": "8277a1aa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "829b1e3a-285b-11eb-8aca-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1503,
+    "crop_variety_id": "9f34f0e6-df73-11eb-8557-0242ac120002",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "crop_variety_name": "00"
+  },
+  {
+    "crop_id": 1478,
+    "crop_variety_id": "8276fa8e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e3d004c6-59c1-11eb-a2f3-22000ab2b8c4",
+    "crop_variety_name": "Común "
+  },
+  {
+    "crop_id": 1522,
+    "crop_variety_id": "5d18e79e-52dc-11ec-bb4f-0242ac130002",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Good Bambara"
+  },
+  {
+    "crop_id": 1292,
+    "crop_variety_id": "8277a97a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "030deafa-1dfa-11eb-b7f5-22000bb9251f",
+    "crop_variety_name": "for Semillas"
+  },
+  {
+    "crop_id": 1409,
+    "crop_variety_id": "8276654c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "85c82e96-6991-11eb-b6d6-22000a6ddaf5",
+    "crop_variety_name": "Various"
+  },
+  {
+    "crop_id": 4,
+    "crop_variety_id": "82774138-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e3d004c6-59c1-11eb-a2f3-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 96,
+    "crop_variety_id": "827731ca-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "7d1bddbe-4499-11eb-87eb-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "8277d0d0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "829b1e3a-285b-11eb-8aca-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1105,
+    "crop_variety_id": "82774a84-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d42bb120-3fa8-11ea-a9bd-22000b8600fb",
+    "crop_variety_name": "Detroit Dark Red"
+  },
+  {
+    "crop_id": 65,
+    "crop_variety_id": "827743a4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8bda0e20-4485-11eb-995c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "3805bf66-36b9-11ec-92e2-0242ac130002",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "crop_variety_name": "Apple, non cover crop"
+  },
+  {
+    "crop_id": 1293,
+    "crop_variety_id": "8277be56-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8cb64c78-1ad2-11eb-909a-22000bb9251f",
+    "crop_variety_name": "Juliet"
+  },
+  {
+    "crop_id": 118,
+    "crop_variety_id": "82761ca4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "13480dde-a9f4-11eb-ad5b-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 67,
+    "crop_variety_id": "7b6c19c4-31d9-11ec-a7f8-0242ac130002",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "crop_variety_name": "Nantes"
+  },
+  {
+    "crop_id": 1135,
+    "crop_variety_id": "8276f444-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "15e79e32-5875-11ea-a274-22000a946868",
+    "crop_variety_name": "monnalisa"
+  },
+  {
+    "crop_id": 103,
+    "crop_variety_id": "827776c6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "46ca9068-3fb5-11eb-811c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 149,
+    "crop_variety_id": "82774ee4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "04da6512-6bc9-11eb-8de4-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 101,
+    "crop_variety_id": "82768522-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "8276319e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e17ed26a-7d61-11eb-bfb5-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1187,
+    "crop_variety_id": "8276836a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Red"
+  },
+  {
+    "crop_id": 1508,
+    "crop_variety_id": "71cfc460-30e9-11ec-b3b3-0242ac130002",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "crop_variety_name": "sdfs"
+  },
+  {
+    "crop_id": 89,
+    "crop_variety_id": "8276b196-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4122442a-3e3a-11eb-9bca-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 122,
+    "crop_variety_id": "82768dce-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8110c7e6-357f-11eb-80e2-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1204,
+    "crop_variety_id": "827630c2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Allure F1"
+  },
+  {
+    "crop_id": 1091,
+    "crop_variety_id": "8277711c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "crop_variety_name": "Orange"
+  },
+  {
+    "crop_id": 1230,
+    "crop_variety_id": "8277e110-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Zucchini"
+  },
+  {
+    "crop_id": 1127,
+    "crop_variety_id": "82763ebe-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bf1354e0-17a4-11ea-a8d4-22000b628b95",
+    "crop_variety_name": "Lollo Dark, Ashbrook, Black Seeded Simpson"
+  },
+  {
+    "crop_id": 60,
+    "crop_variety_id": "82779d4a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1600,
+    "crop_variety_id": "4986a91e-38e7-11ec-a075-0242ac130002",
+    "farm_id": "d1b53e6a-38e5-11ec-a075-0242ac130002",
+    "crop_variety_name": "4"
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "82767da2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bb0f5122-a94e-11eb-8b3e-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1442,
+    "crop_variety_id": "82769ca6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Manjerona "
+  },
+  {
+    "crop_id": 150,
+    "crop_variety_id": "827719f6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bb0f5122-a94e-11eb-8b3e-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 122,
+    "crop_variety_id": "6ea25972-3118-11ec-a669-0242ac130002",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "crop_variety_name": "Everbearing"
+  },
+  {
+    "crop_id": 1096,
+    "crop_variety_id": "82762960-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8cbafe3e-17b4-11ea-8261-22000b628b95",
+    "crop_variety_name": "yes"
+  },
+  {
+    "crop_id": 42,
+    "crop_variety_id": "659b250c-14ad-11ec-83cf-0242ac130003",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "crop_variety_name": "Kalamata"
+  },
+  {
+    "crop_id": 1571,
+    "crop_variety_id": "ffb19d76-8dcd-11ec-86e3-0242ac120002",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "crop_variety_name": "Spicy"
+  },
+  {
+    "crop_id": 68,
+    "crop_variety_id": "8277121c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "faff1a00-66e7-11eb-b3c8-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 151,
+    "crop_variety_id": "827715b4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 112,
+    "crop_variety_id": "63149578-31d3-11ec-9124-0242ac130002",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "crop_variety_name": "Yellow"
+  },
+  {
+    "crop_id": 58,
+    "crop_variety_id": "6aa39ac0-d47a-11eb-a748-0242ac120002",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "crop_variety_name": "Sweet "
+  },
+  {
+    "crop_id": 1123,
+    "crop_variety_id": "82775042-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "Everbearing"
+  },
+  {
+    "crop_id": 66,
+    "crop_variety_id": "8276d586-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8cb64c78-1ad2-11eb-909a-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 64,
+    "crop_variety_id": "b21a0a0a-1189-11ec-b825-0242ac130003",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "crop_variety_name": "Armenian Cucumber"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "8276b39e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "69fc26da-7289-11eb-989c-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1263,
+    "crop_variety_id": "8276864e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Fall"
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "aa22379e-88ff-11ec-8f3d-0242ac130004",
+    "farm_id": "01d63a0a-ca09-11eb-acd2-0242ac120002",
+    "crop_variety_name": "12314"
+  },
+  {
+    "crop_id": 1514,
+    "crop_variety_id": "4b947a5a-38e8-11ec-8ee7-0242ac130002",
+    "farm_id": "d1b53e6a-38e5-11ec-a075-0242ac130002",
+    "crop_variety_name": "o"
+  },
+  {
+    "crop_id": 53,
+    "crop_variety_id": "827635f4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e7fb39d0-698e-11eb-bcea-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1319,
+    "crop_variety_id": "8277967e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "ac6fc57c-40c9-11eb-bc1b-22000ab8b02b",
+    "crop_variety_name": "Wild"
+  },
+  {
+    "crop_id": 1163,
+    "crop_variety_id": "82766222-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "46ca98b2-5b39-11ea-b6c8-22000a946868",
+    "crop_variety_name": "Echinacea"
+  },
+  {
+    "crop_id": 4,
+    "crop_variety_id": "827773ec-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c670b7ce-3b1f-11eb-a4ba-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1124,
+    "crop_variety_id": "8276f71e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "Everbearing"
+  },
+  {
+    "crop_id": 1303,
+    "crop_variety_id": "8277cf18-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "3b8be870-2a82-11eb-bf05-22000b479377",
+    "crop_variety_name": "Panades"
+  },
+  {
+    "crop_id": 1223,
+    "crop_variety_id": "82767956-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Various"
+  },
+  {
+    "crop_id": 1142,
+    "crop_variety_id": "8276b768-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4e34954e-42f2-11ea-b20a-22000b8600fb",
+    "crop_variety_name": "green kabocha"
+  },
+  {
+    "crop_id": 93,
+    "crop_variety_id": "b81685d8-30e6-11ec-a3ae-0242ac130002",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "crop_variety_name": "yummy"
+  },
+  {
+    "crop_id": 31,
+    "crop_variety_id": "827754f2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "9603e4f2-9d81-11eb-8c86-121a0e444ae7",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1111,
+    "crop_variety_id": "8276eca6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bf1354e0-17a4-11ea-a8d4-22000b628b95",
+    "crop_variety_name": "SkyRocket Surrey"
+  },
+  {
+    "crop_id": 1508,
+    "crop_variety_id": "579c0eac-305b-11ec-ad1b-0242ac130002",
+    "farm_id": "f59b2634-305a-11ec-ad47-0242ac130002",
+    "crop_variety_name": "Apple, non cover crop"
+  },
+  {
+    "crop_id": 1427,
+    "crop_variety_id": "8276b556-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "498218c8-a5f2-11eb-96c6-0242ac130002",
+    "crop_variety_name": "Supervisors"
+  },
+  {
+    "crop_id": 162,
+    "crop_variety_id": "82771424-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "487e1f16-388e-11eb-af8a-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1221,
+    "crop_variety_id": "8276a0de-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4a8d5c14-95a4-11ea-a9dd-22000ba8027d",
+    "crop_variety_name": "ROJA"
+  },
+  {
+    "crop_id": 1633,
+    "crop_variety_id": "2d970e92-78bb-11ec-bbea-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Cuzco"
+  },
+  {
+    "crop_id": 1338,
+    "crop_variety_id": "8277a218-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b801b34a-667c-11eb-a75b-22000ab2b8c4",
+    "crop_variety_name": "Tower Series"
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "827668e4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b69b79a8-8609-11eb-b046-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 118,
+    "crop_variety_id": "b5506e4a-09ea-11ec-90f6-0242ac130003",
+    "farm_id": "c4b562fa-045e-11ec-b69e-0242ac130003",
+    "crop_variety_name": "Extra juicy"
+  },
+  {
+    "crop_id": 23,
+    "crop_variety_id": "82765f48-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b69b79a8-8609-11eb-b046-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "998759b0-09c4-11ec-9509-0242ac130003",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "crop_variety_name": "Sweet abiu"
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "82762a82-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 160,
+    "crop_variety_id": "d59e3534-38e7-11ec-a9e5-0242ac130002",
+    "farm_id": "d1b53e6a-38e5-11ec-a075-0242ac130002",
+    "crop_variety_name": "5"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "8270f452-53ca-11ec-8410-0242ac130002",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "crop_variety_name": "werwe"
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "17193e70-dec3-11eb-9cc5-0242ac120002",
+    "farm_id": "e7fd1cf6-dec2-11eb-9cc5-0242ac120002",
+    "crop_variety_name": "Red Alfalfa"
+  },
+  {
+    "crop_id": 67,
+    "crop_variety_id": "827628d4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "23954784-1df3-11eb-98b7-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 20,
+    "crop_variety_id": "8276d950-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "17d85650-6373-11eb-8c1a-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1339,
+    "crop_variety_id": "8276e742-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b801b34a-667c-11eb-a75b-22000ab2b8c4",
+    "crop_variety_name": "Various"
+  },
+  {
+    "crop_id": 1735,
+    "crop_variety_id": "defa69c6-30e6-11ec-b640-0242ac130002",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "crop_variety_name": "hehe"
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "8277dc24-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c14c67f4-3c08-11eb-9b6b-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "1f0fba48-045f-11ec-8c84-0242ac130003",
+    "farm_id": "c4b562fa-045e-11ec-b69e-0242ac130003",
+    "crop_variety_name": "Big red"
+  },
+  {
+    "crop_id": 1216,
+    "crop_variety_id": "827651a6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "11359696-a438-11ea-8857-22000ba8027d",
+    "crop_variety_name": "everbearing"
+  },
+  {
+    "crop_id": 118,
+    "crop_variety_id": "82772f68-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "8276e8aa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "3308b0e6-3597-11eb-a902-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "89031e60-3360-11ec-a1f8-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "Vermelho"
+  },
+  {
+    "crop_id": 1467,
+    "crop_variety_id": "82771f1e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Alecrim "
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "82763662-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b2a355c4-1ab0-11eb-a02a-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1297,
+    "crop_variety_id": "82771384-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "236266b0-22b8-11eb-ab01-22000bb9251f",
+    "crop_variety_name": "Special Chard"
+  },
+  {
+    "crop_id": 103,
+    "crop_variety_id": "17296a2e-39dc-11ec-8023-0242ac130002",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "crop_variety_name": "Big O"
+  },
+  {
+    "crop_id": 66,
+    "crop_variety_id": "88a3c4f8-30f7-11ec-b848-0242ac130002",
+    "farm_id": "f59b2634-305a-11ec-ad47-0242ac130002",
+    "crop_variety_name": "Artful artichoke"
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "b33ab946-5e16-11ec-9566-0242ac130002",
+    "farm_id": "8d0f1a5a-5e16-11ec-8f50-0242ac130002",
+    "crop_variety_name": "v"
+  },
+  {
+    "crop_id": 1220,
+    "crop_variety_id": "82766d26-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4a8d5c14-95a4-11ea-a9dd-22000ba8027d",
+    "crop_variety_name": "NEGRO"
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "7ad18584-83c9-11ec-8b2f-0242ac130004",
+    "farm_id": "8d0f1a5a-5e16-11ec-8f50-0242ac130002",
+    "crop_variety_name": "variety"
+  },
+  {
+    "crop_id": 126,
+    "crop_variety_id": "82779728-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "13480dde-a9f4-11eb-ad5b-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "76423b9e-39a0-11ec-aecf-0242ac130002",
+    "farm_id": "2b3361b4-39a0-11ec-85be-0242ac130002",
+    "crop_variety_name": "apricot, non cover crop"
+  },
+  {
+    "crop_id": 1252,
+    "crop_variety_id": "827640d0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Cortex pole"
+  },
+  {
+    "crop_id": 1110,
+    "crop_variety_id": "8277a10a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "392dcd3c-42fc-11ea-a6f7-22000b8600fb",
+    "crop_variety_name": "Dunit"
+  },
+  {
+    "crop_id": 53,
+    "crop_variety_id": "827717f8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "74075442-876a-11eb-8b30-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 45,
+    "crop_variety_id": "6f869d0c-78b8-11ec-b611-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Pima"
+  },
+  {
+    "crop_id": 1229,
+    "crop_variety_id": "8277b46a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "1679b12e-7304-11ea-88d5-22000a90b459",
+    "crop_variety_name": "Georgia Golden"
+  },
+  {
+    "crop_id": 26,
+    "crop_variety_id": "827624ec-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b35439de-65a1-11eb-94a5-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1201,
+    "crop_variety_id": "82773972-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "11359696-a438-11ea-8857-22000ba8027d",
+    "crop_variety_name": "duke"
+  },
+  {
+    "crop_id": 67,
+    "crop_variety_id": "8276981e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "9322d2c6-90ab-11eb-85b5-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 45,
+    "crop_variety_id": "fea2d4f2-78b7-11ec-9c98-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Tangüis"
+  },
+  {
+    "crop_id": 1576,
+    "crop_variety_id": "9a1511a0-3350-11ec-8c49-0242ac130002",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "crop_variety_name": "nabo cobertura"
+  },
+  {
+    "crop_id": 1515,
+    "crop_variety_id": "4d3d80c8-545d-11ec-88db-0242ac130002",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Blueberry, non cover crop"
+  },
+  {
+    "crop_id": 1192,
+    "crop_variety_id": "827772e8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Kamut/Khorosan"
+  },
+  {
+    "crop_id": 1310,
+    "crop_variety_id": "827632de-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": "Papa Nabo"
+  },
+  {
+    "crop_id": 59,
+    "crop_variety_id": "8276a89a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 2,
+    "crop_variety_id": "8276cd98-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "6bafd9a0-3e44-11eb-8da1-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1532,
+    "crop_variety_id": "c56621fa-1a55-11ec-a8b4-0242ac130003",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "crop_variety_name": "Toadskin"
+  },
+  {
+    "crop_id": 94,
+    "crop_variety_id": "a4f5454a-7234-11ec-bc71-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Jack amarillo"
+  },
+  {
+    "crop_id": 1179,
+    "crop_variety_id": "8276a340-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Streaker, Hulless"
+  },
+  {
+    "crop_id": 1573,
+    "crop_variety_id": "290b5276-31d9-11ec-a870-0242ac130002",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "crop_variety_name": "Cotton Candy"
+  },
+  {
+    "crop_id": 1299,
+    "crop_variety_id": "82763df6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "980033a6-2841-11eb-b1d5-22000b479377",
+    "crop_variety_name": "Rojo"
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "8277426e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c14c67f4-3c08-11eb-9b6b-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "82776686-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1414,
+    "crop_variety_id": "82765976-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": "Comun"
+  },
+  {
+    "crop_id": 144,
+    "crop_variety_id": "3764e51c-c55a-11eb-8a67-0242ac120002",
+    "farm_id": "8bda0e20-4485-11eb-995c-22000ab8b02b",
+    "crop_variety_name": "Clover, Cover Crop"
+  },
+  {
+    "crop_id": 87,
+    "crop_variety_id": "82765dfe-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "09a46a26-3653-11eb-b328-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "0d961a22-7a08-11ec-a294-0242ac130004",
+    "farm_id": "e00e167c-7a07-11ec-be6c-0242ac130004",
+    "crop_variety_name": "wild"
+  },
+  {
+    "crop_id": 81,
+    "crop_variety_id": "827641a2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 152,
+    "crop_variety_id": "82766b1e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8ef17514-89f7-11eb-b6aa-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "74cdee88-30e6-11ec-93be-0242ac130002",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "crop_variety_name": "12"
+  },
+  {
+    "crop_id": 1160,
+    "crop_variety_id": "827768c0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "a17f90dc-33bb-11ea-9707-22000b8600fb",
+    "crop_variety_name": "Glen Valley Red"
+  },
+  {
+    "crop_id": 65,
+    "crop_variety_id": "8276537c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "203d4f82-c974-11eb-8457-0242ac120002",
+    "farm_id": "ef175d4e-c96e-11eb-a31a-0242ac120002",
+    "crop_variety_name": "Alfie"
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "8276fc32-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "56012ffe-449e-11eb-907c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 147,
+    "crop_variety_id": "82774bb0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "3308b0e6-3597-11eb-a902-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1462,
+    "crop_variety_id": "82770bb4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Pitanga "
+  },
+  {
+    "crop_id": 60,
+    "crop_variety_id": "8276b22c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d37fd9fa-39a2-11eb-9923-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1520,
+    "crop_variety_id": "75aeefe8-3116-11ec-9cb9-0242ac130002",
+    "farm_id": "8368e776-3105-11ec-a72b-0242ac130002",
+    "crop_variety_name": "apricot, non cover crop"
+  },
+  {
+    "crop_id": 67,
+    "crop_variety_id": "82779430-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "fc7f1742-3b20-11eb-a4ba-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 125,
+    "crop_variety_id": "46b62d56-900b-11ec-80e6-0242ac120002",
+    "farm_id": "12e7be22-9006-11ec-b983-0242ac120002",
+    "crop_variety_name": "Cajanus cajan"
+  },
+  {
+    "crop_id": 4,
+    "crop_variety_id": "82766376-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "54fdf6b0-3b15-11eb-9886-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 101,
+    "crop_variety_id": "8277caa4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "0dbdbca0-dec0-11eb-9cc5-0242ac120002",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "crop_variety_name": "Fuzzy Almonds"
+  },
+  {
+    "crop_id": 66,
+    "crop_variety_id": "8276d6a8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "dd295afc-7026-11eb-9fab-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "82778ac6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "90ad0546-6a56-11eb-90f6-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 122,
+    "crop_variety_id": "8277589e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "36674266-6328-11eb-b318-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 128,
+    "crop_variety_id": "827740ca-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c14c67f4-3c08-11eb-9b6b-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 23,
+    "crop_variety_id": "8277b6e0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d7603eb0-6b4e-11eb-9d12-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1531,
+    "crop_variety_id": "d38e7a58-8dcc-11ec-924b-0242ac120002",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "crop_variety_name": "Juicy"
+  },
+  {
+    "crop_id": 82,
+    "crop_variety_id": "8276a016-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4e9ff8d8-0fd0-11eb-95a5-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 67,
+    "crop_variety_id": "d7679c20-78bb-11ec-b32c-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Cohete"
+  },
+  {
+    "crop_id": 1205,
+    "crop_variety_id": "82773012-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Cha Kura Kake "
+  },
+  {
+    "crop_id": 1419,
+    "crop_variety_id": "82778058-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Hibisco"
+  },
+  {
+    "crop_id": 1314,
+    "crop_variety_id": "8277afd8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "54fdf6b0-3b15-11eb-9886-22000ab8b02b",
+    "crop_variety_name": "green pepper"
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "5e60015a-8a9a-11ec-872a-0242ac130004",
+    "farm_id": "30dabb36-8a99-11ec-872a-0242ac130004",
+    "crop_variety_name": "123"
+  },
+  {
+    "crop_id": 162,
+    "crop_variety_id": "8277a286-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "82b693b2-0f75-11eb-a2e7-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1571,
+    "crop_variety_id": "f207b56e-30e6-11ec-abdf-0242ac130002",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "crop_variety_name": "several "
+  },
+  {
+    "crop_id": 1721,
+    "crop_variety_id": "7f8380de-31d8-11ec-b1b0-0242ac130002",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "crop_variety_name": "Ala"
+  },
+  {
+    "crop_id": 1567,
+    "crop_variety_id": "261e0d48-3340-11ec-830f-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "Comum"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "8276705a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "crop_variety_name": "k"
+  },
+  {
+    "crop_id": 1260,
+    "crop_variety_id": "82773d28-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "a5847416-e655-11ea-9891-22000ab40d92",
+    "crop_variety_name": "avc"
+  },
+  {
+    "crop_id": 1444,
+    "crop_variety_id": "8276d612-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Orégano limão "
+  },
+  {
+    "crop_id": 128,
+    "crop_variety_id": "82762e10-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "620d4938-1f8f-11eb-88dc-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 45,
+    "crop_variety_id": "86c1f6d2-5c6c-11ec-8d2b-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Gossypium Barbadense"
+  },
+  {
+    "crop_id": 73,
+    "crop_variety_id": "8276ab74-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "440ee648-a92e-11eb-8b1b-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 144,
+    "crop_variety_id": "1da4ffae-3350-11ec-b097-0242ac130002",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "crop_variety_name": "trevo cobertura"
+  },
+  {
+    "crop_id": 1509,
+    "crop_variety_id": "0634258e-1749-11ec-b817-0242ac130003",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Apple, non cover crop"
+  },
+  {
+    "crop_id": 20,
+    "crop_variety_id": "8276ad22-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "74ca8710-8e67-11eb-b071-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 2,
+    "crop_variety_id": "82766880-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "cabd299e-3e52-11eb-980b-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1760,
+    "crop_variety_id": "e5b2afca-47da-11ec-bc85-0242ac130002",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "crop_variety_name": "Clover, Cover Crop"
+  },
+  {
+    "crop_id": 125,
+    "crop_variety_id": "82778ddc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8bda0e20-4485-11eb-995c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "7eb5ca5c-32b1-11ec-9676-0242ac130002",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "crop_variety_name": "K"
+  },
+  {
+    "crop_id": 1565,
+    "crop_variety_id": "d8eff950-39de-11ec-8206-0242ac130002",
+    "farm_id": "fdef2b42-39dc-11ec-8f9a-0242ac130002",
+    "crop_variety_name": "Candy"
+  },
+  {
+    "crop_id": 1191,
+    "crop_variety_id": "82761a38-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Cascadia"
+  },
+  {
+    "crop_id": 1278,
+    "crop_variety_id": "8276feb2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "crop_variety_name": "Crispy _"
+  },
+  {
+    "crop_id": 1486,
+    "crop_variety_id": "8277b1cc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "13480dde-a9f4-11eb-ad5b-0242ac130002",
+    "crop_variety_name": "Común"
+  },
+  {
+    "crop_id": 89,
+    "crop_variety_id": "8277257c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "034ec3f6-22d5-11eb-a491-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1393,
+    "crop_variety_id": "82766dc6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "crop_variety_name": "Lettuce Mix Elegance"
+  },
+  {
+    "crop_id": 98,
+    "crop_variety_id": "8276dd88-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1329,
+    "crop_variety_id": "827693aa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "49930bf8-5efb-11eb-b0bd-22000ab2b8c4",
+    "crop_variety_name": "Pinot Gris"
+  },
+  {
+    "crop_id": 29,
+    "crop_variety_id": "82774c14-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "f0bdbe74-1a21-11eb-9085-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1130,
+    "crop_variety_id": "82776a82-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bf1354e0-17a4-11ea-a8d4-22000b628b95",
+    "crop_variety_name": "White lady"
+  },
+  {
+    "crop_id": 148,
+    "crop_variety_id": "6e84bc32-ea64-11eb-9fc9-0242ac120002",
+    "farm_id": "26fab146-ea64-11eb-8017-0242ac120002",
+    "crop_variety_name": "Clover, Cover Crop"
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "5b9f2fb2-c7c3-11eb-a188-0242ac120002",
+    "farm_id": "4504fffc-c7c3-11eb-bafa-0242ac120002",
+    "crop_variety_name": "D"
+  },
+  {
+    "crop_id": 1190,
+    "crop_variety_id": "82770056-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Purple"
+  },
+  {
+    "crop_id": 1432,
+    "crop_variety_id": "8276823e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "876e6cfa-a902-11eb-8762-0242ac130002",
+    "crop_variety_name": "Curuba"
+  },
+  {
+    "crop_id": 1188,
+    "crop_variety_id": "827699e0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "1b6a2672-8066-11ea-9419-22000a9c4c3b",
+    "crop_variety_name": "Susan delafield"
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "fb8bdb66-83ce-11ec-b385-0242ac130004",
+    "farm_id": "c90317a4-83ce-11ec-86d2-0242ac130004",
+    "crop_variety_name": "variety"
+  },
+  {
+    "crop_id": 23,
+    "crop_variety_id": "8277ab3c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "6909d532-5f98-11eb-be71-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 153,
+    "crop_variety_id": "82774ce6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4a55070e-74df-11eb-b111-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1171,
+    "crop_variety_id": "827676ae-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "63819c1e-6168-11ea-8e16-22000a946868",
+    "crop_variety_name": "Dr woman"
+  },
+  {
+    "crop_id": 1242,
+    "crop_variety_id": "827643aa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Touchstone Gold organic William Dam Seeds"
+  },
+  {
+    "crop_id": 148,
+    "crop_variety_id": "973a81ba-2c69-11ec-985a-0242ac130002",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "crop_variety_name": "Sweet Beets"
+  },
+  {
+    "crop_id": 147,
+    "crop_variety_id": "73fc8a00-36b8-11ec-9f63-0242ac130002",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "crop_variety_name": "Blueberry, non cover crop"
+  },
+  {
+    "crop_id": 1098,
+    "crop_variety_id": "82773116-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bf1354e0-17a4-11ea-a8d4-22000b628b95",
+    "crop_variety_name": "Tongo Di Nero Organic"
+  },
+  {
+    "crop_id": 1482,
+    "crop_variety_id": "82772d38-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "440ee648-a92e-11eb-8b1b-0242ac130002",
+    "crop_variety_name": "Común"
+  },
+  {
+    "crop_id": 1435,
+    "crop_variety_id": "82775358-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "93ff6ae6-568c-11eb-b79e-22000ab2b8c4",
+    "crop_variety_name": "Común"
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "827747be-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "fc7f1742-3b20-11eb-a4ba-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "eb98e8b8-e0f2-11eb-8dfb-0242ac120002",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "crop_variety_name": "Apple 1"
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "827794f8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "64427996-610f-11eb-ae3e-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "b5d91852-01e9-11ec-b141-0242ac130003",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "crop_variety_name": "Hulk"
+  },
+  {
+    "crop_id": 132,
+    "crop_variety_id": "82774d4a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "54fdf6b0-3b15-11eb-9886-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1328,
+    "crop_variety_id": "8276f58e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "49930bf8-5efb-11eb-b0bd-22000ab2b8c4",
+    "crop_variety_name": "Gewürztraminer"
+  },
+  {
+    "crop_id": 160,
+    "crop_variety_id": "4545c00a-78bc-11ec-83f0-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Brasilero"
+  },
+  {
+    "crop_id": 1214,
+    "crop_variety_id": "827797be-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "a71f3616-b753-11ea-95fd-22000a3def48",
+    "crop_variety_name": "test1"
+  },
+  {
+    "crop_id": 117,
+    "crop_variety_id": "8277a6b4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1104,
+    "crop_variety_id": "82775254-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "unknown"
+  },
+  {
+    "crop_id": 164,
+    "crop_variety_id": "85466da4-0b56-11ec-b99d-0242ac130003",
+    "farm_id": "2a6b3d24-eb30-11eb-a9ed-0242ac120002",
+    "crop_variety_name": "J"
+  },
+  {
+    "crop_id": 75,
+    "crop_variety_id": "bbcf7d44-35ad-11ec-b438-0242ac130002",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "crop_variety_name": "Big C"
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "fb4170d2-304d-11ec-9055-0242ac130002",
+    "farm_id": "b4ffdf28-304d-11ec-bbea-0242ac130002",
+    "crop_variety_name": "Sweet Abiu"
+  },
+  {
+    "crop_id": 126,
+    "crop_variety_id": "8276901c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b1eafe76-333c-11eb-870b-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "cab8382a-ea2e-11eb-8940-0242ac120002",
+    "farm_id": "9464f704-ea2e-11eb-b5d8-0242ac120002",
+    "crop_variety_name": "12"
+  },
+  {
+    "crop_id": 1232,
+    "crop_variety_id": "82764062-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "William Dam seeds organic"
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "827701c8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "93ff6ae6-568c-11eb-b79e-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 77,
+    "crop_variety_id": "a45d9b26-30e6-11ec-955e-0242ac130002",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "crop_variety_name": "cardamomo"
+  },
+  {
+    "crop_id": 103,
+    "crop_variety_id": "8277ac7c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8477cc1a-2b3c-11eb-b956-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1483,
+    "crop_variety_id": "82777d4c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "440ee648-a92e-11eb-8b1b-0242ac130002",
+    "crop_variety_name": "Común"
+  },
+  {
+    "crop_id": 157,
+    "crop_variety_id": "8276e54e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "fc7f1742-3b20-11eb-a4ba-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 103,
+    "crop_variety_id": "8276ce2e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "a7d927b8-3e4b-11eb-a791-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1647,
+    "crop_variety_id": "f3902314-3346-11ec-808b-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "Comum"
+  },
+  {
+    "crop_id": 1471,
+    "crop_variety_id": "8277c022-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Chicória"
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "8276fd7c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "06001e24-7c21-11eb-b915-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1118,
+    "crop_variety_id": "8276730c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "392c6bc8-4a12-11ea-bed2-22000b8600fb",
+    "crop_variety_name": "Lychee"
+  },
+  {
+    "crop_id": 101,
+    "crop_variety_id": "82765d9a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d4b9a7b0-27a5-11eb-8123-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1095,
+    "crop_variety_id": "8276c8c0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "46539cea-16b9-11ea-b182-22000b628b95",
+    "crop_variety_name": "red leaf"
+  },
+  {
+    "crop_id": 1258,
+    "crop_variety_id": "8276d7ca-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "504eceb0-de7b-11ea-82a2-22000ab40d92",
+    "crop_variety_name": "yes"
+  },
+  {
+    "crop_id": 1512,
+    "crop_variety_id": "d772f026-304e-11ec-b382-0242ac130002",
+    "farm_id": "b4ffdf28-304d-11ec-bbea-0242ac130002",
+    "crop_variety_name": "Allspice"
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "8277345e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "7d1bddbe-4499-11eb-87eb-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 109,
+    "crop_variety_id": "659d8e90-334e-11ec-b721-0242ac130002",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "crop_variety_name": "comum"
+  },
+  {
+    "crop_id": 1193,
+    "crop_variety_id": "82775de4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Arabian Bkue"
+  },
+  {
+    "crop_id": 1173,
+    "crop_variety_id": "8276aa34-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "3b5d50f8-5b68-11ea-8d8e-22000a946868",
+    "crop_variety_name": "Warba"
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "51c97a8e-6f10-11ec-a4ac-0242ac130002",
+    "farm_id": "5d375864-6e7a-11ec-85e2-0242ac130002",
+    "crop_variety_name": "apricot, non cover crop"
+  },
+  {
+    "crop_id": 26,
+    "crop_variety_id": "8277bef6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d68bad7a-6ff5-11eb-a53d-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1509,
+    "crop_variety_id": "bfe49cce-33ba-11ec-b360-0242ac130002",
+    "farm_id": "b5ebef20-3035-11ec-93d7-0242ac130002",
+    "crop_variety_name": "8888"
+  },
+  {
+    "crop_id": 52,
+    "crop_variety_id": "8276e9d6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8110c7e6-357f-11eb-80e2-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1619,
+    "crop_variety_id": "b1696dec-31d9-11ec-97b2-0242ac130002",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "crop_variety_name": "Green Grows the"
+  },
+  {
+    "crop_id": 9,
+    "crop_variety_id": "49d34e3e-53b5-11ec-a057-0242ac130002",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Barley, not sure seed"
+  },
+  {
+    "crop_id": 1210,
+    "crop_variety_id": "8277cde2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "f8b880ce-b3d7-11ea-90e5-22000a3def48",
+    "crop_variety_name": "Hello"
+  },
+  {
+    "crop_id": 59,
+    "crop_variety_id": "df231db4-5c6d-11ec-a65e-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Verde"
+  },
+  {
+    "crop_id": 81,
+    "crop_variety_id": "3f4b931a-3900-11ec-a9d1-0242ac130002",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "crop_variety_name": "Spicy"
+  },
+  {
+    "crop_id": 147,
+    "crop_variety_id": "82771a8c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "82b693b2-0f75-11eb-a2e7-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "3fb3fbca-df79-11eb-9ce2-0242ac120002",
+    "farm_id": "fe00b8e4-df69-11eb-8c12-0242ac120002",
+    "crop_variety_name": "G"
+  },
+  {
+    "crop_id": 2,
+    "crop_variety_id": "8277b230-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "83f4e6f0-3e39-11eb-9bca-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "82768586-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 132,
+    "crop_variety_id": "a5332882-8dce-11ec-b183-0242ac120002",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "crop_variety_name": "Yellow"
+  },
+  {
+    "crop_id": 1238,
+    "crop_variety_id": "827684c8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "E-Z Pick OG Bush Beans, organic"
+  },
+  {
+    "crop_id": 123,
+    "crop_variety_id": "82777270-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "67dfaeb8-3421-11eb-9810-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1509,
+    "crop_variety_id": "9a9b5f3e-335b-11ec-ab58-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "Comum"
+  },
+  {
+    "crop_id": 1425,
+    "crop_variety_id": "8276d73e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "498218c8-a5f2-11eb-96c6-0242ac130002",
+    "crop_variety_name": "JCB"
+  },
+  {
+    "crop_id": 1245,
+    "crop_variety_id": "8277c216-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Majestic Green Romaine"
+  },
+  {
+    "crop_id": 1244,
+    "crop_variety_id": "8276eb66-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Laurels Frilly"
+  },
+  {
+    "crop_id": 1236,
+    "crop_variety_id": "8277b9d8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "28b2225a-a549-11ea-b925-22000ba8027d",
+    "crop_variety_name": "berry"
+  },
+  {
+    "crop_id": 1200,
+    "crop_variety_id": "8277ce6e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Cylindra"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "0ac0f0f6-9038-11ec-8982-0242ac120002",
+    "farm_id": "67d2acd6-8dc1-11ec-8679-0242ac120002",
+    "crop_variety_name": "Almenda dulce"
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "8277de7c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c6dbbc80-4e8b-11ea-b0b8-22000a946868",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1382,
+    "crop_variety_id": "82769648-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "06001e24-7c21-11eb-b915-22000a6ddaf5",
+    "crop_variety_name": "Mountain fresh"
+  },
+  {
+    "crop_id": 31,
+    "crop_variety_id": "82776708-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "14661188-0f77-11eb-a91b-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "b6c32932-c4a5-11eb-ad7e-0242ac120002",
+    "farm_id": "a26db2c2-c4a5-11eb-ba71-0242ac120002",
+    "crop_variety_name": "A"
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "827751aa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "1f7aeba0-63fc-11eb-9688-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "3abc8a2c-3746-11ec-b716-0242ac130002",
+    "farm_id": "2eb6b42e-3745-11ec-98a6-0242ac130002",
+    "crop_variety_name": "Sweet Lettuce"
+  },
+  {
+    "crop_id": 11,
+    "crop_variety_id": "82764418-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "69fc26da-7289-11eb-989c-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "8276aaa2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "008e3a80-3652-11eb-9f66-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 159,
+    "crop_variety_id": "8277e0ac-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "df4d988c-a930-11eb-b942-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1647,
+    "crop_variety_id": "3096b3c2-32b1-11ec-99bc-0242ac130002",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "crop_variety_name": "C"
+  },
+  {
+    "crop_id": 1509,
+    "crop_variety_id": "9eaa9c4c-30e6-11ec-93be-0242ac130002",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "crop_variety_name": "sfds"
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "96f72a68-e985-11eb-b8d8-0242ac120002",
+    "farm_id": "63195230-de8a-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "apricot, non cover crop"
+  },
+  {
+    "crop_id": 35,
+    "crop_variety_id": "d19edb38-3350-11ec-8154-0242ac130002",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "crop_variety_name": "uva niagara"
+  },
+  {
+    "crop_id": 153,
+    "crop_variety_id": "8277b5aa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8ccef970-638a-11eb-a290-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1113,
+    "crop_variety_id": "8276fff2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "adfa74a4-1592-11ea-a501-22000b628b95",
+    "crop_variety_name": "Common"
+  },
+  {
+    "crop_id": 23,
+    "crop_variety_id": "8276ac50-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1388,
+    "crop_variety_id": "82762b18-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4e6860bc-8677-11eb-ba60-0a7facd3678d",
+    "crop_variety_name": "Maximus"
+  },
+  {
+    "crop_id": 1294,
+    "crop_variety_id": "82769b52-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": "Blanca"
+  },
+  {
+    "crop_id": 1112,
+    "crop_variety_id": "8277b79e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4e34954e-42f2-11ea-b20a-22000b8600fb",
+    "crop_variety_name": "Leek_"
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "e1feff40-e9b2-11eb-a04b-0242ac120002",
+    "farm_id": "2057ced0-ca09-11eb-acd2-0242ac120002",
+    "crop_variety_name": "5"
+  },
+  {
+    "crop_id": 1546,
+    "crop_variety_id": "77d89d62-6fed-11ec-b17a-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "De chocolate"
+  },
+  {
+    "crop_id": 1558,
+    "crop_variety_id": "16f7061e-335c-11ec-8d51-0242ac130002",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "crop_variety_name": "hahagfs"
+  },
+  {
+    "crop_id": 1520,
+    "crop_variety_id": "3cf18968-1a55-11ec-a8b4-0242ac130003",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "crop_variety_name": "Delicious arracacha"
+  },
+  {
+    "crop_id": 155,
+    "crop_variety_id": "c0adf96a-cad9-11eb-86bb-0242ac120002",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "crop_variety_name": "White "
+  },
+  {
+    "crop_id": 1620,
+    "crop_variety_id": "8444200a-82ce-11ec-91a1-0242ac130004",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Purpura"
+  },
+  {
+    "crop_id": 61,
+    "crop_variety_id": "8276ed6e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "ec74425a-7ca7-11eb-a260-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1394,
+    "crop_variety_id": "8277b94c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "crop_variety_name": "Cilantro"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "82761b0a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "f378d5d6-709d-11eb-ac01-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1764,
+    "crop_variety_id": "15250a02-6f7f-11ec-8067-0242ac130002",
+    "farm_id": "f2be12a0-36bd-11ec-be0c-0242ac130002",
+    "crop_variety_name": "vvv"
+  },
+  {
+    "crop_id": 1330,
+    "crop_variety_id": "8277185c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "6909d532-5f98-11eb-be71-22000ab2b8c4",
+    "crop_variety_name": "Red Russian"
+  },
+  {
+    "crop_id": 53,
+    "crop_variety_id": "827629ec-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "f0bdbe74-1a21-11eb-9085-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 38,
+    "crop_variety_id": "e8df679a-335a-11ec-82d3-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "Pequeno"
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "f65f6dc8-78bc-11ec-9272-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Castilla"
+  },
+  {
+    "crop_id": 133,
+    "crop_variety_id": "827696de-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "0e0770ac-549b-11eb-be7b-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 54,
+    "crop_variety_id": "827625f0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "f0bdbe74-1a21-11eb-9085-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1099,
+    "crop_variety_id": "82774b4c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "adfa74a4-1592-11ea-a501-22000b628b95",
+    "crop_variety_name": "common"
+  },
+  {
+    "crop_id": 31,
+    "crop_variety_id": "82775a10-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "256b2bde-3039-11eb-81d1-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "8277de0e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "36674266-6328-11eb-b318-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 21,
+    "crop_variety_id": "6a8b2a26-8f82-11ec-9444-0242ac120002",
+    "farm_id": "67d2acd6-8dc1-11ec-8679-0242ac120002",
+    "crop_variety_name": "Abacaxi"
+  },
+  {
+    "crop_id": 127,
+    "crop_variety_id": "2c34c2ea-52de-11ec-bb4f-0242ac130002",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Greek Fenugreek"
+  },
+  {
+    "crop_id": 2,
+    "crop_variety_id": "8277676c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "faff1a00-66e7-11eb-b3c8-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 101,
+    "crop_variety_id": "82777086-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "a7d927b8-3e4b-11eb-a791-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1340,
+    "crop_variety_id": "82777928-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b801b34a-667c-11eb-a75b-22000ab2b8c4",
+    "crop_variety_name": "Various"
+  },
+  {
+    "crop_id": 1575,
+    "crop_variety_id": "144d7642-335b-11ec-b6aa-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "Sem caroço"
+  },
+  {
+    "crop_id": 73,
+    "crop_variety_id": "8277917e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "54fdf6b0-3b15-11eb-9886-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "23ed9c64-94f2-11ec-8536-0242ac120002",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "crop_variety_name": "Husky"
+  },
+  {
+    "crop_id": 1318,
+    "crop_variety_id": "8277d706-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "46ca9068-3fb5-11eb-811c-22000ab8b02b",
+    "crop_variety_name": "Cuerno enano "
+  },
+  {
+    "crop_id": 1129,
+    "crop_variety_id": "8276e3fa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bf1354e0-17a4-11ea-a8d4-22000b628b95",
+    "crop_variety_name": "Bright LIghts"
+  },
+  {
+    "crop_id": 58,
+    "crop_variety_id": "82761aa6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 66,
+    "crop_variety_id": "82778986-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "faff1a00-66e7-11eb-b3c8-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1265,
+    "crop_variety_id": "82773530-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "dry premium forage1"
+  },
+  {
+    "crop_id": 1380,
+    "crop_variety_id": "82774200-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "06001e24-7c21-11eb-b915-22000a6ddaf5",
+    "crop_variety_name": "Monterone"
+  },
+  {
+    "crop_id": 148,
+    "crop_variety_id": "ef67a7a8-8dcd-11ec-9602-0242ac120002",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "crop_variety_name": "Purp"
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "82775d26-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8110c7e6-357f-11eb-80e2-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 114,
+    "crop_variety_id": "827686b2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 52,
+    "crop_variety_id": "c9ce1c10-78bb-11ec-9049-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Rey"
+  },
+  {
+    "crop_id": 1468,
+    "crop_variety_id": "82771096-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Alface"
+  },
+  {
+    "crop_id": 166,
+    "crop_variety_id": "6a448f44-78bc-11ec-9272-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Reina"
+  },
+  {
+    "crop_id": 1334,
+    "crop_variety_id": "82775c4a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "17d85650-6373-11eb-8c1a-22000ab2b8c4",
+    "crop_variety_name": "My own"
+  },
+  {
+    "crop_id": 1226,
+    "crop_variety_id": "82766f56-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Midwater Gai-Lan"
+  },
+  {
+    "crop_id": 1115,
+    "crop_variety_id": "8277bf8c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "5f88170c-4915-11ea-ae5e-22000b8600fb",
+    "crop_variety_name": "HB"
+  },
+  {
+    "crop_id": 1093,
+    "crop_variety_id": "8277493a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "adfa74a4-1592-11ea-a501-22000b628b95",
+    "crop_variety_name": "Common"
+  },
+  {
+    "crop_id": 153,
+    "crop_variety_id": "82769404-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1273,
+    "crop_variety_id": "82772bc6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "15e79e32-5875-11ea-a274-22000a946868",
+    "crop_variety_name": "simeto5"
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "82779b4c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "56012ffe-449e-11eb-907c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 21,
+    "crop_variety_id": "827611a0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "69fc26da-7289-11eb-989c-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1166,
+    "crop_variety_id": "8276570a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "23759a6a-6f66-11ea-b9c3-22000a90b459",
+    "crop_variety_name": "RRG"
+  },
+  {
+    "crop_id": 2,
+    "crop_variety_id": "82779566-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d0f04e5c-3e4f-11eb-980b-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "8276616e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "030deafa-1dfa-11eb-b7f5-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1185,
+    "crop_variety_id": "8277a786-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "Don't know"
+  },
+  {
+    "crop_id": 146,
+    "crop_variety_id": "827735f8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "df4d988c-a930-11eb-b942-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1748,
+    "crop_variety_id": "c96c59c6-3347-11ec-af57-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "Comum"
+  },
+  {
+    "crop_id": 31,
+    "crop_variety_id": "8276d46e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "09a46a26-3653-11eb-b328-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1146,
+    "crop_variety_id": "82768144-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "5c27fbbc-5b63-11ea-88c3-22000a946868",
+    "crop_variety_name": "Cabernet"
+  },
+  {
+    "crop_id": 1254,
+    "crop_variety_id": "82770812-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Sugar Ann Snap"
+  },
+  {
+    "crop_id": 1765,
+    "crop_variety_id": "5fa4bc16-733b-11ec-8d3f-0242ac130004",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Sooooo sweeet"
+  },
+  {
+    "crop_id": 1762,
+    "crop_variety_id": "d49b9dda-6dbb-11ec-9028-0242ac130002",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Back button test variety 1"
+  },
+  {
+    "crop_id": 50,
+    "crop_variety_id": "82761830-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "671d4200-7d51-11eb-8ef1-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1324,
+    "crop_variety_id": "8277817a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "61a46686-5507-11eb-93ea-22000ab2b8c4",
+    "crop_variety_name": "Valencia"
+  },
+  {
+    "crop_id": 9,
+    "crop_variety_id": "12cd4d94-3854-11ec-b39f-0242ac130002",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "crop_variety_name": "Barley"
+  },
+  {
+    "crop_id": 73,
+    "crop_variety_id": "82772ed2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "74ca8710-8e67-11eb-b071-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "14a29fca-8dea-11ec-860d-0242ac120002",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "crop_variety_name": "Verdinho"
+  },
+  {
+    "crop_id": 1520,
+    "crop_variety_id": "17d1a02e-30ed-11ec-b258-0242ac130002",
+    "farm_id": "51895eec-304d-11ec-8582-0242ac130002",
+    "crop_variety_name": "12"
+  },
+  {
+    "crop_id": 166,
+    "crop_variety_id": "8276d4f0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "f0bdbe74-1a21-11eb-9085-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 9,
+    "crop_variety_id": "80e76b3c-8dce-11ec-97e4-0242ac120002",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "crop_variety_name": "Sweet"
+  },
+  {
+    "crop_id": 1740,
+    "crop_variety_id": "de39055e-31d8-11ec-a1fe-0242ac130002",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "crop_variety_name": "Disgusting"
+  },
+  {
+    "crop_id": 1155,
+    "crop_variety_id": "8277cb8a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "5c27fbbc-5b63-11ea-88c3-22000a946868",
+    "crop_variety_name": "Alkindus"
+  },
+  {
+    "crop_id": 121,
+    "crop_variety_id": "8277db3e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "829b1e3a-285b-11eb-8aca-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 96,
+    "crop_variety_id": "827744f8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b92fd016-708c-11eb-974a-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 26,
+    "crop_variety_id": "8277151e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "236266b0-22b8-11eb-ab01-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1249,
+    "crop_variety_id": "82763e5a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e0309a1a-a116-11ea-a0a6-22000ba8027d",
+    "crop_variety_name": "Orange"
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "8276e47c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "0d92dda4-7ecc-11eb-9bd6-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1172,
+    "crop_variety_id": "8276647a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "Various"
+  },
+  {
+    "crop_id": 103,
+    "crop_variety_id": "8276f944-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1332,
+    "crop_variety_id": "8277d7ec-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "64427996-610f-11eb-ae3e-22000ab2b8c4",
+    "crop_variety_name": "cronch"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "82778670-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1489,
+    "crop_variety_id": "5ca7107a-c889-11eb-8c75-0242ac120002",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "crop_variety_name": "test crop variety"
+  },
+  {
+    "crop_id": 1141,
+    "crop_variety_id": "8276ee72-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "2548d3ac-5b2a-11ea-b343-22000a946868",
+    "crop_variety_name": "Chigoggia"
+  },
+  {
+    "crop_id": 1458,
+    "crop_variety_id": "82767438-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Nirá "
+  },
+  {
+    "crop_id": 1100,
+    "crop_variety_id": "827657dc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "crop_variety_name": "red"
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "8276bce0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8bda0e20-4485-11eb-995c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1774,
+    "crop_variety_id": "b4d0f468-8ea5-11ec-bcf8-0242ac120002",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "crop_variety_name": "Spooky"
+  },
+  {
+    "crop_id": 1217,
+    "crop_variety_id": "8276ea9e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8742c4d6-5b3a-11ea-b27b-22000a946868",
+    "crop_variety_name": "Yellow Pear"
+  },
+  {
+    "crop_id": 1268,
+    "crop_variety_id": "82761d62-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "cae26ecc-53cd-11ea-9e9b-22000a946868",
+    "crop_variety_name": "Merlot1"
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "8277455c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8a2245bc-88cc-11eb-bb61-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 146,
+    "crop_variety_id": "8276bc4a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "36674266-6328-11eb-b318-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1262,
+    "crop_variety_id": "8277a4e8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Borlitti Drying Beans"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "827644ea-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8bda0e20-4485-11eb-995c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 89,
+    "crop_variety_id": "8277d58a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "ed03e70c-30f7-11ec-aeb8-0242ac130002",
+    "farm_id": "f59b2634-305a-11ec-ad47-0242ac130002",
+    "crop_variety_name": "Avocado"
+  },
+  {
+    "crop_id": 1440,
+    "crop_variety_id": "827659da-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Poejo "
+  },
+  {
+    "crop_id": 134,
+    "crop_variety_id": "8276b70e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "69fc26da-7289-11eb-989c-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1508,
+    "crop_variety_id": "f107378e-30eb-11ec-8eb7-0242ac130002",
+    "farm_id": "51895eec-304d-11ec-8582-0242ac130002",
+    "crop_variety_name": "kla"
+  },
+  {
+    "crop_id": 151,
+    "crop_variety_id": "82765584-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1208,
+    "crop_variety_id": "8276dbda-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Aztec Red Kidney"
+  },
+  {
+    "crop_id": 103,
+    "crop_variety_id": "827780ee-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4122442a-3e3a-11eb-9bca-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 158,
+    "crop_variety_id": "82778c38-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "8277367a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "030deafa-1dfa-11eb-b7f5-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1237,
+    "crop_variety_id": "8276ba42-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "11359696-a438-11ea-8857-22000ba8027d",
+    "crop_variety_name": "big green"
+  },
+  {
+    "crop_id": 147,
+    "crop_variety_id": "8276959e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1248,
+    "crop_variety_id": "827690c6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e0309a1a-a116-11ea-a0a6-22000ba8027d",
+    "crop_variety_name": "Tiny black"
+  },
+  {
+    "crop_id": 65,
+    "crop_variety_id": "8277419c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "93ff6ae6-568c-11eb-b79e-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 56,
+    "crop_variety_id": "82765520-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "82b693b2-0f75-11eb-a2e7-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1559,
+    "crop_variety_id": "2eb308fa-7814-11ec-aaf1-0242ac130004",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Chupa chupa"
+  },
+  {
+    "crop_id": 1474,
+    "crop_variety_id": "827752ea-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e3d004c6-59c1-11eb-a2f3-22000ab2b8c4",
+    "crop_variety_name": "Común"
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "f1aef5a8-73ff-11ec-9993-0242ac130004",
+    "farm_id": "ad7a35b4-73ff-11ec-8f0f-0242ac130004",
+    "crop_variety_name": "UNKNOWN"
+  },
+  {
+    "crop_id": 51,
+    "crop_variety_id": "82778706-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 31,
+    "crop_variety_id": "697565ee-c970-11eb-a31a-0242ac120002",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "crop_variety_name": "Sweet "
+  },
+  {
+    "crop_id": 1168,
+    "crop_variety_id": "82779c82-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "crop_variety_name": "Green"
+  },
+  {
+    "crop_id": 1377,
+    "crop_variety_id": "8276377a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "31135f2e-79b4-11ea-ad28-22000a90b459",
+    "crop_variety_name": "Parma Gold"
+  },
+  {
+    "crop_id": 1107,
+    "crop_variety_id": "8277cc34-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "392dcd3c-42fc-11ea-a6f7-22000b8600fb",
+    "crop_variety_name": "Imperial"
+  },
+  {
+    "crop_id": 60,
+    "crop_variety_id": "8276f87c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "f7c91e5e-1326-11eb-a1bb-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "4b776e3a-5e16-11ec-accb-0242ac130002",
+    "farm_id": "403e3d80-57ce-11ec-9639-0242ac130002",
+    "crop_variety_name": "v"
+  },
+  {
+    "crop_id": 1516,
+    "crop_variety_id": "8378962c-30e6-11ec-a3ae-0242ac130002",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "crop_variety_name": "test"
+  },
+  {
+    "crop_id": 113,
+    "crop_variety_id": "8276f3cc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "6146b532-a911-11eb-a5ba-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1120,
+    "crop_variety_id": "8276805e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4e34954e-42f2-11ea-b20a-22000b8600fb",
+    "crop_variety_name": "Leek"
+  },
+  {
+    "crop_id": 1550,
+    "crop_variety_id": "3fb144a6-30f6-11ec-a723-0242ac130002",
+    "farm_id": "51895eec-304d-11ec-8582-0242ac130002",
+    "crop_variety_name": "12"
+  },
+  {
+    "crop_id": 2,
+    "crop_variety_id": "8277a718-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1148,
+    "crop_variety_id": "8277022c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "5c27fbbc-5b63-11ea-88c3-22000a946868",
+    "crop_variety_name": "Zoey"
+  },
+  {
+    "crop_id": 1742,
+    "crop_variety_id": "0d5793b4-31d9-11ec-becc-0242ac130002",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "crop_variety_name": "Altitude"
+  },
+  {
+    "crop_id": 123,
+    "crop_variety_id": "a4ffc8e4-2621-11ec-8788-0242ac130003",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "crop_variety_name": "Lady Vie"
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "827626f4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1176,
+    "crop_variety_id": "8277bc58-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "3b5d50f8-5b68-11ea-8d8e-22000a946868",
+    "crop_variety_name": "Russian"
+  },
+  {
+    "crop_id": 1197,
+    "crop_variety_id": "82763af4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "DK"
+  },
+  {
+    "crop_id": 1628,
+    "crop_variety_id": "e49babb8-8dea-11ec-9e42-0242ac120002",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "crop_variety_name": "Fedido"
+  },
+  {
+    "crop_id": 1611,
+    "crop_variety_id": "2abb1cf4-335b-11ec-b6aa-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "Dura"
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "82774dcc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8bda0e20-4485-11eb-995c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "827619ca-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4886cae6-3b20-11eb-bcfa-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "8277d31e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e5a472e0-3492-11eb-b4fe-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "60c88f0e-32aa-11ec-8bd9-0242ac130002",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "crop_variety_name": "Roma"
+  },
+  {
+    "crop_id": 144,
+    "crop_variety_id": "17024dce-1b2b-11ec-ad8c-0242ac130003",
+    "farm_id": "ba231718-09f6-11ec-9fa3-0242ac130003",
+    "crop_variety_name": "Wild clover"
+  },
+  {
+    "crop_id": 1431,
+    "crop_variety_id": "82772e28-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "876e6cfa-a902-11eb-8762-0242ac130002",
+    "crop_variety_name": "Vasconcellea Pubescens"
+  },
+  {
+    "crop_id": 1445,
+    "crop_variety_id": "827666d2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Rúcula "
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "00e08928-5c6e-11ec-9a78-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Dulce"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "8276baec-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "faff1a00-66e7-11eb-b3c8-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 121,
+    "crop_variety_id": "8276675e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 9,
+    "crop_variety_id": "7683e006-8f5b-11ec-9963-0242ac120002",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "crop_variety_name": "Nova"
+  },
+  {
+    "crop_id": 1424,
+    "crop_variety_id": "82776852-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "498218c8-a5f2-11eb-96c6-0242ac130002",
+    "crop_variety_name": "Jiva"
+  },
+  {
+    "crop_id": 1233,
+    "crop_variety_id": "82771dde-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Sugar Daddy"
+  },
+  {
+    "crop_id": 67,
+    "crop_variety_id": "8277390e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "85c82e96-6991-11eb-b6d6-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 137,
+    "crop_variety_id": "71aab4de-d47a-11eb-a748-0242ac120002",
+    "farm_id": "2cd3826e-d47a-11eb-a748-0242ac120002",
+    "crop_variety_name": "Musttard"
+  },
+  {
+    "crop_id": 1255,
+    "crop_variety_id": "82770164-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Dolciva, organic"
+  },
+  {
+    "crop_id": 1737,
+    "crop_variety_id": "e6339ba8-31d7-11ec-b1bb-0242ac130002",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "crop_variety_name": "Zaraza"
+  },
+  {
+    "crop_id": 60,
+    "crop_variety_id": "827765c8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d5816dfa-1ae3-11eb-a861-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1516,
+    "crop_variety_id": "82cc4eca-7980-11ec-88b8-0242ac130004",
+    "farm_id": "99f4289e-f941-11eb-a9ee-0242ac120002",
+    "crop_variety_name": "Yelloq"
+  },
+  {
+    "crop_id": 122,
+    "crop_variety_id": "82769c38-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 150,
+    "crop_variety_id": "b0206766-8935-11ec-ab9d-0242ac130004",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "crop_variety_name": "Wild chantarells"
+  },
+  {
+    "crop_id": 27,
+    "crop_variety_id": "8277ad26-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "3056a5c8-3e3f-11eb-ba5b-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1395,
+    "crop_variety_id": "82770c54-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8bda0e20-4485-11eb-995c-22000ab8b02b",
+    "crop_variety_name": "Anaheim"
+  },
+  {
+    "crop_id": 103,
+    "crop_variety_id": "8277b2d0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "6c180c04-3e40-11eb-9e95-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "daeeafce-32b0-11ec-a3f5-0242ac130002",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "crop_variety_name": "Maiz"
+  },
+  {
+    "crop_id": 73,
+    "crop_variety_id": "82775b78-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "79ee2c62-81bd-11eb-b5a4-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 77,
+    "crop_variety_id": "82763ffe-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1384,
+    "crop_variety_id": "8277bafa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "06001e24-7c21-11eb-b915-22000a6ddaf5",
+    "crop_variety_name": "Rucula"
+  },
+  {
+    "crop_id": 87,
+    "crop_variety_id": "827729b4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b2a355c4-1ab0-11eb-a02a-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "967f3336-31d9-11ec-8643-0242ac130002",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "crop_variety_name": "Ambrosia"
+  },
+  {
+    "crop_id": 1157,
+    "crop_variety_id": "827671ea-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "5c27fbbc-5b63-11ea-88c3-22000a946868",
+    "crop_variety_name": "Chioggia"
+  },
+  {
+    "crop_id": 1181,
+    "crop_variety_id": "8276b330-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "1b6a2672-8066-11ea-9419-22000a9c4c3b",
+    "crop_variety_name": "Fordhook "
+  },
+  {
+    "crop_id": 1426,
+    "crop_variety_id": "827737d8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "498218c8-a5f2-11eb-96c6-0242ac130002",
+    "crop_variety_name": "Repairs"
+  },
+  {
+    "crop_id": 1156,
+    "crop_variety_id": "82763be4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "5c27fbbc-5b63-11ea-88c3-22000a946868",
+    "crop_variety_name": "Touchstone Gold"
+  },
+  {
+    "crop_id": 1178,
+    "crop_variety_id": "82778ef4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Several"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "daf7a9b0-5080-11ec-91da-0242ac130002",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "crop_variety_name": "granny"
+  },
+  {
+    "crop_id": 81,
+    "crop_variety_id": "dc254c2a-09e0-11ec-808f-0242ac130003",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "crop_variety_name": "Red"
+  },
+  {
+    "crop_id": 1552,
+    "crop_variety_id": "a3bbd9b8-32b1-11ec-a2a8-0242ac130002",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "crop_variety_name": "T"
+  },
+  {
+    "crop_id": 1282,
+    "crop_variety_id": "82765fac-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "23"
+  },
+  {
+    "crop_id": 1128,
+    "crop_variety_id": "82768d24-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bf1354e0-17a4-11ea-a8d4-22000b628b95",
+    "crop_variety_name": "Starbor Hybrid"
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "82765d36-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "36674266-6328-11eb-b318-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1450,
+    "crop_variety_id": "8276a610-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Erva Cidreira "
+  },
+  {
+    "crop_id": 42,
+    "crop_variety_id": "d1244a36-31d8-11ec-a77a-0242ac130002",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "crop_variety_name": "Oli"
+  },
+  {
+    "crop_id": 1335,
+    "crop_variety_id": "8276f4a8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "my own kind"
+  },
+  {
+    "crop_id": 1144,
+    "crop_variety_id": "827639a0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "5c27fbbc-5b63-11ea-88c3-22000a946868",
+    "crop_variety_name": "Merlin"
+  },
+  {
+    "crop_id": 21,
+    "crop_variety_id": "82776ca8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "faff1a00-66e7-11eb-b3c8-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 31,
+    "crop_variety_id": "d44a8ba4-d480-11eb-87d8-0242ac120002",
+    "farm_id": "3361ad00-d46a-11eb-811e-0242ac120002",
+    "crop_variety_name": "12"
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "82765aa2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 56,
+    "crop_variety_id": "827654b2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "36674266-6328-11eb-b318-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1290,
+    "crop_variety_id": "8276d3ce-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": "Acelga"
+  },
+  {
+    "crop_id": 58,
+    "crop_variety_id": "788a999e-8ace-11ec-b1f0-0242ac130004",
+    "farm_id": "b6e8494e-7a24-11ec-a3b6-0242ac130004",
+    "crop_variety_name": "Green"
+  },
+  {
+    "crop_id": 144,
+    "crop_variety_id": "74bd6604-1a65-11ec-a1ae-0242ac130003",
+    "farm_id": "09bec2bc-3b1d-11eb-a4ba-22000ab8b02b",
+    "crop_variety_name": "Clover, Cover Crop"
+  },
+  {
+    "crop_id": 1194,
+    "crop_variety_id": "8276eee0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Brazilian Laura’s (Salt Spring Seeds)"
+  },
+  {
+    "crop_id": 2,
+    "crop_variety_id": "82776d0c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "6c180c04-3e40-11eb-9e95-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 50,
+    "crop_variety_id": "8277443a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8cb64c78-1ad2-11eb-909a-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 64,
+    "crop_variety_id": "827783c8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "36674266-6328-11eb-b318-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "765c467e-25f5-11ec-b8e2-0242ac130003",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "crop_variety_name": "Sweet leaf"
+  },
+  {
+    "crop_id": 2,
+    "crop_variety_id": "82768978-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "31aa961c-370c-11eb-9cec-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 47,
+    "crop_variety_id": "8276d054-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "f0bdbe74-1a21-11eb-9085-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 101,
+    "crop_variety_id": "82772a7c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "46ca9068-3fb5-11eb-811c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1715,
+    "crop_variety_id": "294bf654-32b1-11ec-a154-0242ac130002",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "crop_variety_name": "Culinary"
+  },
+  {
+    "crop_id": 164,
+    "crop_variety_id": "8276f1f6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "440ee648-a92e-11eb-8b1b-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1658,
+    "crop_variety_id": "7f82f1a2-78bc-11ec-9272-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Dulce"
+  },
+  {
+    "crop_id": 42,
+    "crop_variety_id": "a7d9d586-fb9d-11eb-9ca6-0242ac120002",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "crop_variety_name": "Olive oil olive"
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "e44411b6-09e0-11ec-808f-0242ac130003",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "crop_variety_name": "Red Organic"
+  },
+  {
+    "crop_id": 1410,
+    "crop_variety_id": "82775772-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Açafrão"
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "8277b168-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 144,
+    "crop_variety_id": "9a9f4e02-fbb9-11eb-abb9-0242ac120002",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "crop_variety_name": "Sweet "
+  },
+  {
+    "crop_id": 1433,
+    "crop_variety_id": "82767370-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "93ff6ae6-568c-11eb-b79e-22000ab2b8c4",
+    "crop_variety_name": "Curubas"
+  },
+  {
+    "crop_id": 1336,
+    "crop_variety_id": "8276bbaa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8ccef970-638a-11eb-a290-22000ab2b8c4",
+    "crop_variety_name": "my cotton"
+  },
+  {
+    "crop_id": 1253,
+    "crop_variety_id": "82764fda-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Purple mist snow, organic"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "827675f0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b3cf6a32-64fc-11eb-985d-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 103,
+    "crop_variety_id": "8277824c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d6a678fc-3e37-11eb-8784-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "ca9267a0-373e-11ec-b950-0242ac130002",
+    "farm_id": "d287549c-36b8-11ec-91a4-0242ac130002",
+    "crop_variety_name": "apricot, non cover crop"
+  },
+  {
+    "crop_id": 1331,
+    "crop_variety_id": "8276ab06-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "df4ece56-6069-11eb-a5b0-22000ab2b8c4",
+    "crop_variety_name": "Guadua Bamboo"
+  },
+  {
+    "crop_id": 58,
+    "crop_variety_id": "8276b5c4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e5a472e0-3492-11eb-b4fe-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1455,
+    "crop_variety_id": "82777662-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "-"
+  },
+  {
+    "crop_id": 1438,
+    "crop_variety_id": "8277df44-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "chinês"
+  },
+  {
+    "crop_id": 121,
+    "crop_variety_id": "8276a2dc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b1eafe76-333c-11eb-870b-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 80,
+    "crop_variety_id": "827790c0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4e9ff8d8-0fd0-11eb-95a5-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 67,
+    "crop_variety_id": "8276e6de-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8bda0e20-4485-11eb-995c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 64,
+    "crop_variety_id": "82764f12-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "671d4200-7d51-11eb-8ef1-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1633,
+    "crop_variety_id": "f42d7a10-78ba-11ec-85de-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Chullpi"
+  },
+  {
+    "crop_id": 1138,
+    "crop_variety_id": "8276c79e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "46539cea-16b9-11ea-b182-22000b628b95",
+    "crop_variety_name": "salanova"
+  },
+  {
+    "crop_id": 112,
+    "crop_variety_id": "82775aba-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "80f40382-706b-11eb-a75c-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "5a2debdc-215f-11ec-9d3e-0242ac130003",
+    "farm_id": "11359696-a438-11ea-8857-22000ba8027d",
+    "crop_variety_name": "honey crisp"
+  },
+  {
+    "crop_id": 1219,
+    "crop_variety_id": "82766808-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "11359696-a438-11ea-8857-22000ba8027d",
+    "crop_variety_name": "Red Express"
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "82767ffa-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1258,
+    "crop_variety_id": "68ccd408-09ba-11ec-ae7a-0242ac130003",
+    "farm_id": "504eceb0-de7b-11ea-82a2-22000ab40d92",
+    "crop_variety_name": "jj"
+  },
+  {
+    "crop_id": 45,
+    "crop_variety_id": "14424ae0-74a8-11ec-82d6-0242ac130004",
+    "farm_id": "d7b68fbc-74a4-11ec-b479-0242ac130004",
+    "crop_variety_name": "Gossypium Barbadense"
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "82771d48-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4886cae6-3b20-11eb-bcfa-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 17,
+    "crop_variety_id": "68234d5e-52ec-11ec-bfd4-0242ac130002",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Sorghum"
+  },
+  {
+    "crop_id": 49,
+    "crop_variety_id": "12aa2d26-3351-11ec-a226-0242ac130002",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "crop_variety_name": "comum"
+  },
+  {
+    "crop_id": 1480,
+    "crop_variety_id": "8276454e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "440ee648-a92e-11eb-8b1b-0242ac130002",
+    "crop_variety_name": "Común"
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "889edf3e-30f6-11ec-8e55-0242ac130002",
+    "farm_id": "f59b2634-305a-11ec-ad47-0242ac130002",
+    "crop_variety_name": "Abu's Abiu"
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "f3e6fcde-35c6-11ec-b5e4-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "Comum"
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "36d8bc4e-df46-11eb-abcd-0242ac120002",
+    "farm_id": "a4fb8e3a-64db-11eb-9f0f-22000ab2b8c4",
+    "crop_variety_name": "ss"
+  },
+  {
+    "crop_id": 58,
+    "crop_variety_id": "4c51f7d2-df5c-11eb-95d7-0242ac120002",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Brocks broc"
+  },
+  {
+    "crop_id": 1134,
+    "crop_variety_id": "827688b0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "cae26ecc-53cd-11ea-9e9b-22000a946868",
+    "crop_variety_name": "Cabernet Sauvignon"
+  },
+  {
+    "crop_id": 1136,
+    "crop_variety_id": "8276a7dc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4e34954e-42f2-11ea-b20a-22000b8600fb",
+    "crop_variety_name": "Duke"
+  },
+  {
+    "crop_id": 29,
+    "crop_variety_id": "2cea2590-fb8b-11eb-bf5f-0242ac120002",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "crop_variety_name": "Just Dates"
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "8277b834-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "53c1be52-448a-11eb-a348-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "fd98b0fe-c7dc-11eb-9f35-0242ac120002",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "crop_variety_name": "1"
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "82768cc0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "265a23ec-663f-11eb-8216-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 121,
+    "crop_variety_id": "fc79b946-ee30-11eb-80ca-0242ac120002",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "crop_variety_name": "Sweet Fig"
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "845d1b02-e970-11eb-964c-0242ac120002",
+    "farm_id": "543c123a-e96f-11eb-964c-0242ac120002",
+    "crop_variety_name": "Avocado"
+  },
+  {
+    "crop_id": 1198,
+    "crop_variety_id": "8276fa0c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Tulameen1"
+  },
+  {
+    "crop_id": 72,
+    "crop_variety_id": "8276a9c6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1326,
+    "crop_variety_id": "8277a060-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "49930bf8-5efb-11eb-b0bd-22000ab2b8c4",
+    "crop_variety_name": "Pinot Noir"
+  },
+  {
+    "crop_id": 1280,
+    "crop_variety_id": "82768464-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "1a4054f6-b0a9-11ea-8b42-22000a3def48",
+    "crop_variety_name": "Corn1"
+  },
+  {
+    "crop_id": 26,
+    "crop_variety_id": "827799da-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "008e3a80-3652-11eb-9f66-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1271,
+    "crop_variety_id": "8277c2ac-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "cae26ecc-53cd-11ea-9e9b-22000a946868",
+    "crop_variety_name": "Merlot4"
+  },
+  {
+    "crop_id": 1231,
+    "crop_variety_id": "8276320c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Edible"
+  },
+  {
+    "crop_id": 1285,
+    "crop_variety_id": "8276e2c4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "7"
+  },
+  {
+    "crop_id": 1295,
+    "crop_variety_id": "8277c0ae-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": "Blanca"
+  },
+  {
+    "crop_id": 1341,
+    "crop_variety_id": "82772afe-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b801b34a-667c-11eb-a75b-22000ab2b8c4",
+    "crop_variety_name": "Various"
+  },
+  {
+    "crop_id": 1286,
+    "crop_variety_id": "8277d058-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "12"
+  },
+  {
+    "crop_id": 72,
+    "crop_variety_id": "82762eba-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1162,
+    "crop_variety_id": "82767186-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Andy’s Broad"
+  },
+  {
+    "crop_id": 1283,
+    "crop_variety_id": "8277b8c0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "25"
+  },
+  {
+    "crop_id": 45,
+    "crop_variety_id": "b8cfe184-78d2-11ec-9d16-0242ac130004",
+    "farm_id": "9727d474-78d2-11ec-9d16-0242ac130004",
+    "crop_variety_name": "Tangüis"
+  },
+  {
+    "crop_id": 1182,
+    "crop_variety_id": "827734cc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "Romaine round 1"
+  },
+  {
+    "crop_id": 59,
+    "crop_variety_id": "13fcacf8-8dce-11ec-a58b-0242ac120002",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "crop_variety_name": "Crunchy"
+  },
+  {
+    "crop_id": 67,
+    "crop_variety_id": "8277216c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1454,
+    "crop_variety_id": "82767578-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Salsinha"
+  },
+  {
+    "crop_id": 114,
+    "crop_variety_id": "82767ce4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "faff1a00-66e7-11eb-b3c8-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1506,
+    "crop_variety_id": "bab298f6-0524-11ec-ad26-0242ac130003",
+    "farm_id": "c4b562fa-045e-11ec-b69e-0242ac130003",
+    "crop_variety_name": "555"
+  },
+  {
+    "crop_id": 58,
+    "crop_variety_id": "8277dfa8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "3ed48502-66c1-11eb-80f1-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 65,
+    "crop_variety_id": "8276d20c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "54fdf6b0-3b15-11eb-9886-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1213,
+    "crop_variety_id": "82767b40-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Nantes"
+  },
+  {
+    "crop_id": 104,
+    "crop_variety_id": "8276f174-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "2cde709c-449d-11eb-907c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1592,
+    "crop_variety_id": "0d9eaf42-8deb-11ec-84d0-0242ac120002",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "crop_variety_name": "Merlot"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "8f705550-2dfd-11ec-9f50-0242ac130002",
+    "farm_id": "f0036cac-2de1-11ec-85ad-0242ac130002",
+    "crop_variety_name": "Clover, Cover Crop"
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "92c75918-ec50-11eb-a8ae-0242ac120002",
+    "farm_id": "2057ced0-ca09-11eb-acd2-0242ac120002",
+    "crop_variety_name": "Eujd"
+  },
+  {
+    "crop_id": 104,
+    "crop_variety_id": "82773f94-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1321,
+    "crop_variety_id": "8276327a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "1fd14056-4497-11eb-9f96-22000ab8b02b",
+    "crop_variety_name": "Ponkan"
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "827779b4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8110c7e6-357f-11eb-80e2-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1390,
+    "crop_variety_id": "827702ae-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "crop_variety_name": "Arugula"
+  },
+  {
+    "crop_id": 1256,
+    "crop_variety_id": "827700f6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Fava bean, Daikon, Hairy Vetch in compost covered rows"
+  },
+  {
+    "crop_id": 71,
+    "crop_variety_id": "55c86e1c-7a26-11ec-b350-0242ac130004",
+    "farm_id": "b6e8494e-7a24-11ec-a3b6-0242ac130004",
+    "crop_variety_name": "Basic"
+  },
+  {
+    "crop_id": 1510,
+    "crop_variety_id": "8e2e48d2-30e6-11ec-955e-0242ac130002",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "crop_variety_name": "hello"
+  },
+  {
+    "crop_id": 1439,
+    "crop_variety_id": "8276b934-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b0eee49a-59a4-11eb-a3f1-22000ab2b8c4",
+    "crop_variety_name": "Curubas"
+  },
+  {
+    "crop_id": 1343,
+    "crop_variety_id": "827618da-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "faff1a00-66e7-11eb-b3c8-22000ab2b8c4",
+    "crop_variety_name": "Juçara"
+  },
+  {
+    "crop_id": 117,
+    "crop_variety_id": "82769e36-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "1e937aa6-3744-11ec-b716-0242ac130002",
+    "farm_id": "3803bdfc-36b3-11ec-9d47-0242ac130002",
+    "crop_variety_name": "Lettuce sweet"
+  },
+  {
+    "crop_id": 1510,
+    "crop_variety_id": "dd9fb2a4-38ff-11ec-a857-0242ac130002",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "crop_variety_name": "Nom nom"
+  },
+  {
+    "crop_id": 1753,
+    "crop_variety_id": "847b0628-3900-11ec-8fcb-0242ac130002",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "crop_variety_name": "Sunrise"
+  },
+  {
+    "crop_id": 52,
+    "crop_variety_id": "242c6b88-5c44-11ec-aa52-0242ac130002",
+    "farm_id": "6ba081d8-ea5d-11eb-8017-0242ac120002",
+    "crop_variety_name": "Rey"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "82772946-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "29fccef4-664a-11eb-9f1f-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 110,
+    "crop_variety_id": "82767a3c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "8ccef970-638a-11eb-a290-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "9ac4c266-83ce-11ec-b993-0242ac130004",
+    "farm_id": "8d0f1a5a-5e16-11ec-8f50-0242ac130002",
+    "crop_variety_name": "variety2"
+  },
+  {
+    "crop_id": 1731,
+    "crop_variety_id": "8f8054cc-334e-11ec-b350-0242ac130002",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "crop_variety_name": "nativa"
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "82779a70-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "876e6cfa-a902-11eb-8762-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1397,
+    "crop_variety_id": "82767e2e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "24e8ee66-97cd-11eb-ae5e-121a0e444ae7",
+    "crop_variety_name": "Spring Raab Broccoli Raab"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "8277d3b4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c72c9a86-0fd0-11eb-986d-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 160,
+    "crop_variety_id": "82765840-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c6dbbc80-4e8b-11ea-b0b8-22000a946868",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1508,
+    "crop_variety_id": "2ab33c24-304e-11ec-92f6-0242ac130002",
+    "farm_id": "b4ffdf28-304d-11ec-bbea-0242ac130002",
+    "crop_variety_name": "Sour Acai"
+  },
+  {
+    "crop_id": 1510,
+    "crop_variety_id": "2c4ddacc-3831-11ec-a9d2-0242ac130002",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "crop_variety_name": "2"
+  },
+  {
+    "crop_id": 1224,
+    "crop_variety_id": "82762834-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Improved Siberian"
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "82776a1e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "67dfaeb8-3421-11eb-9810-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1739,
+    "crop_variety_id": "ba47db8e-31d8-11ec-a77a-0242ac130002",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "crop_variety_name": "Mole"
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "8276878e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "26608372-54ab-11eb-9564-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1227,
+    "crop_variety_id": "82768914-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Hulless Black"
+  },
+  {
+    "crop_id": 144,
+    "crop_variety_id": "218b75aa-c7e7-11eb-823d-0242ac120002",
+    "farm_id": "a26db2c2-c4a5-11eb-ba71-0242ac120002",
+    "crop_variety_name": "A"
+  },
+  {
+    "crop_id": 133,
+    "crop_variety_id": "549102a6-0a8d-11ec-b038-0242ac130003",
+    "farm_id": "3361ad00-d46a-11eb-811e-0242ac120002",
+    "crop_variety_name": "Special coconut"
+  },
+  {
+    "crop_id": 31,
+    "crop_variety_id": "8276a930-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4e169ac4-61ca-11eb-bd5c-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 148,
+    "crop_variety_id": "8276c05a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "96217076-739c-11eb-94e5-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 128,
+    "crop_variety_id": "827793c2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "13480dde-a9f4-11eb-ad5b-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 66,
+    "crop_variety_id": "8276a07a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "256b2bde-3039-11eb-81d1-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 64,
+    "crop_variety_id": "827750d8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "9e30293c-6128-11eb-87f7-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1089,
+    "crop_variety_id": "827746b0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "738b98d4-15a1-11ea-9832-22000b628b95",
+    "crop_variety_name": "Hello"
+  },
+  {
+    "crop_id": 1106,
+    "crop_variety_id": "82765430-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "392dcd3c-42fc-11ea-a6f7-22000b8600fb",
+    "crop_variety_name": "Russet"
+  },
+  {
+    "crop_id": 112,
+    "crop_variety_id": "80aa78d4-3122-11ec-a828-0242ac130002",
+    "farm_id": "9386af92-304e-11ec-b382-0242ac130002",
+    "crop_variety_name": "Yellow"
+  },
+  {
+    "crop_id": 71,
+    "crop_variety_id": "82767ad2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 42,
+    "crop_variety_id": "b6968c30-f621-11eb-9960-0242ac120002",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "crop_variety_name": "Olive 1"
+  },
+  {
+    "crop_id": 1317,
+    "crop_variety_id": "8277c5c2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "46ca9068-3fb5-11eb-811c-22000ab8b02b",
+    "crop_variety_name": "panades "
+  },
+  {
+    "crop_id": 103,
+    "crop_variety_id": "9e53d544-5c6d-11ec-b355-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Valencia"
+  },
+  {
+    "crop_id": 35,
+    "crop_variety_id": "8277287e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "49930bf8-5efb-11eb-b0bd-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1269,
+    "crop_variety_id": "827721da-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "cae26ecc-53cd-11ea-9e9b-22000a946868",
+    "crop_variety_name": "Merlot2"
+  },
+  {
+    "crop_id": 1131,
+    "crop_variety_id": "82768e96-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "C"
+  },
+  {
+    "crop_id": 3,
+    "crop_variety_id": "720c3ebc-8dce-11ec-b541-0242ac120002",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "crop_variety_name": "Green"
+  },
+  {
+    "crop_id": 1311,
+    "crop_variety_id": "8277694c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "54fdf6b0-3b15-11eb-9886-22000ab8b02b",
+    "crop_variety_name": "Zuchini"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "827698f0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "91013000-68c9-11eb-a38e-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 109,
+    "crop_variety_id": "827785da-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1117,
+    "crop_variety_id": "8277a560-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "87273f94-5276-11ea-a41a-22000a946868",
+    "crop_variety_name": "Shimla"
+  },
+  {
+    "crop_id": 1441,
+    "crop_variety_id": "8277920a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b0eee49a-59a4-11eb-a3f1-22000ab2b8c4",
+    "crop_variety_name": "Criollas"
+  },
+  {
+    "crop_id": 33,
+    "crop_variety_id": "8277063c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "829b1e3a-285b-11eb-8aca-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1291,
+    "crop_variety_id": "8276346e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b2a355c4-1ab0-11eb-a02a-22000bb9251f",
+    "crop_variety_name": "Kiwicha"
+  },
+  {
+    "crop_id": 1103,
+    "crop_variety_id": "8277c158-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "dry premium forage"
+  },
+  {
+    "crop_id": 153,
+    "crop_variety_id": "82765bce-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "67dfaeb8-3421-11eb-9810-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 31,
+    "crop_variety_id": "82773314-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c6460d3e-6591-11eb-aa46-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 81,
+    "crop_variety_id": "82762ba4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "14661188-0f77-11eb-a91b-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 166,
+    "crop_variety_id": "82770344-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1461,
+    "crop_variety_id": "827733c8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "."
+  },
+  {
+    "crop_id": 1525,
+    "crop_variety_id": "de1fa8e2-5cf4-11ec-b17d-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Dulce"
+  },
+  {
+    "crop_id": 23,
+    "crop_variety_id": "8277c6f8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "09bec2bc-3b1d-11eb-a4ba-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "a7b5d282-3854-11ec-af3e-0242ac130002",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "crop_variety_name": "Alf's Alfalfa"
+  },
+  {
+    "crop_id": 1567,
+    "crop_variety_id": "0cb627e0-3341-11ec-aeae-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "2"
+  },
+  {
+    "crop_id": 1744,
+    "crop_variety_id": "526b0886-32b1-11ec-99bc-0242ac130002",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "crop_variety_name": "J"
+  },
+  {
+    "crop_id": 1161,
+    "crop_variety_id": "827792a0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "a17f90dc-33bb-11ea-9707-22000b8600fb",
+    "crop_variety_name": "Tulameen"
+  },
+  {
+    "crop_id": 1376,
+    "crop_variety_id": "82766a24-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d7603eb0-6b4e-11eb-9d12-22000a6ddaf5",
+    "crop_variety_name": "Elegance Rosa Chiaro"
+  },
+  {
+    "crop_id": 74,
+    "crop_variety_id": "64ee0b6e-fac8-11eb-9c15-0242ac120002",
+    "farm_id": "543c123a-e96f-11eb-964c-0242ac120002",
+    "crop_variety_name": "chili, non-organic"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "8276431e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4e9ff8d8-0fd0-11eb-95a5-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 74,
+    "crop_variety_id": "8277782e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b69b79a8-8609-11eb-b046-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1275,
+    "crop_variety_id": "827788f0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "15e79e32-5875-11ea-a274-22000a946868",
+    "crop_variety_name": "Simeto1"
+  },
+  {
+    "crop_id": 148,
+    "crop_variety_id": "9aa71648-f621-11eb-9960-0242ac120002",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "crop_variety_name": "Beets 1"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "827694d6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "f7c91e5e-1326-11eb-a1bb-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "827749b2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "671d4200-7d51-11eb-8ef1-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 9,
+    "crop_variety_id": "82776c44-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "5adb6ee8-56ca-11eb-abff-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1477,
+    "crop_variety_id": "82778b34-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e3d004c6-59c1-11eb-a2f3-22000ab2b8c4",
+    "crop_variety_name": "Común"
+  },
+  {
+    "crop_id": 148,
+    "crop_variety_id": "6187dacc-7363-11ec-93f6-0242ac130004",
+    "farm_id": "fa3ad1ac-7278-11ec-ac7e-0242ac130002",
+    "crop_variety_name": "Sweet red beet"
+  },
+  {
+    "crop_id": 11,
+    "crop_variety_id": "8277d13e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "7a340552-61a1-11eb-b543-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 89,
+    "crop_variety_id": "8277a880-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "7a340552-61a1-11eb-b543-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 33,
+    "crop_variety_id": "82777dec-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "348443ec-5f20-11eb-bd86-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "4ceb90f2-d379-11eb-8be0-0242ac120002",
+    "farm_id": "2faba540-d379-11eb-a746-0242ac120002",
+    "crop_variety_name": "Almonds "
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "8277772a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "f0bdbe74-1a21-11eb-9085-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "82773594-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "dcd2a6d0-4533-11eb-bfe2-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 31,
+    "crop_variety_id": "998b15b8-3747-11ec-8c25-0242ac130002",
+    "farm_id": "77093132-3747-11ec-8b00-0242ac130002",
+    "crop_variety_name": "Sweet "
+  },
+  {
+    "crop_id": 146,
+    "crop_variety_id": "8277aa9c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 138,
+    "crop_variety_id": "82777fcc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c1ac956e-6784-11eb-bf4c-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1473,
+    "crop_variety_id": "827634d2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e3d004c6-59c1-11eb-a2f3-22000ab2b8c4",
+    "crop_variety_name": "Borago officinalis"
+  },
+  {
+    "crop_id": 1470,
+    "crop_variety_id": "82770ec0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "-"
+  },
+  {
+    "crop_id": 148,
+    "crop_variety_id": "06ec1cde-5c6d-11ec-ba94-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Rojito"
+  },
+  {
+    "crop_id": 1532,
+    "crop_variety_id": "06cc00d2-52ec-11ec-bc4b-0242ac130002",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Toadskin"
+  },
+  {
+    "crop_id": 149,
+    "crop_variety_id": "82765b6a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 150,
+    "crop_variety_id": "f8b8e42a-3350-11ec-929c-0242ac130002",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "crop_variety_name": "shimeji"
+  },
+  {
+    "crop_id": 1289,
+    "crop_variety_id": "82769d64-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": "Camote morado"
+  },
+  {
+    "crop_id": 1777,
+    "crop_variety_id": "db51eedc-98a8-11ec-929f-0242ac120002",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Bwemba"
+  },
+  {
+    "crop_id": 1088,
+    "crop_variety_id": "82767514-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "738b98d4-15a1-11ea-9832-22000b628b95",
+    "crop_variety_name": "Hello"
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "8276ef44-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "876e6cfa-a902-11eb-8762-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 5,
+    "crop_variety_id": "ff84a9ba-335a-11ec-b636-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "ph16"
+  },
+  {
+    "crop_id": 1514,
+    "crop_variety_id": "49fd66ba-2791-11ec-9fa9-0242ac130003",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "crop_variety_name": "Am a ranthi"
+  },
+  {
+    "crop_id": 27,
+    "crop_variety_id": "8276b646-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d6a678fc-3e37-11eb-8784-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1177,
+    "crop_variety_id": "8276a3a4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Unknown"
+  },
+  {
+    "crop_id": 83,
+    "crop_variety_id": "82776064-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "30fe2ee4-13cc-11eb-88bc-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 2,
+    "crop_variety_id": "8276195c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "a7d927b8-3e4b-11eb-a791-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 59,
+    "crop_variety_id": "c5f25ec4-6f62-11ec-8a60-0242ac130002",
+    "farm_id": "353f0b9e-5c6a-11ec-8795-0242ac130002",
+    "crop_variety_name": "Dulcita"
+  },
+  {
+    "crop_id": 1734,
+    "crop_variety_id": "d5270df0-30e6-11ec-a3ae-0242ac130002",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "crop_variety_name": "ho ho"
+  },
+  {
+    "crop_id": 1264,
+    "crop_variety_id": "8277d44a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "5d36f54c-046b-11eb-a9f9-22000a41d56e",
+    "crop_variety_name": "No idea"
+  },
+  {
+    "crop_id": 31,
+    "crop_variety_id": "a20d08c0-c566-11eb-a848-0242ac120002",
+    "farm_id": "a26db2c2-c4a5-11eb-ba71-0242ac120002",
+    "crop_variety_name": "a"
+  },
+  {
+    "crop_id": 1526,
+    "crop_variety_id": "7bfa3f68-3140-11ec-96b7-0242ac130002",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "crop_variety_name": "Climbers "
+  },
+  {
+    "crop_id": 1122,
+    "crop_variety_id": "827775c2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "cae26ecc-53cd-11ea-9e9b-22000a946868",
+    "crop_variety_name": "Sauvignon Gris"
+  },
+  {
+    "crop_id": 31,
+    "crop_variety_id": "82763004-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "11359696-a438-11ea-8857-22000ba8027d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "8276e5d0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "5ef669ce-0fd0-11eb-95a5-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 67,
+    "crop_variety_id": "8277dcc4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "030deafa-1dfa-11eb-b7f5-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1510,
+    "crop_variety_id": "5f07b8f0-30ea-11ec-be1a-0242ac130002",
+    "farm_id": "ca713386-3050-11ec-b23b-0242ac130002",
+    "crop_variety_name": "past"
+  },
+  {
+    "crop_id": 23,
+    "crop_variety_id": "8b78d2c2-3138-11ec-b16e-0242ac130002",
+    "farm_id": "4b86be3e-3108-11ec-ad47-0242ac130002",
+    "crop_variety_name": "Everbearing"
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "4c7c65a8-9f14-11ec-b549-0242ac120002",
+    "farm_id": "9ada9d52-d91f-11eb-bd3c-0242ac120002",
+    "crop_variety_name": "3"
+  },
+  {
+    "crop_id": 1274,
+    "crop_variety_id": "82777554-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "15e79e32-5875-11ea-a274-22000a946868",
+    "crop_variety_name": "simeto2"
+  },
+  {
+    "crop_id": 1429,
+    "crop_variety_id": "82762cc6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "876e6cfa-a902-11eb-8762-0242ac130002",
+    "crop_variety_name": "cuy"
+  },
+  {
+    "crop_id": 101,
+    "crop_variety_id": "827680e0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "cf0e049a-3e4e-11eb-a791-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1507,
+    "crop_variety_id": "e1dbddea-1cb5-11ec-88c8-0242ac130003",
+    "farm_id": "ada12ff6-100f-11ec-8ebd-0242ac130003",
+    "crop_variety_name": "Kevin C."
+  },
+  {
+    "crop_id": 1423,
+    "crop_variety_id": "82762410-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "498218c8-a5f2-11eb-96c6-0242ac130002",
+    "crop_variety_name": "Land Reclamation"
+  },
+  {
+    "crop_id": 74,
+    "crop_variety_id": "82770cfe-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "6bd9469a-87fb-11eb-a9dd-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 134,
+    "crop_variety_id": "827642ba-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "94b58e66-6c8a-11eb-90b1-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 67,
+    "crop_variety_id": "8277b398-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "99337bb6-2b57-11eb-8ed8-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "82772518-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "df4d988c-a930-11eb-b942-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "82771ca8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e5a472e0-3492-11eb-b4fe-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 89,
+    "crop_variety_id": "8276340a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b2fa7532-25f2-11eb-a8b0-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1203,
+    "crop_variety_id": "82768306-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Red kidney"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "82762c3a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "f0bdbe74-1a21-11eb-9085-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 56,
+    "crop_variety_id": "82777c0c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "17d85650-6373-11eb-8c1a-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1558,
+    "crop_variety_id": "6e06b2d6-334f-11ec-abdc-0242ac130002",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "crop_variety_name": "fininha"
+  },
+  {
+    "crop_id": 4,
+    "crop_variety_id": "82773e86-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 73,
+    "crop_variety_id": "827708ee-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 2,
+    "crop_variety_id": "82763a5e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "2621e95c-04f9-11eb-b8bd-22000a41d56e",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1151,
+    "crop_variety_id": "8276b43e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "23759a6a-6f66-11ea-b9c3-22000a90b459",
+    "crop_variety_name": "German Butter, Kennebec and Warba"
+  },
+  {
+    "crop_id": 53,
+    "crop_variety_id": "8277595c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d7603eb0-6b4e-11eb-9d12-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "f194b796-32b0-11ec-ab86-0242ac130002",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "crop_variety_name": "Negro"
+  },
+  {
+    "crop_id": 1457,
+    "crop_variety_id": "82771bc2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Roxo"
+  },
+  {
+    "crop_id": 153,
+    "crop_variety_id": "8276a6e2-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 123,
+    "crop_variety_id": "82779f02-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "8277abe6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 26,
+    "crop_variety_id": "8276926a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1550,
+    "crop_variety_id": "9dcf84d4-78b9-11ec-8198-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Arco iris"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "8276f782-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "71d84984-88cc-11eb-84e5-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 23,
+    "crop_variety_id": "8276db44-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "0587ec94-1e00-11eb-8d80-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1207,
+    "crop_variety_id": "82764eae-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Gaia"
+  },
+  {
+    "crop_id": 109,
+    "crop_variety_id": "82765ec6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "829b1e3a-285b-11eb-8aca-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1114,
+    "crop_variety_id": "8276933c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "392dcd3c-42fc-11ea-a6f7-22000b8600fb",
+    "crop_variety_name": "Champion"
+  },
+  {
+    "crop_id": 57,
+    "crop_variety_id": "c7850732-fb68-11eb-b057-0242ac120002",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "crop_variety_name": "Cabbage, non organic"
+  },
+  {
+    "crop_id": 65,
+    "crop_variety_id": "8276ade0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "274d9648-7081-11eb-98d3-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 89,
+    "crop_variety_id": "8277236a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "1cc9966a-622e-11eb-b5da-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 113,
+    "crop_variety_id": "827681a8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1466,
+    "crop_variety_id": "8276a25a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c134306a-8e30-11eb-9e26-0a7facd3678d",
+    "crop_variety_name": "Lipia"
+  },
+  {
+    "crop_id": 70,
+    "crop_variety_id": "05ab32bc-78bd-11ec-be98-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Roma"
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "62cc6400-c889-11eb-a822-0242ac120002",
+    "farm_id": "30d74eec-c4c9-11eb-af94-0242ac120002",
+    "crop_variety_name": "test crop variety"
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "cca25fc4-377e-11ec-8f90-0242ac130002",
+    "farm_id": "3b3b07b6-2621-11ec-b499-0242ac130003",
+    "crop_variety_name": "Good hair day"
+  },
+  {
+    "crop_id": 1126,
+    "crop_variety_id": "8277560a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bf1354e0-17a4-11ea-a8d4-22000b628b95",
+    "crop_variety_name": "Bon vivant, ashbrook, lollo dark"
+  },
+  {
+    "crop_id": 32,
+    "crop_variety_id": "127e0f58-df3b-11eb-a105-0242ac120002",
+    "farm_id": "39bf12e0-de89-11eb-bcd8-0242ac120002",
+    "crop_variety_name": "Almond test"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "8276a408-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4fe32276-9868-11eb-984d-121a0e444ae7",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 142,
+    "crop_variety_id": "82776f28-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "46ca9068-3fb5-11eb-811c-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 90,
+    "crop_variety_id": "8277c838-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "09bec2bc-3b1d-11eb-a4ba-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "82766ed4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d8e2b39a-2098-11eb-b04b-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 21,
+    "crop_variety_id": "5a7180bc-8de9-11ec-8334-0242ac120002",
+    "farm_id": "d1e3821c-8dd0-11ec-9d72-0242ac120002",
+    "crop_variety_name": "Doce"
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "82778a58-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 37,
+    "crop_variety_id": "78215636-31d8-11ec-b6a0-0242ac130002",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "crop_variety_name": "Mentil"
+  },
+  {
+    "crop_id": 1121,
+    "crop_variety_id": "82771b22-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "4e34954e-42f2-11ea-b20a-22000b8600fb",
+    "crop_variety_name": "Winter pea"
+  },
+  {
+    "crop_id": 1225,
+    "crop_variety_id": "82775f92-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Salt Spring Seeds"
+  },
+  {
+    "crop_id": 1759,
+    "crop_variety_id": "6f3d6fac-47d9-11ec-bc85-0242ac130002",
+    "farm_id": "46959140-faba-11eb-be62-0242ac120002",
+    "crop_variety_name": "Apple, non cover crop"
+  },
+  {
+    "crop_id": 1139,
+    "crop_variety_id": "82773f08-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "2548d3ac-5b2a-11ea-b343-22000a946868",
+    "crop_variety_name": "Maxibel"
+  },
+  {
+    "crop_id": 1510,
+    "crop_variety_id": "eccbbbbc-2fde-11ec-a4f2-0242ac130002",
+    "farm_id": "df5a222a-2fde-11ec-b2a3-0242ac130002",
+    "crop_variety_name": "2"
+  },
+  {
+    "crop_id": 134,
+    "crop_variety_id": "464a2598-32b4-11ec-b139-0242ac130002",
+    "farm_id": "2d930078-31a7-11ec-b8f3-0242ac130002",
+    "crop_variety_name": "Hsb"
+  },
+  {
+    "crop_id": 1607,
+    "crop_variety_id": "1898838c-31d9-11ec-a874-0242ac130002",
+    "farm_id": "0ad0ce20-3112-11ec-b36e-0242ac130002",
+    "crop_variety_name": "Tre"
+  },
+  {
+    "crop_id": 1215,
+    "crop_variety_id": "82768716-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "crop_variety_name": "some var"
+  },
+  {
+    "crop_id": 1228,
+    "crop_variety_id": "8276e4ea-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Baton Hulless"
+  },
+  {
+    "crop_id": 1552,
+    "crop_variety_id": "72d75642-335b-11ec-ab3b-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "Vermelha"
+  },
+  {
+    "crop_id": 1413,
+    "crop_variety_id": "82763f90-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": "Italiano "
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "82763f2c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d4b9a7b0-27a5-11eb-8123-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1170,
+    "crop_variety_id": "82766952-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "63819c1e-6168-11ea-8e16-22000a946868",
+    "crop_variety_name": "Speckled"
+  },
+  {
+    "crop_id": 1508,
+    "crop_variety_id": "5102a590-2de2-11ec-beed-0242ac130002",
+    "farm_id": "f0036cac-2de1-11ec-85ad-0242ac130002",
+    "crop_variety_name": "Acai berry"
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "82763c52-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "620d4938-1f8f-11eb-88dc-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "77ed5bd4-334e-11ec-9da3-0242ac130002",
+    "farm_id": "094a2776-3109-11ec-ad47-0242ac130002",
+    "crop_variety_name": "roxo"
+  },
+  {
+    "crop_id": 123,
+    "crop_variety_id": "82778468-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "9dce7026-7d92-11eb-a1e8-22000a6ddaf5",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1164,
+    "crop_variety_id": "8276e22e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "46ca98b2-5b39-11ea-b6c8-22000a946868",
+    "crop_variety_name": "Alfalfa"
+  },
+  {
+    "crop_id": 1342,
+    "crop_variety_id": "827706e6-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "c6dbbc80-4e8b-11ea-b0b8-22000a946868",
+    "crop_variety_name": "Açaí Juçara"
+  },
+  {
+    "crop_id": 26,
+    "crop_variety_id": "82779912-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "cf0e049a-3e4e-11eb-a791-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "3ffea2da-78ce-11ec-846b-0242ac130004",
+    "farm_id": "28d5f302-78b4-11ec-91be-0242ac130004",
+    "crop_variety_name": "Frijol de palo"
+  },
+  {
+    "crop_id": 1266,
+    "crop_variety_id": "8276efa8-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": "dry premium forage2"
+  },
+  {
+    "crop_id": 71,
+    "crop_variety_id": "c520dc8e-8dce-11ec-894f-0242ac120002",
+    "farm_id": "57a4de7a-8dc0-11ec-bb09-0242ac120002",
+    "crop_variety_name": "Rough"
+  },
+  {
+    "crop_id": 1209,
+    "crop_variety_id": "8276390a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "summer"
+  },
+  {
+    "crop_id": 1145,
+    "crop_variety_id": "82761e0c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "435589ba-60a4-11ea-8a5d-22000a946868",
+    "crop_variety_name": "Big"
+  },
+  {
+    "crop_id": 1381,
+    "crop_variety_id": "8276f0d4-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "06001e24-7c21-11eb-b915-22000a6ddaf5",
+    "crop_variety_name": "New girl"
+  },
+  {
+    "crop_id": 60,
+    "crop_variety_id": "82769e90-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "17d85650-6373-11eb-8c1a-22000ab2b8c4",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 56,
+    "crop_variety_id": "82766c90-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "82774c78-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "74ca8710-8e67-11eb-b071-0a7facd3678d",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1165,
+    "crop_variety_id": "8276ed0a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "19372492-5b39-11ea-b6c8-22000a946868",
+    "crop_variety_name": "Schonburger 1-4"
+  },
+  {
+    "crop_id": 6,
+    "crop_variety_id": "58c2b026-3900-11ec-8e99-0242ac130002",
+    "farm_id": "6d921860-31b8-11ec-adce-0242ac130002",
+    "crop_variety_name": "Milky"
+  },
+  {
+    "crop_id": 1487,
+    "crop_variety_id": "8276f52a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "13480dde-a9f4-11eb-ad5b-0242ac130002",
+    "crop_variety_name": "Blanco"
+  },
+  {
+    "crop_id": 5,
+    "crop_variety_id": "82765b06-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d0f04e5c-3e4f-11eb-980b-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "f7b19450-47dc-11ec-bbe3-0242ac130002",
+    "farm_id": "dcd91532-27a1-11ec-9fa9-0242ac130003",
+    "crop_variety_name": "Lisa"
+  },
+  {
+    "crop_id": 1235,
+    "crop_variety_id": "82777b58-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "28b2225a-a549-11ea-b925-22000ba8027d",
+    "crop_variety_name": "berry"
+  },
+  {
+    "crop_id": 1247,
+    "crop_variety_id": "82768400-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d1de2e42-16a5-11ea-855c-22000b628b95",
+    "crop_variety_name": "some variation"
+  },
+  {
+    "crop_id": 103,
+    "crop_variety_id": "82763590-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "83f4e6f0-3e39-11eb-9bca-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "4d9a17ba-35b9-11ec-b43c-0242ac130002",
+    "farm_id": "1fa9ded2-25f4-11ec-8078-0242ac130003",
+    "crop_variety_name": "Apple, non cover crop"
+  },
+  {
+    "crop_id": 28,
+    "crop_variety_id": "8fe9e754-335b-11ec-ab3b-0242ac130002",
+    "farm_id": "06f0c1c8-329f-11ec-a4ff-0242ac130002",
+    "crop_variety_name": "Preto"
+  },
+  {
+    "crop_id": 117,
+    "crop_variety_id": "8276724e-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "829b1e3a-285b-11eb-8aca-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 25,
+    "crop_variety_id": "5e0a8816-31d9-11ec-a8fa-0242ac130002",
+    "farm_id": "1c0480ec-3054-11ec-be02-0242ac130002",
+    "crop_variety_name": "Granny Smith"
+  },
+  {
+    "crop_id": 48,
+    "crop_variety_id": "82775420-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "12108814-9659-11eb-b092-121a0e444ae7",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1315,
+    "crop_variety_id": "82771e4c-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "e5a472e0-3492-11eb-b4fe-22000b479377",
+    "crop_variety_name": "Folha Larga"
+  },
+  {
+    "crop_id": 81,
+    "crop_variety_id": "8276da22-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "85a1cf56-43be-11eb-8491-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 129,
+    "crop_variety_id": "82761bdc-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "bdfe6aaa-2b66-11eb-909a-22000b479377",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 103,
+    "crop_variety_id": "8276b0b0-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "cf0e049a-3e4e-11eb-a791-22000ab8b02b",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 69,
+    "crop_variety_id": "82771726-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "daa5e676-126e-11eb-bd75-22000bb9251f",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 1180,
+    "crop_variety_id": "8276c9ec-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "d2ff4000-6744-11ea-8f3b-22000a90b459",
+    "crop_variety_name": "Unknown"
+  },
+  {
+    "crop_id": 144,
+    "crop_variety_id": "a137253a-1a51-11ec-b6cb-0242ac130003",
+    "farm_id": "ba231718-09f6-11ec-9fa3-0242ac130003",
+    "crop_variety_name": "Green manure champ"
+  },
+  {
+    "crop_id": 101,
+    "crop_variety_id": "82775f1a-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "df4d988c-a930-11eb-b942-0242ac130002",
+    "crop_variety_name": ""
+  },
+  {
+    "crop_id": 53,
+    "crop_variety_id": "82772482-c480-11eb-bb7c-0242ac120002",
+    "farm_id": "b4c9ceb6-2e6e-11ea-9a69-22000b628b95",
+    "crop_variety_name": ""
+  }
+]

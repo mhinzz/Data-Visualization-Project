@@ -1,0 +1,4197 @@
+[
+  {
+    "crop_id": 1733,
+    "crop_common_name": "Pepino",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 29,
+    "crop_common_name": "Dates",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 30,
+    "crop_common_name": "Pistachio nut",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 31,
+    "crop_common_name": "Apricot",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1385,
+    "crop_common_name": "Apricot - d",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1229,
+    "crop_common_name": "Apricot - Georgia Golden",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 32,
+    "crop_common_name": "Almond",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1210,
+    "crop_common_name": "Almond - Hello",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1215,
+    "crop_common_name": "Almond - some var",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1221,
+    "crop_common_name": "Almond - ROJA",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1247,
+    "crop_common_name": "Almond - some variation",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1248,
+    "crop_common_name": "Almond - Tiny black",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1258,
+    "crop_common_name": "Almond - yes",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1259,
+    "crop_common_name": "Almond - Alpha",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1396,
+    "crop_common_name": "Almond - gfjhg",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 33,
+    "crop_common_name": "Peach",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 34,
+    "crop_common_name": "Pear",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1761,
+    "crop_common_name": "Lulo",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1288,
+    "crop_common_name": "Pear - Combined Chojuro, Shinseiki, Bartlett",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 35,
+    "crop_common_name": "Grapes",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1765,
+    "crop_common_name": "Fruta deliciosa",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1734,
+    "crop_common_name": "willy wonka ",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1122,
+    "crop_common_name": "Grapes  - Sauvignon Gris",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1134,
+    "crop_common_name": "Grapes  - Cabernet Sauvignon",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1165,
+    "crop_common_name": "Grapes  - Schonburger 1-4",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1268,
+    "crop_common_name": "Grapes  - Merlot1",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1269,
+    "crop_common_name": "Grapes  - Merlot2",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1270,
+    "crop_common_name": "Grapes  - Merlot3",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1271,
+    "crop_common_name": "Grapes  - Merlot4",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1326,
+    "crop_common_name": "Grapes - Pinot Noir",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1327,
+    "crop_common_name": "Grapes  - Pinot Noir",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1328,
+    "crop_common_name": "Grapes  - Gewürztraminer",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1329,
+    "crop_common_name": "Grapes  - Pinot Gris",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 36,
+    "crop_common_name": "Chickpea (gram pea)",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1211,
+    "crop_common_name": "Chickpea (gram pea) - Desi",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 37,
+    "crop_common_name": "Lentil",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 38,
+    "crop_common_name": "Groundnut (peanut)",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 39,
+    "crop_common_name": "Safflower",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 40,
+    "crop_common_name": "Soybean",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1207,
+    "crop_common_name": "Soybean - Gaia",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1205,
+    "crop_common_name": "Soybean - Cha Kura Kake ",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1735,
+    "crop_common_name": "tonka truck ",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 41,
+    "crop_common_name": "Sunflower (girasol)",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 42,
+    "crop_common_name": "Olive",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 43,
+    "crop_common_name": "Sesame",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 44,
+    "crop_common_name": "Sisal",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 45,
+    "crop_common_name": "Cotton (all varieties)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1336,
+    "crop_common_name": "Cotton (all varieties) - my cotton",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 46,
+    "crop_common_name": "Rubber",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 47,
+    "crop_common_name": "Flax for fibre",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 48,
+    "crop_common_name": "Sweet potato",
+    "crop_group": "High starch root/tuber crops"
+  },
+  {
+    "crop_id": 49,
+    "crop_common_name": "Cassava",
+    "crop_group": "Potatoes and yams"
+  },
+  {
+    "crop_id": 50,
+    "crop_common_name": "Potato",
+    "crop_group": "High starch root/tuber crops"
+  },
+  {
+    "crop_id": 1299,
+    "crop_common_name": "Sweet potato - Rojo",
+    "crop_group": "Potatoes and yams"
+  },
+  {
+    "crop_id": 1506,
+    "crop_common_name": "555 Potato",
+    "crop_group": "Potatoes and yams"
+  },
+  {
+    "crop_id": 1106,
+    "crop_common_name": "Potato - Russet",
+    "crop_group": "Potatoes and yams"
+  },
+  {
+    "crop_id": 1135,
+    "crop_common_name": "Potato - monnalisa",
+    "crop_group": "Potatoes and yams"
+  },
+  {
+    "crop_id": 1151,
+    "crop_common_name": "Potato - German Butter, Kennebec and Warba",
+    "crop_group": "Potatoes and yams"
+  },
+  {
+    "crop_id": 1173,
+    "crop_common_name": "Potato - Warba",
+    "crop_group": "Potatoes and yams"
+  },
+  {
+    "crop_id": 1300,
+    "crop_common_name": "Potato - Camote Rojo",
+    "crop_group": "Potatoes and yams"
+  },
+  {
+    "crop_id": 1762,
+    "crop_common_name": "Back button test crop",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 1736,
+    "crop_common_name": "Crazy crop",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 51,
+    "crop_common_name": "Sugarcane for sugar or alcohol",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 52,
+    "crop_common_name": "Onion, yellow/white",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 53,
+    "crop_common_name": "Garlic, dry",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 54,
+    "crop_common_name": "Celery",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1096,
+    "crop_common_name": "Celery - yes",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 55,
+    "crop_common_name": "Celeriac",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 56,
+    "crop_common_name": "Asparagus",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1104,
+    "crop_common_name": "Asparagus - unknown",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1109,
+    "crop_common_name": "Asparagus - Early bloom",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1154,
+    "crop_common_name": "Asparagus - Knight",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1202,
+    "crop_common_name": "Asparagus - Green headed beasts",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1334,
+    "crop_common_name": "Asparagus - My own",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1335,
+    "crop_common_name": "Asparagus - my own kind",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 57,
+    "crop_common_name": "Cabbage, Chinese",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 58,
+    "crop_common_name": "Broccoli",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1397,
+    "crop_common_name": "Broccoli - Spring Raab Broccoli Raab",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1107,
+    "crop_common_name": "Broccoli - Imperial",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1143,
+    "crop_common_name": "Broccoli - Everest ",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1737,
+    "crop_common_name": "Hibiscus",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1186,
+    "crop_common_name": "Broccoli - Don't know",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1197,
+    "crop_common_name": "Broccoli - DK",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1226,
+    "crop_common_name": "Broccoli - Midwater Gai-Lan",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1237,
+    "crop_common_name": "Broccoli - big green",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 59,
+    "crop_common_name": "Cauliflower",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 60,
+    "crop_common_name": "Cabbage (red, white, Savoy)",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 61,
+    "crop_common_name": "Brussels sprouts",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 62,
+    "crop_common_name": "Watermelon",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1099,
+    "crop_common_name": "Watermelon - common",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 63,
+    "crop_common_name": "Cantaloupe",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 64,
+    "crop_common_name": "Cucumber",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 180,
+    "crop_common_name": "cucumber",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 65,
+    "crop_common_name": "Squash",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1142,
+    "crop_common_name": "Squash - green kabocha",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1174,
+    "crop_common_name": "Squash - winter squash",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1763,
+    "crop_common_name": "Lupino",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1239,
+    "crop_common_name": "Squash - Buttercup",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1240,
+    "crop_common_name": "Squash - Butternut",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1766,
+    "crop_common_name": "Fruta deliciosa",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1738,
+    "crop_common_name": "Achurra",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 1764,
+    "crop_common_name": "New crop",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 1767,
+    "crop_common_name": "Luceana",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1292,
+    "crop_common_name": "Squash - for Semillas",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1311,
+    "crop_common_name": "Squash - Zuchini",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1312,
+    "crop_common_name": "Squash - zapallito",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1313,
+    "crop_common_name": "Squash - Zapallito",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 66,
+    "crop_common_name": "Artichoke",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1214,
+    "crop_common_name": "Artichoke - test1",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 67,
+    "crop_common_name": "Carrot, edible",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 68,
+    "crop_common_name": "Jerusalem artichoke",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 69,
+    "crop_common_name": "Lettuce",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1398,
+    "crop_common_name": "Lettuce - Nancy",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1399,
+    "crop_common_name": "Lettuce - Crispino",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1402,
+    "crop_common_name": "Lettuce - Tamarindo",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1403,
+    "crop_common_name": "Lettuce - Yugoslavian",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1388,
+    "crop_common_name": "Lettuce - Maximus",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1400,
+    "crop_common_name": "Lettuce - Parris Island",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1739,
+    "crop_common_name": "Guaca",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1741,
+    "crop_common_name": "Peacucumney",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 1401,
+    "crop_common_name": "Lettuce - Magenta",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1404,
+    "crop_common_name": "Lettuce - Tropicana",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1405,
+    "crop_common_name": "Lettuce - Brentwood",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1393,
+    "crop_common_name": "Lettuce Mix - Lettuce Mix Elegance",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1095,
+    "crop_common_name": "Lettuce - red leaf",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1108,
+    "crop_common_name": "Lettuce - Seirra",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1126,
+    "crop_common_name": "Lettuce - Bon vivant, ashbrook, lollo dark",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1127,
+    "crop_common_name": "Lettuce - Lollo Dark, Ashbrook, Black Seeded Simpson",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1138,
+    "crop_common_name": "Lettuce - salanova",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1155,
+    "crop_common_name": "Lettuce - Alkindus",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1170,
+    "crop_common_name": "Lettuce - Speckled",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1171,
+    "crop_common_name": "Lettuce - Dr woman",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1182,
+    "crop_common_name": "Lettuce - Romaine round 1",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1245,
+    "crop_common_name": "Lettuce - Majestic Green Romaine",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1272,
+    "crop_common_name": "Lettuce - Bon vivant, ashbrook, lollo",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1298,
+    "crop_common_name": "Lettuce - Salanova",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1740,
+    "crop_common_name": "Peacumite",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1720,
+    "crop_common_name": "Triticale",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1323,
+    "crop_common_name": "Lettuce - Mini Green Cos",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 70,
+    "crop_common_name": "Tomato",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1217,
+    "crop_common_name": "Tomato - Yellow Pear",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1100,
+    "crop_common_name": "Tomato - red",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1140,
+    "crop_common_name": "Tomato - red2",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1168,
+    "crop_common_name": "Tomato - Green",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1169,
+    "crop_common_name": "Tomato - Some variety",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1175,
+    "crop_common_name": "Tomato - Roma",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1322,
+    "crop_common_name": "Tomato - asdasd",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1375,
+    "crop_common_name": "Tomato - New Girl",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 71,
+    "crop_common_name": "Parsnip",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 72,
+    "crop_common_name": "Radish",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1097,
+    "crop_common_name": "Radish - Easter Egg",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 73,
+    "crop_common_name": "Spinach",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1407,
+    "crop_common_name": "Spinach - Joi Choi",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1406,
+    "crop_common_name": "Spinach - tbd",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1218,
+    "crop_common_name": "Spinach - renegade",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1768,
+    "crop_common_name": "Mucuna",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1742,
+    "crop_common_name": "Coca Plant",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 1769,
+    "crop_common_name": "Crazy crop",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 74,
+    "crop_common_name": "Chili, dry (all varieties)",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 75,
+    "crop_common_name": "Caraway seeds",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 76,
+    "crop_common_name": "Cinnamon",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 77,
+    "crop_common_name": "Cardamom",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 78,
+    "crop_common_name": "Drumstick tree",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 79,
+    "crop_common_name": "Mace",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 80,
+    "crop_common_name": "Nutmeg",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 81,
+    "crop_common_name": "Anise seeds",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 1771,
+    "crop_common_name": "Nova fruta",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 82,
+    "crop_common_name": "Pepper, black",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 83,
+    "crop_common_name": "Vanilla",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 84,
+    "crop_common_name": "Ginger",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 85,
+    "crop_common_name": "Quinoa",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 87,
+    "crop_common_name": "Buckwheat",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 88,
+    "crop_common_name": "Durum wheat",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1273,
+    "crop_common_name": "Durum wheat - simeto5",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1274,
+    "crop_common_name": "Durum wheat - simeto2",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1275,
+    "crop_common_name": "Durum wheat - Simeto1",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1743,
+    "crop_common_name": "Carrot",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1164,
+    "crop_common_name": "Alfalfa for fodder - Alfalfa",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1276,
+    "crop_common_name": "Durum wheat - simeto3",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1277,
+    "crop_common_name": "Durum wheat - simeto4",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 89,
+    "crop_common_name": "Maize for cereals",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 90,
+    "crop_common_name": "Maize (corn)",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 91,
+    "crop_common_name": "Sapodilla",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 92,
+    "crop_common_name": "Cashew nuts",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 93,
+    "crop_common_name": "Custard apple",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 94,
+    "crop_common_name": "Breadfruit",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 95,
+    "crop_common_name": "Brazil nut",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 96,
+    "crop_common_name": "Papaya (pawpaw)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 97,
+    "crop_common_name": "Pecan nut",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 98,
+    "crop_common_name": "Chestnut",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 99,
+    "crop_common_name": "Orange (bitter)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 100,
+    "crop_common_name": "Pomelo",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 101,
+    "crop_common_name": "Lemon",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 102,
+    "crop_common_name": "Clementine",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 103,
+    "crop_common_name": "Orange",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1249,
+    "crop_common_name": "Anise seeds - Orange",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 1301,
+    "crop_common_name": "Orange - Valencia",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1316,
+    "crop_common_name": "Orange - Haffa",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1744,
+    "crop_common_name": "Lulo",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1091,
+    "crop_common_name": "Carrot - Orange",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1279,
+    "crop_common_name": "Carrot - orange1",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 104,
+    "crop_common_name": "Lime, sour",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 105,
+    "crop_common_name": "Hazelnut (filbert)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 106,
+    "crop_common_name": "Quince",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 107,
+    "crop_common_name": "Persimmon (kaki)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 109,
+    "crop_common_name": "Fig",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 110,
+    "crop_common_name": "Lychee",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1118,
+    "crop_common_name": "Lychee - Lychee",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 170,
+    "crop_common_name": "Lychee",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 111,
+    "crop_common_name": "Macadamia (Queensland nut)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 112,
+    "crop_common_name": "Mango",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1303,
+    "crop_common_name": "Mango - Panades",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1317,
+    "crop_common_name": "Mango  - panades ",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 113,
+    "crop_common_name": "Mulberry for fruit (all varieties)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 114,
+    "crop_common_name": "Plum",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 115,
+    "crop_common_name": "Nectarine",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 116,
+    "crop_common_name": "Cherry (all varieties)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1770,
+    "crop_common_name": "Sad crop",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1745,
+    "crop_common_name": "Melão sao caetani",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 117,
+    "crop_common_name": "Guava",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 118,
+    "crop_common_name": "Pomegranate",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 119,
+    "crop_common_name": "Currants (all varieties)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1180,
+    "crop_common_name": "Currants (all varieties) - Unknown",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 120,
+    "crop_common_name": "Gooseberry (all varieties)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 121,
+    "crop_common_name": "Blackberries",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1110,
+    "crop_common_name": "Blackberries  - Dunit",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 122,
+    "crop_common_name": "Raspberry (all varieties)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1124,
+    "crop_common_name": "Raspberry (all varieties) - Everbearing",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1158,
+    "crop_common_name": "Raspberry (all varieties) - Chemanius",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1161,
+    "crop_common_name": "Raspberry (all varieties) - Tulameen",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1198,
+    "crop_common_name": "Raspberry (all varieties) - Tulameen1",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 123,
+    "crop_common_name": "Blueberry",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1102,
+    "crop_common_name": "Blueberry - Highbush",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1115,
+    "crop_common_name": "Blueberry - HB",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1201,
+    "crop_common_name": "Blueberry - duke",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1236,
+    "crop_common_name": "Blueberry - berry",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1408,
+    "crop_common_name": "Blueberry - Various",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 124,
+    "crop_common_name": "Cranberry",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1746,
+    "crop_common_name": "Amendoim-forrageiro",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 125,
+    "crop_common_name": "Pigeon pea (guandu)",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 126,
+    "crop_common_name": "Pea, edible dry, for grain",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 127,
+    "crop_common_name": "Fenugreek",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 128,
+    "crop_common_name": "Broad bean, dry",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 129,
+    "crop_common_name": "Beans, dry, edible, for grains",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 131,
+    "crop_common_name": "Rapeseed (colza)",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 133,
+    "crop_common_name": "Coconut",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 136,
+    "crop_common_name": "Poppy seed",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 137,
+    "crop_common_name": "Mustard",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1257,
+    "crop_common_name": "Mustard - twetwetw",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 138,
+    "crop_common_name": "Hemp fibre",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 139,
+    "crop_common_name": "Jute",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 140,
+    "crop_common_name": "Lemon grass",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 141,
+    "crop_common_name": "Ryegrass",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1199,
+    "crop_common_name": "Ryegrass  - Don't know",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 142,
+    "crop_common_name": "Alfalfa for fodder",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1772,
+    "crop_common_name": "Test",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1392,
+    "crop_common_name": "Alfalfa for fodder - Eruca sativa",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1321,
+    "crop_common_name": "Mandarina - Ponkan",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1747,
+    "crop_common_name": "Feijão-bravo",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1773,
+    "crop_common_name": "Test2 ",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 143,
+    "crop_common_name": "Tobacco",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 144,
+    "crop_common_name": "Clover for fodder (all varieties)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 145,
+    "crop_common_name": "Dasheen",
+    "crop_group": "Potatoes and yams"
+  },
+  {
+    "crop_id": 146,
+    "crop_common_name": "Yam",
+    "crop_group": "High starch root/tuber crops"
+  },
+  {
+    "crop_id": 147,
+    "crop_common_name": "Arrowroot",
+    "crop_group": "High starch root/tuber crops"
+  },
+  {
+    "crop_id": 1094,
+    "crop_common_name": "Arrowroot - great",
+    "crop_group": "Potatoes and yams"
+  },
+  {
+    "crop_id": 1337,
+    "crop_common_name": "Arrowroot - My",
+    "crop_group": "Potatoes and yams"
+  },
+  {
+    "crop_id": 148,
+    "crop_common_name": "Beet, fodder (mangel)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 149,
+    "crop_common_name": "Okra",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1090,
+    "crop_common_name": "Okra - Spicy",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 150,
+    "crop_common_name": "Mushrooms",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 151,
+    "crop_common_name": "Leek",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1112,
+    "crop_common_name": "Leek - Leek_",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1120,
+    "crop_common_name": "Leek - Leek",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1267,
+    "crop_common_name": "Leek - Leek__",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 152,
+    "crop_common_name": "Rutabaga (swede)",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 153,
+    "crop_common_name": "Kale",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1748,
+    "crop_common_name": "Biribiri",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1098,
+    "crop_common_name": "Kale - Tongo Di Nero Organic",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1128,
+    "crop_common_name": "Kale - Starbor Hybrid",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1224,
+    "crop_common_name": "Kale - Improved Siberian",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1774,
+    "crop_common_name": "Mystery Fruit",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 154,
+    "crop_common_name": "Kohlrabi",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 155,
+    "crop_common_name": "Turnip, for fodder",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 157,
+    "crop_common_name": "Chicory",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 158,
+    "crop_common_name": "Melon (except watermelon)",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 159,
+    "crop_common_name": "Gourd",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 160,
+    "crop_common_name": "Pumpkin, edible",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 161,
+    "crop_common_name": "Cardoon",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 162,
+    "crop_common_name": "Fennel",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 163,
+    "crop_common_name": "Gourd (African)",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 164,
+    "crop_common_name": "Cress",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1093,
+    "crop_common_name": "Cress - Common",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 165,
+    "crop_common_name": "Rhubarb",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1160,
+    "crop_common_name": "Rhubarb - Glen Valley Red",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 166,
+    "crop_common_name": "Eggplant",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 167,
+    "crop_common_name": "Salsify",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1749,
+    "crop_common_name": "pasa",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1507,
+    "crop_common_name": "Abiu",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1508,
+    "crop_common_name": "Acai palm",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1509,
+    "crop_common_name": "Achacha",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1510,
+    "crop_common_name": "Alfalfa for seed",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1511,
+    "crop_common_name": "Alfalfa sprouts",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1512,
+    "crop_common_name": "Allspice",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 1513,
+    "crop_common_name": "Aloe vera",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1475,
+    "crop_common_name": "Sábila - Aloe vera",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1514,
+    "crop_common_name": "Amaranth",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1516,
+    "crop_common_name": "Apple banana",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1517,
+    "crop_common_name": "Apple malay (Malay apple)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1518,
+    "crop_common_name": "Araza fruit",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1519,
+    "crop_common_name": "Areca (betel nut)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1520,
+    "crop_common_name": "Arracacha",
+    "crop_group": "High starch root/tuber crops"
+  },
+  {
+    "crop_id": 1521,
+    "crop_common_name": "Arugula",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1390,
+    "crop_common_name": "Alfalfa for fodder - Arugula",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1391,
+    "crop_common_name": "Alfalfa for fodder - Arugula",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1111,
+    "crop_common_name": "Arugula - SkyRocket Surrey",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 173,
+    "crop_common_name": "Arugula",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1522,
+    "crop_common_name": "Bambara groundnut",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1523,
+    "crop_common_name": "Bamboo, common",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1524,
+    "crop_common_name": "Banana passionfruit",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1525,
+    "crop_common_name": "Basil",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1750,
+    "crop_common_name": "new crop",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 1526,
+    "crop_common_name": "Beans, harvested green",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1527,
+    "crop_common_name": "Beet, sugar",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 1528,
+    "crop_common_name": "Beet, sugar for fodder",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1529,
+    "crop_common_name": "Beet, sugar for seeds",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 1530,
+    "crop_common_name": "Beet, table/red",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1531,
+    "crop_common_name": "Bell pepper",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1314,
+    "crop_common_name": "Bell Pepper - green pepper",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1395,
+    "crop_common_name": "Bell Pepper - Anaheim",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1532,
+    "crop_common_name": "Bergamot orange",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1533,
+    "crop_common_name": "Big Leaf Mahogany (Mogno brasileiro)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1534,
+    "crop_common_name": "Bilimbi",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1535,
+    "crop_common_name": "Black oats",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1536,
+    "crop_common_name": "Black wattle",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1538,
+    "crop_common_name": "Brazilwood tree",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1539,
+    "crop_common_name": "Broad bean, harvested green",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1540,
+    "crop_common_name": "Brown salwood (Acácia mangium)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1542,
+    "crop_common_name": "Butterfly pea",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1543,
+    "crop_common_name": "Cabbage, for fodder",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1544,
+    "crop_common_name": "Calendula",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1545,
+    "crop_common_name": "Cape gooseberry",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1546,
+    "crop_common_name": "Carob",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1547,
+    "crop_common_name": "Carrot, for fodder",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1548,
+    "crop_common_name": "Castor bean",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1550,
+    "crop_common_name": "Chard",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1129,
+    "crop_common_name": "Swiss Chard - Bright LIghts",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1751,
+    "crop_common_name": "A",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 172,
+    "crop_common_name": "Swiss Chard",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1297,
+    "crop_common_name": "Chard - Special Chard",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 1551,
+    "crop_common_name": "Chayote",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1554,
+    "crop_common_name": "Chia",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1456,
+    "crop_common_name": "Lichia  - Lichia",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1376,
+    "crop_common_name": "Ranunculas - Elegance Rosa Chiaro",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1556,
+    "crop_common_name": "Chicory for greens",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1557,
+    "crop_common_name": "Chili, fresh (all varieties)",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 1558,
+    "crop_common_name": "Chive",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 175,
+    "crop_common_name": "Chives",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 1131,
+    "crop_common_name": "Chives - C",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 1560,
+    "crop_common_name": "Cilantro",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1246,
+    "crop_common_name": "Spinach - Giant Winter Spinach with Calipso Cilantro",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1394,
+    "crop_common_name": "Cilantro - Cilantro",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 182,
+    "crop_common_name": "Cilantro ",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 1184,
+    "crop_common_name": "Cilantro  - Don't know",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 1561,
+    "crop_common_name": "Citron",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1562,
+    "crop_common_name": "Citronella",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1563,
+    "crop_common_name": "Clove",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 1187,
+    "crop_common_name": "Clover - Red",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1564,
+    "crop_common_name": "Clover for seed (all varieties)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1775,
+    "crop_common_name": "test crop",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1752,
+    "crop_common_name": "Burdock",
+    "crop_group": "High starch root/tuber crops"
+  },
+  {
+    "crop_id": 1566,
+    "crop_common_name": "Cocoyam (New cocoyam) (Xanthosoma spp.)",
+    "crop_group": "High starch root/tuber crops"
+  },
+  {
+    "crop_id": 1567,
+    "crop_common_name": "Cola nut",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1568,
+    "crop_common_name": "Collards",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1570,
+    "crop_common_name": "Coriander long (Long coriander)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1572,
+    "crop_common_name": "Corn sweet for vegetable",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1573,
+    "crop_common_name": "Cottonseed (all varieties)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1574,
+    "crop_common_name": "Cowpea, harvested green",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1576,
+    "crop_common_name": "Daikon radish (nabo forrajero, forage)",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1577,
+    "crop_common_name": "Dragonfruit",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1578,
+    "crop_common_name": "Eddo (eddoe)",
+    "crop_group": "High starch root/tuber crops"
+  },
+  {
+    "crop_id": 1579,
+    "crop_common_name": "Epazote",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1582,
+    "crop_common_name": "Fique",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1583,
+    "crop_common_name": "Flax for oil seed (linseed)",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1584,
+    "crop_common_name": "Formio (New Zealand flax)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1585,
+    "crop_common_name": "Garlic, green",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1586,
+    "crop_common_name": "Genipap tree",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1588,
+    "crop_common_name": "Gingko biloba",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1590,
+    "crop_common_name": "Grapes for raisins",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1591,
+    "crop_common_name": "Grapes for table use",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1592,
+    "crop_common_name": "Grapes for wine",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1593,
+    "crop_common_name": "Grass, esparto",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1594,
+    "crop_common_name": "Grass, orchard",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1595,
+    "crop_common_name": "Grass, Sudan",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1596,
+    "crop_common_name": "Groundcherry",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1597,
+    "crop_common_name": "Guaco",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1776,
+    "crop_common_name": "111",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1753,
+    "crop_common_name": "Yarrow",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1447,
+    "crop_common_name": "Guaco  - Guaco",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1600,
+    "crop_common_name": "Hemp, manila (abaca)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1601,
+    "crop_common_name": "Hemp, sunn (crotalaria)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1602,
+    "crop_common_name": "Hempseed",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1604,
+    "crop_common_name": "Henna",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1605,
+    "crop_common_name": "Horseradish",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1608,
+    "crop_common_name": "Inca peanut",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1609,
+    "crop_common_name": "Indigo",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1610,
+    "crop_common_name": "Jack bean",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1611,
+    "crop_common_name": "Jackfruit",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1612,
+    "crop_common_name": "Jasmine",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1614,
+    "crop_common_name": "Jícama",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1777,
+    "crop_common_name": "Tamarind",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1616,
+    "crop_common_name": "Kapok",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1617,
+    "crop_common_name": "Kenaf",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1619,
+    "crop_common_name": "Laurel",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1244,
+    "crop_common_name": "Kale - Laurels Frilly",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1620,
+    "crop_common_name": "Lavender",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1185,
+    "crop_common_name": "Lavender - Don't know",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 169,
+    "crop_common_name": "Lavender",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1621,
+    "crop_common_name": "Lemon balm",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1622,
+    "crop_common_name": "Lemon Scented Gum (Eucalipto cheiroso)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1623,
+    "crop_common_name": "Lespedeza (all varieties)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1624,
+    "crop_common_name": "Lime, sweet",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1626,
+    "crop_common_name": "Liquorice",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1754,
+    "crop_common_name": "Siberian Ginseng",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1628,
+    "crop_common_name": "Lupin (lupino)",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1629,
+    "crop_common_name": "Lupine (all varieties)",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1631,
+    "crop_common_name": "Maguey",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1633,
+    "crop_common_name": "Maize hybrid",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1634,
+    "crop_common_name": "Maize ordinary",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1635,
+    "crop_common_name": "Mandarin",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1308,
+    "crop_common_name": "Mandarina - Criolla",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1636,
+    "crop_common_name": "Mangosteen",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1637,
+    "crop_common_name": "Mangosteen false (False mangosteen)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1640,
+    "crop_common_name": "Marjoram",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1641,
+    "crop_common_name": "Maslin (mixed cereals)",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1642,
+    "crop_common_name": "Medlar",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1644,
+    "crop_common_name": "Millet (bulrush)",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1645,
+    "crop_common_name": "Miracle fruit",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1649,
+    "crop_common_name": "Momoqui (Sibipiruna)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1654,
+    "crop_common_name": "Niger seed",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1656,
+    "crop_common_name": "Onion, green",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1657,
+    "crop_common_name": "Onion, red",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1658,
+    "crop_common_name": "Onion, welsh (Welsh onion)",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1659,
+    "crop_common_name": "Opium",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1661,
+    "crop_common_name": "Oregano",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 1474,
+    "crop_common_name": "Oregano - Común",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1484,
+    "crop_common_name": "Oregano - Comúm",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1662,
+    "crop_common_name": "Palm bahia piassaba (Bahia piassaba palm)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1663,
+    "crop_common_name": "Palm jussara (Jussara palm)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1755,
+    "crop_common_name": "Beterraba amarela",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 14,
+    "crop_common_name": "Rye",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1664,
+    "crop_common_name": "Palm palmyra",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1665,
+    "crop_common_name": "Palm peach (Peach palm)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1666,
+    "crop_common_name": "Palm, sago (Metroxylon sagu)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1667,
+    "crop_common_name": "Parsley",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1379,
+    "crop_common_name": "Parsley - N/A",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1389,
+    "crop_common_name": "Parsley - Italian",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1125,
+    "crop_common_name": "Parsley  - Curley",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 174,
+    "crop_common_name": "Parsley ",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 1668,
+    "crop_common_name": "Passionfruit",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1669,
+    "crop_common_name": "Pea, harvested green",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1670,
+    "crop_common_name": "Pennyroyal",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1671,
+    "crop_common_name": "Pepper Brazilian (Brazilian pepper)",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 1672,
+    "crop_common_name": "Plum java (Java palm)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1673,
+    "crop_common_name": "Plum june (June palm)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1675,
+    "crop_common_name": "Purslane",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1676,
+    "crop_common_name": "Pyrethrum",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1678,
+    "crop_common_name": "Quinine",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1679,
+    "crop_common_name": "Rambutan",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1681,
+    "crop_common_name": "Rhea, Ramie",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1682,
+    "crop_common_name": "Rocoto pepper",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1683,
+    "crop_common_name": "Rose",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1778,
+    "crop_common_name": "Tester",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1756,
+    "crop_common_name": "Lulo",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1687,
+    "crop_common_name": "Rosemary",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 177,
+    "crop_common_name": "Rosemary ",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 1133,
+    "crop_common_name": "Rosemary  - R",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 1689,
+    "crop_common_name": "Saffron",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 1690,
+    "crop_common_name": "Sainfoin",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1691,
+    "crop_common_name": "Sangra d'agua",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1693,
+    "crop_common_name": "Schott (Mangarito)",
+    "crop_group": "Potatoes and yams"
+  },
+  {
+    "crop_id": 1695,
+    "crop_common_name": "Sessile joyweed",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1696,
+    "crop_common_name": "Shea tree",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1697,
+    "crop_common_name": "Soapberry (Saboneteira)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1698,
+    "crop_common_name": "Sorrel",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1699,
+    "crop_common_name": "Soursop",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1700,
+    "crop_common_name": "Southern Blue Gum (Eucalipto glóbulus)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1701,
+    "crop_common_name": "Soybean hay",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1702,
+    "crop_common_name": "Spelt",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1703,
+    "crop_common_name": "St John's Wort",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1704,
+    "crop_common_name": "Starfruit",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1705,
+    "crop_common_name": "Stevia",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1707,
+    "crop_common_name": "Sugarcane for fodder",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1708,
+    "crop_common_name": "Sugarcane for thatching",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1709,
+    "crop_common_name": "Sunflower for fodder",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1710,
+    "crop_common_name": "Sunflower for oil seed",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1711,
+    "crop_common_name": "Swede for fodder",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1712,
+    "crop_common_name": "Sweet pepper",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1779,
+    "crop_common_name": "Mystery Fruit",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1757,
+    "crop_common_name": "Tomarillo",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1714,
+    "crop_common_name": "Tangerine",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1715,
+    "crop_common_name": "Thyme",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 176,
+    "crop_common_name": "Thyme",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 1132,
+    "crop_common_name": "Thyme - Thyme",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 1716,
+    "crop_common_name": "Timothy Grass",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1719,
+    "crop_common_name": "Trefoil",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1721,
+    "crop_common_name": "Tropical almond tree (Amendoeira da praia, sete copas)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1722,
+    "crop_common_name": "Tung tree",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1723,
+    "crop_common_name": "Turmeric",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 1726,
+    "crop_common_name": "Velvet bean",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1727,
+    "crop_common_name": "Vetch for grain",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1728,
+    "crop_common_name": "West indian gherkin",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1730,
+    "crop_common_name": "Yacon",
+    "crop_group": "High starch root/tuber crops"
+  },
+  {
+    "crop_id": 1479,
+    "crop_common_name": "Yacon - jícama común",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1731,
+    "crop_common_name": "Yerba mate",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 1732,
+    "crop_common_name": "Zucchini",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1230,
+    "crop_common_name": "Squash - Zucchini",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1250,
+    "crop_common_name": "Squash - Golden Zucchini",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1251,
+    "crop_common_name": "Squash - Zucchini jackpot, organic",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1332,
+    "crop_common_name": "Zucchini - cronch",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1758,
+    "crop_common_name": "Tamarillo",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1759,
+    "crop_common_name": "Rainbow fruit",
+    "crop_group": "Potatoes and yams"
+  },
+  {
+    "crop_id": 1760,
+    "crop_common_name": "d",
+    "crop_group": "Beverage and spice crops"
+  },
+  {
+    "crop_id": 2,
+    "crop_common_name": "Coffee",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 3,
+    "crop_common_name": "Hops",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 4,
+    "crop_common_name": "Mint (all varieties)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 5,
+    "crop_common_name": "Cacao (cocoa)",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 7,
+    "crop_common_name": "Millet (Japanese)",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 8,
+    "crop_common_name": "Millet (finger)",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 9,
+    "crop_common_name": "Barley",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1190,
+    "crop_common_name": "Barley - Purple",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1196,
+    "crop_common_name": "Barley - Black Alberta (Prairie Garden Seeds)",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1227,
+    "crop_common_name": "Barley - Hulless Black",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 10,
+    "crop_common_name": "Rice (African)",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 11,
+    "crop_common_name": "Rice",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1493,
+    "crop_common_name": "Rice",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1113,
+    "crop_common_name": "Rice - Common",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 12,
+    "crop_common_name": "Millet (proso)",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 13,
+    "crop_common_name": "Millet (bajra, pearl)",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1263,
+    "crop_common_name": "Rye - Fall",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 15,
+    "crop_common_name": "Millet (foxtail)",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 17,
+    "crop_common_name": "Sorghum broom (broom corn)",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 19,
+    "crop_common_name": "Sorghum",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 20,
+    "crop_common_name": "Wheat",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1192,
+    "crop_common_name": "Wheat - Kamut/Khorosan",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1193,
+    "crop_common_name": "Wheat - Arabian Bkue",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1194,
+    "crop_common_name": "Wheat - Brazilian Laura’s (Salt Spring Seeds)",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1264,
+    "crop_common_name": "Wheat - No idea",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 21,
+    "crop_common_name": "Pineapple",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 22,
+    "crop_common_name": "Grapefruit",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 23,
+    "crop_common_name": "Strawberry",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1123,
+    "crop_common_name": "Strawberry - Everbearing",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1136,
+    "crop_common_name": "Strawberry - Duke",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1150,
+    "crop_common_name": "Strawberry - june bearing",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1216,
+    "crop_common_name": "Strawberry - everbearing",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 24,
+    "crop_common_name": "Walnut",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 25,
+    "crop_common_name": "Apple",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1089,
+    "crop_common_name": "Apple - Hello",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1092,
+    "crop_common_name": "Apple - Crispy",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1101,
+    "crop_common_name": "Apple - mixed",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1116,
+    "crop_common_name": "Apple - Common",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1117,
+    "crop_common_name": "Apple - Shimla",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1137,
+    "crop_common_name": "Apple - ambrosia",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1145,
+    "crop_common_name": "Apple - Big",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1147,
+    "crop_common_name": "Apple - Small",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1149,
+    "crop_common_name": "Apple - Gala",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1177,
+    "crop_common_name": "Apple - Unknown",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1235,
+    "crop_common_name": "Apple - berry",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1278,
+    "crop_common_name": "Apple - Crispy _",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1515,
+    "crop_common_name": "Angico vermelho",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 28,
+    "crop_common_name": "Avocado",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1537,
+    "crop_common_name": "Brazilian grape tree",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1541,
+    "crop_common_name": "Buriti palm (Buriti)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1549,
+    "crop_common_name": "Cega machado",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1552,
+    "crop_common_name": "Cherry barbados (Barbados cherry)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1553,
+    "crop_common_name": "Cherry surinam (Surinam cherry)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1555,
+    "crop_common_name": "Chichá do cerrado",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1559,
+    "crop_common_name": "Chupa-chupa",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1565,
+    "crop_common_name": "Cochineal cactus (Palma / nopal)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1571,
+    "crop_common_name": "Corn salad",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 130,
+    "crop_common_name": "Cowpea, for grain",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1575,
+    "crop_common_name": "Cupuaçu",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1569,
+    "crop_common_name": "Copaíba",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 156,
+    "crop_common_name": "Endive",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1580,
+    "crop_common_name": "Espinheira santa",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1581,
+    "crop_common_name": "Ethiopian nightshade",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1589,
+    "crop_common_name": "Gooseberry barbados (Barbados gooseberry)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1587,
+    "crop_common_name": "Geranium spp.",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1598,
+    "crop_common_name": "Guaraná",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1599,
+    "crop_common_name": "Gueroba",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1603,
+    "crop_common_name": "Henequen",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1606,
+    "crop_common_name": "Ice-cream bean",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1607,
+    "crop_common_name": "Imburana de cheiro, cumaru nordestino",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1613,
+    "crop_common_name": "Jatobá do cerrado",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1615,
+    "crop_common_name": "Jointed flatsedge",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1618,
+    "crop_common_name": "Lamb's-ear",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1625,
+    "crop_common_name": "Lipstick tree",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1627,
+    "crop_common_name": "Loquat",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1630,
+    "crop_common_name": "Macaw palm (Macaúba)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1632,
+    "crop_common_name": "Maize for silage",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1638,
+    "crop_common_name": "Marang",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1639,
+    "crop_common_name": "Marcela",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1643,
+    "crop_common_name": "Mignonette vine",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1646,
+    "crop_common_name": "Mocambo tree",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 1647,
+    "crop_common_name": "Mombin purple (Purple mombin or Spanish plum)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1648,
+    "crop_common_name": "Mombin yellow (Yellow mombin)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1650,
+    "crop_common_name": "Monkey pepper (Pimenta de macaco)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1651,
+    "crop_common_name": "Mulberry for silkworms",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1652,
+    "crop_common_name": "Mulberry indian (Indian mulberry)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1653,
+    "crop_common_name": "Mulungu",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 132,
+    "crop_common_name": "Mustard, for seed",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 6,
+    "crop_common_name": "Oats, for grain",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1655,
+    "crop_common_name": "Oca",
+    "crop_group": "High starch root/tuber crops"
+  },
+  {
+    "crop_id": 134,
+    "crop_common_name": "Oil palm",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1660,
+    "crop_common_name": "Oppositeleaf Russian thistle",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 108,
+    "crop_common_name": "Persimmon",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1674,
+    "crop_common_name": "Pumpkin, for fodder",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1677,
+    "crop_common_name": "Quickstick",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1680,
+    "crop_common_name": "Redtop",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1684,
+    "crop_common_name": "Rose apple",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1685,
+    "crop_common_name": "Rose Gum Eucalyptus (Eucalipto grandis)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1686,
+    "crop_common_name": "Roselle",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1688,
+    "crop_common_name": "Saba Nut (Castanha do maranhão)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1692,
+    "crop_common_name": "Satsuma (manderine/tangerine)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1694,
+    "crop_common_name": "Scorzonera black salsify",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1706,
+    "crop_common_name": "Strawberry guava",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1167,
+    "crop_common_name": "Beet - Boro",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 1713,
+    "crop_common_name": "Tahitian gooseberry tree",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1717,
+    "crop_common_name": "Tingui",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1718,
+    "crop_common_name": "Tree spinach",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1,
+    "crop_common_name": "Tea",
+    "crop_group": "Stimulant, spice and aromatic crops"
+  },
+  {
+    "crop_id": 86,
+    "crop_common_name": "Tef",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1724,
+    "crop_common_name": "Urena (congo jute)",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1725,
+    "crop_common_name": "Uvaia",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1729,
+    "crop_common_name": "West Indian locust (Jatobá da mata)",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1504,
+    "crop_common_name": "qw",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1505,
+    "crop_common_name": "New crop",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1488,
+    "crop_common_name": "Test Crop Name",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1380,
+    "crop_common_name": "Tomate - Monterone",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1381,
+    "crop_common_name": "Tomate - New girl",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1382,
+    "crop_common_name": "Tomate - Mountain fresh",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1386,
+    "crop_common_name": "Poroton - Frijol ancestral",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1338,
+    "crop_common_name": "Aster - Tower Series",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1339,
+    "crop_common_name": "Monarda - Various",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1340,
+    "crop_common_name": "Strawflower - Various",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1341,
+    "crop_common_name": "Cosmos - Various",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1383,
+    "crop_common_name": "Tomate - Donattello",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1387,
+    "crop_common_name": "Poroton frijol ancestral - Frijol de árbol ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1489,
+    "crop_common_name": "TEST CROP 2",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1342,
+    "crop_common_name": "Açaí - Açaí Juçara",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1384,
+    "crop_common_name": "Rucula  - Rucula",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1343,
+    "crop_common_name": "Abacate - Juçara",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1490,
+    "crop_common_name": "Lupino",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1412,
+    "crop_common_name": "Kobe - Kobe",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1413,
+    "crop_common_name": "perejil  - Italiano ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1414,
+    "crop_common_name": "Culantro  - Comun",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1415,
+    "crop_common_name": "cuyes - nativos ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1416,
+    "crop_common_name": "cuyes - cuyes ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1417,
+    "crop_common_name": "conejo - comun",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1204,
+    "crop_common_name": "Maize (sweet corn) - Allure F1",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 178,
+    "crop_common_name": "Echinacea",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 179,
+    "crop_common_name": "Oats, Betagene",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 181,
+    "crop_common_name": "Haskap Berry",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1491,
+    "crop_common_name": "Crazy crop",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 184,
+    "crop_common_name": "Chrysanthemum ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 185,
+    "crop_common_name": "Marigold",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 186,
+    "crop_common_name": "Bietina",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 187,
+    "crop_common_name": "Cover crop",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1492,
+    "crop_common_name": "Lupino",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1103,
+    "crop_common_name": "Hay - dry premium forage",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1494,
+    "crop_common_name": "new crop111",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1119,
+    "crop_common_name": "Maize (sweet corn) - Corn",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1121,
+    "crop_common_name": "Pea - Winter pea",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1495,
+    "crop_common_name": "New crop",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1496,
+    "crop_common_name": "2",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1497,
+    "crop_common_name": "3",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1498,
+    "crop_common_name": "4",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1163,
+    "crop_common_name": "Echinacea - Echinacea",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1500,
+    "crop_common_name": "7",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1178,
+    "crop_common_name": "Haskap Berry - Several",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1179,
+    "crop_common_name": "Oats - Streaker, Hulless",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1499,
+    "crop_common_name": "5",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1501,
+    "crop_common_name": "8",
+    "crop_group": "Potatoes and yams"
+  },
+  {
+    "crop_id": 1502,
+    "crop_common_name": "9",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 1503,
+    "crop_common_name": "00",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1195,
+    "crop_common_name": "Oats - Vicar Hulless (Prairie Garden Seeds)",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1189,
+    "crop_common_name": "Pea - Dwarf grey",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1219,
+    "crop_common_name": "Cabbage - Red Express",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1223,
+    "crop_common_name": "Cover crop - Various",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1225,
+    "crop_common_name": "Bietina - Salt Spring Seeds",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1228,
+    "crop_common_name": "Oats - Baton Hulless",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1231,
+    "crop_common_name": "Chrysanthemum  - Edible",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1243,
+    "crop_common_name": "Marigold - Mixed",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1256,
+    "crop_common_name": "Cover crop - Fava bean, Daikon, Hairy Vetch in compost covered rows",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1265,
+    "crop_common_name": "Hay - dry premium forage1",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1266,
+    "crop_common_name": "Hay - dry premium forage2",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1280,
+    "crop_common_name": "Maize (sweet corn) - Corn1",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1289,
+    "crop_common_name": "Camote - Camote morado",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1290,
+    "crop_common_name": "Acelga - Acelga",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1291,
+    "crop_common_name": "Amaranto - Kiwicha",
+    "crop_group": "Cereals"
+  },
+  {
+    "crop_id": 1309,
+    "crop_common_name": "Cabbage - Repollo especial",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1310,
+    "crop_common_name": "Papa nabo - Papa Nabo",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1315,
+    "crop_common_name": "Rúcula - Folha Larga",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1318,
+    "crop_common_name": "Platano - Cuerno enano ",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1319,
+    "crop_common_name": "Wild Grasses - Wild",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1320,
+    "crop_common_name": "Acelga - Acelga verde",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1324,
+    "crop_common_name": "Laranja Valencia - Valencia",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1331,
+    "crop_common_name": "Guadua - Guadua Bamboo",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1333,
+    "crop_common_name": "Cabbage - Coocoo for cabbage puffs",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1418,
+    "crop_common_name": "Carrot - Carrot",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1419,
+    "crop_common_name": "Vinagreira  - Hibisco",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1420,
+    "crop_common_name": "Palmeira Juçara - Juçara",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1421,
+    "crop_common_name": "Cebolinha - Cebolinha Verde ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1422,
+    "crop_common_name": "Farm Structures - Sheds",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1423,
+    "crop_common_name": "Land Reclamation - Land Reclamation",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1424,
+    "crop_common_name": "Land Reclamation - Jiva",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1425,
+    "crop_common_name": "Land Reclamation - JCB",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1426,
+    "crop_common_name": "Solar Power - Repairs",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1427,
+    "crop_common_name": "Salaries - Supervisors",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1428,
+    "crop_common_name": "Salaries - Manager",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1429,
+    "crop_common_name": "Cuy - cuy",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1430,
+    "crop_common_name": "Gallinas - Criollas",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1431,
+    "crop_common_name": "Chigualcan - Vasconcellea Pubescens",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1432,
+    "crop_common_name": "Taxo - Curuba",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1433,
+    "crop_common_name": "Taxo - Curubas",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1435,
+    "crop_common_name": "Acedera - Común",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1436,
+    "crop_common_name": "Jiló - Jiló",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1437,
+    "crop_common_name": "Gallinas - Criolla",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1438,
+    "crop_common_name": "Pimentão  - chinês",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1439,
+    "crop_common_name": "Taxo - Curubas",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1440,
+    "crop_common_name": "Poejo  - Poejo ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1441,
+    "crop_common_name": "Vacas - Criollas",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1442,
+    "crop_common_name": "Manjerona  - Manjerona ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1443,
+    "crop_common_name": "Malva - malva ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1444,
+    "crop_common_name": "Orégano  - Orégano limão ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1445,
+    "crop_common_name": "Rúcula  - Rúcula ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1446,
+    "crop_common_name": "Feijão - Guandú",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1448,
+    "crop_common_name": "Tomillo - Thymus vulgarys",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1449,
+    "crop_common_name": "Ora-pro-nobis - Ora-pro-nobis",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1450,
+    "crop_common_name": "Cidreira - Erva Cidreira ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1451,
+    "crop_common_name": "Acerola  - Acerola",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1452,
+    "crop_common_name": "Maracujá - Maracujá",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1453,
+    "crop_common_name": "Boldo - Boldo",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1454,
+    "crop_common_name": "Salsinha - Salsinha",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1455,
+    "crop_common_name": "Peixinho da horta  - -",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1457,
+    "crop_common_name": "Manjericão  - Roxo",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1458,
+    "crop_common_name": "Alho  - Nirá ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1459,
+    "crop_common_name": "Babosa - Babosa",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1460,
+    "crop_common_name": "Inhame - Chinês",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1461,
+    "crop_common_name": "Losna  - .",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1462,
+    "crop_common_name": "Pitanga  - Pitanga ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1463,
+    "crop_common_name": "Araçá - Araçá",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1464,
+    "crop_common_name": "Amendoeira - Amendoeira da praia ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1465,
+    "crop_common_name": "Sálvia  - Sálvia",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1466,
+    "crop_common_name": "Lipia - Lipia",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1467,
+    "crop_common_name": "Alecrim  - Alecrim ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1468,
+    "crop_common_name": "Alface  - Alface",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1469,
+    "crop_common_name": "Arnica - Arnica",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1470,
+    "crop_common_name": "Salsão  - -",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1471,
+    "crop_common_name": "Escarola - Chicória",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1472,
+    "crop_common_name": "Hierba Buena - Menta de Jardín",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1473,
+    "crop_common_name": "Borraja - Borago officinalis",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 183,
+    "crop_common_name": "Fava Bean",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1114,
+    "crop_common_name": "Beans - Champion",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1139,
+    "crop_common_name": "Beans - Maxibel",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1162,
+    "crop_common_name": "Beans - Andy’s Broad",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1181,
+    "crop_common_name": "Fava Bean - Fordhook ",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1183,
+    "crop_common_name": "Pea - Various",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1191,
+    "crop_common_name": "Pea - Cascadia",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1203,
+    "crop_common_name": "Beans - Red kidney",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1206,
+    "crop_common_name": "Beans - Provider Bush Snap ",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1208,
+    "crop_common_name": "Broad bean - Aztec Red Kidney",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1209,
+    "crop_common_name": "Pea - summer",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1212,
+    "crop_common_name": "Beans - Slenderette Bush Snap ",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1220,
+    "crop_common_name": "Pigeon pea - NEGRO",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1233,
+    "crop_common_name": "Pea - Sugar Daddy",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1238,
+    "crop_common_name": "Beans - E-Z Pick OG Bush Beans, organic",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1252,
+    "crop_common_name": "Beans - Cortex pole",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1253,
+    "crop_common_name": "Pea - Purple mist snow, organic",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1254,
+    "crop_common_name": "Pea - Sugar Ann Snap",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1255,
+    "crop_common_name": "Pea - Dolciva, organic",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1261,
+    "crop_common_name": "Beans - Tibetan black",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1262,
+    "crop_common_name": "Beans - Borlitti Drying Beans",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1281,
+    "crop_common_name": "Beans - Berlotti Drying beans",
+    "crop_group": "Leguminous crops"
+  },
+  {
+    "crop_id": 1409,
+    "crop_common_name": "Haskap Berry - Various",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1410,
+    "crop_common_name": "Açafrão  - Açafrão",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1411,
+    "crop_common_name": "Batata - Batata",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1476,
+    "crop_common_name": "Churu yuyu - Común",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1477,
+    "crop_common_name": "Toronjil - Común",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1478,
+    "crop_common_name": "Ruda - Común ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1480,
+    "crop_common_name": "Culantro - Común",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1481,
+    "crop_common_name": "Acelga - Común ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1482,
+    "crop_common_name": "Tomillo - Común",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1483,
+    "crop_common_name": "Perejil - Común",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1485,
+    "crop_common_name": "Granadilla - Común ",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1486,
+    "crop_common_name": "Uvilla - Común",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 1487,
+    "crop_common_name": "Chocho - Blanco",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 168,
+    "crop_common_name": "Hay",
+    "crop_group": "Other crops"
+  },
+  {
+    "crop_id": 171,
+    "crop_common_name": "Cenoura ",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1378,
+    "crop_common_name": "Onion - Red Savonese",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1130,
+    "crop_common_name": "Turnip - White lady",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1146,
+    "crop_common_name": "Onion - Cabernet",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1148,
+    "crop_common_name": "Onion - Zoey",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1152,
+    "crop_common_name": "Carrot - Napoli",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1153,
+    "crop_common_name": "Onion - Talon, Frontier, Red Carpet, Red cabernet",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1157,
+    "crop_common_name": "Beet - Chioggia",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 1159,
+    "crop_common_name": "Carrot - Rainbow",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1166,
+    "crop_common_name": "Garlic - RRG",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1172,
+    "crop_common_name": "Garlic - Various",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1176,
+    "crop_common_name": "Garlic - Russian",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1188,
+    "crop_common_name": "Garlic - Susan delafield",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1213,
+    "crop_common_name": "Carrot - Nantes",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1234,
+    "crop_common_name": "Carrot - Bolero F1",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1294,
+    "crop_common_name": "Jicama - Blanca",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1295,
+    "crop_common_name": "Carrot - Blanca",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1296,
+    "crop_common_name": "Onion - Puerro",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1330,
+    "crop_common_name": "Garlic - Red Russian",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1377,
+    "crop_common_name": "Onion - Parma Gold",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1088,
+    "crop_common_name": "Carrot - Hello",
+    "crop_group": "Vegetables and melons"
+  },
+  {
+    "crop_id": 1105,
+    "crop_common_name": "Beet - Detroit Dark Red",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 1141,
+    "crop_common_name": "Beet - Chigoggia",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 1144,
+    "crop_common_name": "Beet - Merlin",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 1156,
+    "crop_common_name": "Beet - Touchstone Gold",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 1200,
+    "crop_common_name": "Beet - Cylindra",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 1232,
+    "crop_common_name": "Beet - William Dam seeds organic",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 1241,
+    "crop_common_name": "Beet - Chiogga  William Seeds organic",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 1242,
+    "crop_common_name": "Beet - Touchstone Gold organic William Dam Seeds",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 1260,
+    "crop_common_name": "Beet - avc",
+    "crop_group": "Sugar crops"
+  },
+  {
+    "crop_id": 188,
+    "crop_common_name": "Corn",
+    "crop_group": "Oilseed crops and oleaginous fruits"
+  },
+  {
+    "crop_id": 1282,
+    "crop_common_name": "Apple - 23",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1283,
+    "crop_common_name": "Apple - 25",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1284,
+    "crop_common_name": "Apple - 26",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1285,
+    "crop_common_name": "Apple - 7",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1286,
+    "crop_common_name": "Apple - 12",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1287,
+    "crop_common_name": "Apple - 14",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1293,
+    "crop_common_name": "Frensh apples - Juliet",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 26,
+    "crop_common_name": "Banana",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 1222,
+    "crop_common_name": "Banana - asas",
+    "crop_group": "Fruit and nuts"
+  },
+  {
+    "crop_id": 27,
+    "crop_common_name": "Plantain",
+    "crop_group": "Fruit and nuts"
+  }
+]
